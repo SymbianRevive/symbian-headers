@@ -89,5 +89,3 @@ typedef va_list __e32_va_list;
 #ifndef __stdcall
 #define __stdcall __attribute__((stdcall))
 #endif
-
-#include <e32def.h>
