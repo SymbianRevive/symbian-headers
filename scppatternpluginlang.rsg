@@ -1,0 +1,10 @@
+#define R_SET_SEC_CODE_MAX                        0x5bf24003
+#define R_SET_SEC_CODE_MIN                        0x5bf24004
+#define R_SET_SEC_CODE_UPPER_LOWER                0x5bf24005
+#define R_SET_SEC_CODE_LETTERS_NUMBERS            0x5bf24006
+#define R_SET_SEC_CODE_REPEATED                   0x5bf24007
+#define R_SET_SEC_CODE_REPEATED_ONCE              0x5bf24008
+#define R_SET_SEC_CODE_CONSECUTIVE                0x5bf24009
+#define R_SET_SEC_CODE_MIN_SPECIAL_CHARS          0x5bf2400a
+#define R_SET_SEC_CODE_CONSECUTIVE_CHARS          0x5bf2400b
+#define R_SET_SEC_CODE_SINGLE_REPEAT              0x5bf2400c

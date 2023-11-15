@@ -1,0 +1,14 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifPsu2
+	{
+	EMbmPsu2Qgn_prop_nrtyp_sdn = 16384,
+	EMbmPsu2Qgn_prop_nrtyp_sdn_mask = 16385,
+	EMbmPsu2Qgn_prop_nrtyp_sim_contact = 16386,
+	EMbmPsu2Qgn_prop_nrtyp_sim_contact_mask = 16387,
+	EMbmPsu2Qgn_menu_simin = 16388,
+	EMbmPsu2Qgn_menu_simin_mask = 16389,
+	EMbmPsu2Qgn_menu_simfdn = 16390,
+	EMbmPsu2Qgn_menu_simfdn_mask = 16391,
+	EMbmPsu2LastElement
+	};

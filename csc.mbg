@@ -1,0 +1,12 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifCsc
+	{
+	EMbmCscQgn_prop_set_service = 16384,
+	EMbmCscQgn_prop_set_service_mask = 16385,
+	EMbmCscQgn_prop_voip_new_service = 16386,
+	EMbmCscQgn_prop_voip_new_service_mask = 16387,
+	EMbmCscQgn_prop_set_voip_advanced = 16388,
+	EMbmCscQgn_prop_set_voip_advanced_mask = 16389,
+	EMbmCscLastElement
+	};

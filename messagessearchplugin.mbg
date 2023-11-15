@@ -1,0 +1,16 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMessagessearchplugin
+	{
+	EMbmMessagessearchpluginQgn_prop_wml_sms = 16384,
+	EMbmMessagessearchpluginQgn_prop_wml_sms_mask = 16385,
+	EMbmMessagessearchpluginQgn_prop_mce_inbox_small = 16386,
+	EMbmMessagessearchpluginQgn_prop_mce_inbox_small_mask = 16387,
+	EMbmMessagessearchpluginQgn_prop_mce_outbox_small = 16388,
+	EMbmMessagessearchpluginQgn_prop_mce_outbox_small_mask = 16389,
+	EMbmMessagessearchpluginQgn_prop_mce_sent = 16390,
+	EMbmMessagessearchpluginQgn_prop_mce_sent_mask = 16391,
+	EMbmMessagessearchpluginQgn_prop_mce_drafts = 16392,
+	EMbmMessagessearchpluginQgn_prop_mce_drafts_mask = 16393,
+	EMbmMessagessearchpluginLastElement
+	};

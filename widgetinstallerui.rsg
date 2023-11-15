@@ -1,0 +1,17 @@
+#define R_WIDGETUI_INSTALL_PROMPT                 0x72399003
+#define R_WIDGETUI_OVERWRITE_PROMPT               0x72399004
+#define R_WIDGETUI_UNINSTALL_PROMPT               0x72399005
+#define R_WIDGETUI_UNINSTALL_PROGRESS             0x72399006
+#define R_WIDGETUI_PREPARE                        0x72399007
+#define R_WIDGETUI_PROGRESS                       0x72399008
+#define R_WIDGETUI_UNSUPPORTED                    0x72399009
+#define R_WIDGETUI_CORRUPTED                      0x7239900a
+#define R_WIDGETUI_ERR_GENERAL                    0x7239900b
+#define R_WIDGETUI_ERR_INUSE                      0x7239900c
+#define R_WIDGETUI_INSTALL_COMPLETED              0x7239900d
+#define R_WIDGETUI_UNINSTALL_COMPLETED            0x7239900e
+#define R_WIDGETUI_NO_MEMORY                      0x7239900f
+#define R_WIDGETUI_UNINSTALL_CANCELED             0x72399010
+#define R_WIDGETUI_INSTALL_CANCELED               0x72399011
+#define R_WIDGETUI_FINALIZE_INSTALL               0x72399012
+#define R_WIDGETUI_UNINSTALL_HS_PROMPT            0x72399013

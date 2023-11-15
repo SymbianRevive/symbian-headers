@@ -1,0 +1,17 @@
+#define R_GS_MENUBAR_CHANGE_EXIT                  0x4fb59002
+#define R_GS_MENUBAR_OPEN_EXIT                    0x4fb59003
+#define R_GS_MENU_ITEM_OPEN                       0x4fb59004
+#define R_GS_MENU_ITEM_EXIT                       0x4fb59005
+#define R_GS_MENU_ITEM_CHANGE                     0x4fb59006
+#define R_GS_MENU_ITEM_HELP                       0x4fb59007
+#define R_SETTING_LISTBOX                         0x4fb59008
+#define R_GS_CBA_EXIT                             0x4fb59009
+#define R_GS_POWER_SAVING_QUERY_VIEW_CAPTION      0x4fb5900c
+#define R_GS_POWER_SAVING_QUERY_VIEW_TITLE        0x4fb5900d
+#define R_GS_POWER_SAVING_QUERY_VIEW              0x4fb5900e
+#define R_GS_POWERSAVINGQUERY_MENUBAR             0x4fb5900f
+#define R_POWER_SAVING_QUERY_LBX                  0x4fb59010
+#define R_POWER_SAVING_QUERY_SETTING_PAGE         0x4fb59011
+#define R_POWER_SAVING_QUERY_SETTING_PAGE_LBX     0x4fb59012
+#define R_POWER_SAVING_QUERY_ON                   0x4fb59013
+#define R_POWER_SAVING_QUERY_OFF                  0x4fb59014

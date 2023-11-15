@@ -1,0 +1,17 @@
+#define R_FOTASERVER_LOCALISABLE_APP_INFO         0x1fa38004
+#define R_FOTASERVER_DL_PROGRESS_DIALOG           0x1fa38005
+#define R_CONNECTION_NOTE                         0x1fa38006
+#define R_SETTING_APP_LISTBOX                     0x1fa38007
+#define R_SETTING_REMAINDER                       0x1fa38008
+#define R_APPS_FOTA_UPDATING                      0x1fa38009
+#define R_APPS_FOTA_RESTARTING                    0x1fa3800a
+#define R_QTN_DM_TITLE_SETTINGS_DIALOG            0x1fa3800b
+#define R_FOTA_RADIO_DIALOG_1HOUR_REMAINDER       0x1fa3800c
+#define R_FOTA_RADIO_DIALOG_1DAY_REMAINDER        0x1fa3800d
+#define R_FOTA_RADIO_DIALOG_NO_REMAINDER          0x1fa3800e
+#define R_QTN_FOTA_REMINDER_1_MINUTE              0x1fa3800f
+#define R_QTN_FOTA_REMINDER_MINUTES               0x1fa38010
+#define R_QTN_FOTA_REMINDER_HOURS                 0x1fa38011
+#define R_QTN_FOTA_REMINDER_DAYS                  0x1fa38012
+#define R_FOTASERVER_DECRYPTION_PROGRESS_DIALOG   0x1fa38013
+#define R_FOTASERVER_ENCRYPTION_PROGRESS_DIALOG   0x1fa38014

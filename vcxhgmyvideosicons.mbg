@@ -1,0 +1,18 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifVcxhgmyvideosicons
+	{
+	EMbmVcxhgmyvideosiconsQgn_prop_mtv_prog_clip = 16384,
+	EMbmVcxhgmyvideosiconsQgn_prop_mtv_prog_clip_mask = 16385,
+	EMbmVcxhgmyvideosiconsQgn_prop_captured_thumbnail_video = 16386,
+	EMbmVcxhgmyvideosiconsQgn_prop_captured_thumbnail_video_mask = 16387,
+	EMbmVcxhgmyvideosiconsQgn_prop_download_thumbnail_video = 16388,
+	EMbmVcxhgmyvideosiconsQgn_prop_download_thumbnail_video_mask = 16389,
+	EMbmVcxhgmyvideosiconsQgn_prop_ovi_thumbnail_video = 16390,
+	EMbmVcxhgmyvideosiconsQgn_prop_ovi_thumbnail_video_mask = 16391,
+	EMbmVcxhgmyvideosiconsQgn_prop_recent_thumbnail_video = 16392,
+	EMbmVcxhgmyvideosiconsQgn_prop_recent_thumbnail_video_mask = 16393,
+	EMbmVcxhgmyvideosiconsQgn_prop_service_thumbnail_video = 16394,
+	EMbmVcxhgmyvideosiconsQgn_prop_service_thumbnail_video_mask = 16395,
+	EMbmVcxhgmyvideosiconsLastElement
+	};

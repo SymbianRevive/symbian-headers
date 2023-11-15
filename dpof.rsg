@@ -1,0 +1,2 @@
+#define R_QTN_PRINT_DPOF_CONFIRMATION_DIALOG      1
+#define DPOF_CAPABILITIES                         2

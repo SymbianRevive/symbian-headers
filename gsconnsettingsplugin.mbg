@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifGsconnsettingsplugin
+	{
+	EMbmGsconnsettingspluginQgn_prop_cp_conn = 16384,
+	EMbmGsconnsettingspluginQgn_prop_cp_conn_mask = 16385,
+	EMbmGsconnsettingspluginLastElement
+	};

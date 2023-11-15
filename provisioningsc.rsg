@@ -1,0 +1,3 @@
+#define R_TEXT_MEM_SUCS                           1
+#define R_TEXT_PROV_SUCS                          2
+#define R_FROM_SERVICEPROVIDER                    3

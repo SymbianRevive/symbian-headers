@@ -1,0 +1,6 @@
+#define R_STATUS_PANE                             0x5bf4f004
+#define R_SCREENSAVER_COLOR_MODEL                 0x5bf4f005
+#define R_SCREENSAVER_PARAMETERS                  0x5bf4f006
+#define R_SCREENSAVER_INDICATOR_ARRAY             0x5bf4f007
+#define R_SCREENSAVER_INDICATOR_ARRAY_NEW_LAYOUT  0x5bf4f008
+#define R_SCREENSAVER_TIME_USUAL_WITHOUT_AMPM     0x5bf4f009

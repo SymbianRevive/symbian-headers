@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifDevdiagcoveragesuiteplugin
+	{
+	EMbmDevdiagcoveragesuitepluginQgn_prop_cp_diag_coverage = 16384,
+	EMbmDevdiagcoveragesuitepluginQgn_prop_cp_diag_coverage_mask = 16385,
+	EMbmDevdiagcoveragesuitepluginLastElement
+	};

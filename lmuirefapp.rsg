@@ -1,0 +1,6 @@
+#define R_LMUIREFAPP_LOCALISABLE_APP_INFO         0x8f6f004
+#define R_LMUIREFAPP_VIEW                         0x8f6f005
+#define R_LMUIREFAPP_MENUBAR                      0x8f6f006
+#define R_LMUIREFAPP_MENU1                        0x8f6f007
+#define R_LMUIREFAPP_DELETE_LANDMARK              0x8f6f008
+#define R_LMUIREFAPP_QUERY                        0x8f6f009

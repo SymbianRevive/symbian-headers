@@ -1,0 +1,16 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifCalendarsearchplugin
+	{
+	EMbmCalendarsearchpluginQgn_prop_nrtyp_date = 16384,
+	EMbmCalendarsearchpluginQgn_prop_nrtyp_date_mask = 16385,
+	EMbmCalendarsearchpluginQgn_indi_cdr_birthday = 16386,
+	EMbmCalendarsearchpluginQgn_indi_cdr_birthday_mask = 16387,
+	EMbmCalendarsearchpluginQgn_indi_cdr_meeting = 16388,
+	EMbmCalendarsearchpluginQgn_indi_cdr_meeting_mask = 16389,
+	EMbmCalendarsearchpluginQgn_indi_cdr_reminder = 16390,
+	EMbmCalendarsearchpluginQgn_indi_cdr_reminder_mask = 16391,
+	EMbmCalendarsearchpluginQgn_indi_cdr_todo = 16392,
+	EMbmCalendarsearchpluginQgn_indi_cdr_todo_mask = 16393,
+	EMbmCalendarsearchpluginLastElement
+	};

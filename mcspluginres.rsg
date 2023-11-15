@@ -1,0 +1,3 @@
+#define R_MCS_DISABLE_OPEN_ITEM                   0x3f1ce004
+#define R_MCS_DISABLE_OPEN_ITEM_MISSING           0x3f1ce005
+#define R_MCS_DISABLE_OPEN_ITEM_DLG               0x3f1ce006

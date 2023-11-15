@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifAuthtypeplugin
+	{
+	EMbmAuthtypepluginQgn_prop_set_conn_config = 16384,
+	EMbmAuthtypepluginQgn_prop_set_conn_config_mask = 16385,
+	EMbmAuthtypepluginLastElement
+	};

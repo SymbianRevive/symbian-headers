@@ -1,0 +1,2 @@
+#define R_QTN_SERVTAB_UNIPANE_ONENEWMSG           0x2da03002
+#define R_QTN_SERVTAB_UNIPANE_NEWMSGS             0x2da03003

@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifSina_brand_graphics
+	{
+	EMbmSina_brand_graphicsSina = 16384,
+	EMbmSina_brand_graphicsSina_mask = 16385,
+	EMbmSina_brand_graphicsLastElement
+	};

@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifProvisioningcx
+	{
+	EMbmProvisioningcxQgn_menu_set_cxt = 16384,
+	EMbmProvisioningcxQgn_menu_set_cxt_mask = 16385,
+	EMbmProvisioningcxLastElement
+	};

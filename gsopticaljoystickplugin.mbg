@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifGsopticaljoystickplugin
+	{
+	EMbmGsopticaljoystickpluginQgn_prop_cp_opti_joystick = 16384,
+	EMbmGsopticaljoystickpluginQgn_prop_cp_opti_joystick_mask = 16385,
+	EMbmGsopticaljoystickpluginLastElement
+	};

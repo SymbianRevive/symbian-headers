@@ -1,0 +1,6 @@
+#define R_LOCALISABLE_APP_INFO                    0x30409004
+#define R_JAVACAP_MENUBAR                         0x30409005
+#define R_JAVACAP_MENU                            0x30409006
+#define R_JAVACAP_SUB_MENU                        0x30409007
+#define R_JAVACAP_SECPOLICY_SUB_MENU              0x30409008
+#define R_JAVACAP_PREWARM_MENU                    0x30409009

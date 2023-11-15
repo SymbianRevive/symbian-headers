@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifGsaccplugin
+	{
+	EMbmGsaccpluginQgn_prop_set_accessory_sub = 16384,
+	EMbmGsaccpluginQgn_prop_set_accessory_sub_mask = 16385,
+	EMbmGsaccpluginLastElement
+	};

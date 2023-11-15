@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifAol_brand_graphics
+	{
+	EMbmAol_brand_graphicsAol = 16384,
+	EMbmAol_brand_graphicsAol_mask = 16385,
+	EMbmAol_brand_graphicsLastElement
+	};

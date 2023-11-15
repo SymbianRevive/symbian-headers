@@ -1,0 +1,10 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifPbk2rclengine
+	{
+	EMbmPbk2rclengineQgn_prop_cmail_contacts_group = 16384,
+	EMbmPbk2rclengineQgn_prop_cmail_contacts_group_mask = 16385,
+	EMbmPbk2rclengineQgn_indi_cmail_action_arrow_right = 16386,
+	EMbmPbk2rclengineQgn_indi_cmail_action_arrow_right_mask = 16387,
+	EMbmPbk2rclengineLastElement
+	};

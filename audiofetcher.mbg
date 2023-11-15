@@ -1,0 +1,36 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifAudiofetcher
+	{
+	EMbmAudiofetcherQgn_indi_ai_nt_music = 16384,
+	EMbmAudiofetcherQgn_indi_ai_nt_music_mask = 16385,
+	EMbmAudiofetcherQgn_prop_mup_audio = 16386,
+	EMbmAudiofetcherQgn_prop_mup_audio_mask = 16387,
+	EMbmAudiofetcherQgn_prop_fmgr_file_video = 16388,
+	EMbmAudiofetcherQgn_prop_fmgr_file_video_mask = 16389,
+	EMbmAudiofetcherQgn_prop_fmgr_file_voicerec = 16390,
+	EMbmAudiofetcherQgn_prop_fmgr_file_voicerec_mask = 16391,
+	EMbmAudiofetcherQgn_prop_mup_artist = 16392,
+	EMbmAudiofetcherQgn_prop_mup_artist_mask = 16393,
+	EMbmAudiofetcherQgn_prop_mup_album = 16394,
+	EMbmAudiofetcherQgn_prop_mup_album_mask = 16395,
+	EMbmAudiofetcherQgn_prop_mup_genre = 16396,
+	EMbmAudiofetcherQgn_prop_mup_genre_mask = 16397,
+	EMbmAudiofetcherQgn_prop_mup_composer = 16398,
+	EMbmAudiofetcherQgn_prop_mup_composer_mask = 16399,
+	EMbmAudiofetcherQgn_prop_link_embd_small = 16400,
+	EMbmAudiofetcherQgn_prop_link_embd_small_mask = 16401,
+	EMbmAudiofetcherQgn_prop_folder_small = 16402,
+	EMbmAudiofetcherQgn_prop_folder_small_mask = 16403,
+	EMbmAudiofetcherQgn_prop_sml_sync_off = 16404,
+	EMbmAudiofetcherQgn_prop_sml_sync_off_mask = 16405,
+	EMbmAudiofetcherQgn_indi_fmgr_ms_add = 16406,
+	EMbmAudiofetcherQgn_indi_fmgr_ms_add_mask = 16407,
+	EMbmAudiofetcherQgn_indi_mmc_add = 16408,
+	EMbmAudiofetcherQgn_indi_mmc_add_mask = 16409,
+	EMbmAudiofetcherQgn_prop_mce_unknown_read = 16410,
+	EMbmAudiofetcherQgn_prop_mce_unknown_read_mask = 16411,
+	EMbmAudiofetcherQgn_prop_fmgr_file_image = 16412,
+	EMbmAudiofetcherQgn_prop_fmgr_file_image_mask = 16413,
+	EMbmAudiofetcherLastElement
+	};

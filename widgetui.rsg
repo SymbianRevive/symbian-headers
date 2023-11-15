@@ -1,0 +1,16 @@
+#define R_WIDGETUI_WINDOW_VIEW                    0x70287004
+#define R_WIDGETUI_LOCALISABLE_APP_INFO           0x70287005
+#define R_WIDGETUI_WINDOW_VIEW_SOFTKEYS           0x70287006
+#define R_WIDGETUI_WINDOW_VIEW_SOFTKEYS_CANCEL    0x70287007
+#define R_WIDGETUI_WINDOW_VIEW_SOFTKEYS_DONE      0x70287008
+#define R_WIDGETUI_HOTKEYS                        0x70287009
+#define R_WIDGETUI_MENUBAR                        0x7028700a
+#define R_WIDGETUI_MENU                           0x7028700b
+#define R_WIDGETUI_OK_NOTE                        0x7028700c
+#define R_WIDGETUI_NETWORK_ACCESS                 0x7028700d
+#define R_WIDGETUI_SOFTKEY_YES                    0x7028700e
+#define R_WIDGETUI_SOFTKEY_NO                     0x7028700f
+#define R_WIDGETUI_STRICT_MODE_ACCESS             0x70287010
+#define R_WIDGETUI_OOM_EVENT                      0x70287011
+#define R_WIDGETUI_SOFTKEY_EXIT                   0x70287012
+#define R_WIDGETUI_SOFTKEY_OPTION                 0x70287013

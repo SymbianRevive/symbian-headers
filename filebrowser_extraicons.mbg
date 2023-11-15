@@ -1,0 +1,14 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifFilebrowser_extraicons
+	{
+	EMbmFilebrowser_extraiconsQgn_indi_tb_filebrowser_folder_parent = 16384,
+	EMbmFilebrowser_extraiconsQgn_indi_tb_filebrowser_folder_parent_mask = 16385,
+	EMbmFilebrowser_extraiconsQgn_indi_tb_filebrowser_find = 16386,
+	EMbmFilebrowser_extraiconsQgn_indi_tb_filebrowser_find_mask = 16387,
+	EMbmFilebrowser_extraiconsQgn_indi_tb_filebrowser_selection = 16388,
+	EMbmFilebrowser_extraiconsQgn_indi_tb_filebrowser_selection_mask = 16389,
+	EMbmFilebrowser_extraiconsQgn_indi_tb_filebrowser_selection_active = 16390,
+	EMbmFilebrowser_extraiconsQgn_indi_tb_filebrowser_selection_active_mask = 16391,
+	EMbmFilebrowser_extraiconsLastElement
+	};

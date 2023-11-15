@@ -1,0 +1,8 @@
+#define R_SOFT_REJECT_ON                          0x4e70b002
+#define R_SOFT_REJECT_OFF                         0x4e70b003
+#define R_SOFT_REJECT_TEXT                        0x4e70b004
+#define R_SOFT_REJECT_DEFAULT_TXT                 0x4e70b005
+#define R_SOFT_REJECT_TXT_TITLE                   0x4e70b006
+#define R_SETTING_APP_EDWIN                       0x4e70b007
+#define R_TEXT_SETTING_PAGE                       0x4e70b008
+#define R_SOFT_REJECT                             0x4e70b009

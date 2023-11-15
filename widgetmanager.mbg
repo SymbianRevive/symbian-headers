@@ -1,0 +1,10 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifWidgetmanager
+	{
+	EMbmWidgetmanagerQgn_menu_hswidget = 16384,
+	EMbmWidgetmanagerQgn_menu_hswidget_mask = 16385,
+	EMbmWidgetmanagerQgn_menu_ovistore = 16386,
+	EMbmWidgetmanagerQgn_menu_ovistore_mask = 16387,
+	EMbmWidgetmanagerLastElement
+	};

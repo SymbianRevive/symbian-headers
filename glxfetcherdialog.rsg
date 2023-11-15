@@ -1,0 +1,17 @@
+#define R_FETCHER_DIALOG                          0x23d13003
+#define R_FETCHER_MENUBAR                         0x23d13004
+#define R_FETCHER_MENU                            0x23d13005
+#define R_FETCHER_DIALOG_TITLE_IMAGE              0x23d13006
+#define R_FETCHER_DIALOG_TITLE_VIDEO              0x23d13007
+#define R_MULTISELECT_FETCHER_MENUBAR             0x23d13008
+#define R_MULTISELECT_FETCHER_MENU                0x23d13009
+#define R_FETCHER_DIALOG_TITLE_IMAGES             0x23d1300a
+#define R_FETCHER_DIALOG_TITLE_VIDEOS             0x23d1300b
+#define R_MULTISELECT_MARKING_SUBMENU             0x23d1300c
+#define R_MULTISELECT_OK_MENUBAR                  0x23d1300d
+#define R_MULTISELECT_OK_MENU                     0x23d1300e
+#define R_MODAL_SINGLE_DIALOG                     0x23d1300f
+#define R_MODAL_MULTI_DIALOG                      0x23d13010
+#define R_GLX_SOFTKEY_CANCEL                      0x23d13011
+#define R_GLX_MARKING_MARK                        0x23d13012
+#define R_GLX_SOFTKEYS_OPTIONS_CANCEL_CONTEXT     0x23d13013

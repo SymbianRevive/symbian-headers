@@ -1,0 +1,10 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifLandmarks
+	{
+	EMbmLandmarksQgn_prop_lm_names_tab2 = 16384,
+	EMbmLandmarksQgn_prop_lm_names_tab2_mask = 16385,
+	EMbmLandmarksQgn_prop_lm_categories_tab2 = 16386,
+	EMbmLandmarksQgn_prop_lm_categories_tab2_mask = 16387,
+	EMbmLandmarksLastElement
+	};

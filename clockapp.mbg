@@ -1,0 +1,16 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifClockapp
+	{
+	EMbmClockappQgn_indi_alarm_inactive_add = 16384,
+	EMbmClockappQgn_indi_alarm_inactive_add_mask = 16385,
+	EMbmClockappQgn_indi_repeat_add = 16386,
+	EMbmClockappQgn_indi_repeat_add_mask = 16387,
+	EMbmClockappQgn_prop_set_datim_sub = 16388,
+	EMbmClockappQgn_prop_set_datim_sub_mask = 16389,
+	EMbmClockappQgn_prop_clock_homecity = 16390,
+	EMbmClockappQgn_prop_clock_homecity_mask = 16391,
+	EMbmClockappQgn_prop_clock_default = 16392,
+	EMbmClockappQgn_prop_clock_default_mask = 16393,
+	EMbmClockappLastElement
+	};

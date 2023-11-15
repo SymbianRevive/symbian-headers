@@ -1,0 +1,16 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMpxmainview
+	{
+	EMbmMpxmainviewQgn_graf_mup_npv_icon_pause = 16384,
+	EMbmMpxmainviewQgn_graf_mup_npv_icon_pause_mask = 16385,
+	EMbmMpxmainviewQgn_graf_mup_npv_icon_play = 16386,
+	EMbmMpxmainviewQgn_graf_mup_npv_icon_play_mask = 16387,
+	EMbmMpxmainviewQgn_indi_mup_default_album = 16388,
+	EMbmMpxmainviewQgn_indi_mup_default_album_mask = 16389,
+	EMbmMpxmainviewQgn_graf_mup_npv_defalbumart_transp = 16390,
+	EMbmMpxmainviewQgn_graf_mup_npv_defalbumart_transp_mask = 16391,
+	EMbmMpxmainviewQgn_indi_mup_default_album_pcast = 16392,
+	EMbmMpxmainviewQgn_indi_mup_default_album_pcast_mask = 16393,
+	EMbmMpxmainviewLastElement
+	};

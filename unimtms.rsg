@@ -1,0 +1,7 @@
+#define R_MSGTYPE_TEXT_SMS                        0x675cd003
+#define R_MSGTYPE_TEXT_MMS                        0x675cd004
+#define R_MSG_SIZE_KB                             0x675cd005
+#define R_UNI_MMS_MESSAGE_PRIORITY_LOW            0x675cd006
+#define R_UNI_MMS_MESSAGE_PRIORITY_NORMAL         0x675cd007
+#define R_UNI_MMS_MESSAGE_PRIORITY_HIGH           0x675cd008
+#define R_UNI_MTM_FUNCTION_ARRAY                  0x675cd009

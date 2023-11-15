@@ -1,0 +1,2 @@
+#define USB_CONFIG                                0x684fd002
+#define DEVICE_PERSONALITIES                      0x684fd003

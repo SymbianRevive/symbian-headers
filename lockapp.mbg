@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifLockapp
+	{
+	EMbmLockappQgn_graf_phone_locked = 16384,
+	EMbmLockappQgn_graf_phone_locked_mask = 16385,
+	EMbmLockappLastElement
+	};

@@ -1,0 +1,10 @@
+#define R_XUI_TITLE_PANE                          0x669c004
+#define R_XUI_STATUS_PANE                         0x669c005
+#define R_XUI_DEFAULT_SKEY_LIST                   0x669c006
+#define R_QTN_HS_SWITCH_ONLINE                    0x669c007
+#define R_QTN_HS_DISABLE_NETWORK                  0x669c008
+#define R_QTN_HS_AUTOMATIC_OFFLINE                0x669c009
+#define R_QTN_HS_OPERATION_FAILED_NO_DISK         0x669c00a
+#define R_QTN_HS_TITLE_EDITMODE                   0x669c00b
+#define R_YES_NO_HS_ONLINE                        0x669c00c
+#define R_DISABLE_HS_NETWORK                      0x669c00d

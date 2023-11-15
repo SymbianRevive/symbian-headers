@@ -1,0 +1,3 @@
+#define R_LOG_LIT_DATE_FORMAT                     1
+#define R_LOG_CONTACT_MATCH_COUNT                 2
+#define R_LOG_CONTACT_NAME_FORMAT                 3

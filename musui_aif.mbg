@@ -1,0 +1,10 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMusui_aif
+	{
+	EMbmMusui_aifQgn_menu_mus_app_lst = 16384,
+	EMbmMusui_aifQgn_menu_mus_app_lst_mask = 16385,
+	EMbmMusui_aifQgn_menu_mus_app_cxt = 16386,
+	EMbmMusui_aifQgn_menu_mus_app_cxt_mask = 16387,
+	EMbmMusui_aifLastElement
+	};

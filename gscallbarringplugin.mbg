@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifGscallbarringplugin
+	{
+	EMbmGscallbarringpluginQgn_prop_set_barr_sub = 16384,
+	EMbmGscallbarringpluginQgn_prop_set_barr_sub_mask = 16385,
+	EMbmGscallbarringpluginLastElement
+	};

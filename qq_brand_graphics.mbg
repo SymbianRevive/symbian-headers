@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifQq_brand_graphics
+	{
+	EMbmQq_brand_graphicsQq = 16384,
+	EMbmQq_brand_graphicsQq_mask = 16385,
+	EMbmQq_brand_graphicsLastElement
+	};

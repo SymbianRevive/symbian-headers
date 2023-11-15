@@ -1,0 +1,26 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifCbsuiapp
+	{
+	EMbmCbsuiappQgn_indi_cb_hot_add = 16384,
+	EMbmCbsuiappQgn_indi_cb_hot_add_mask = 16385,
+	EMbmCbsuiappQgn_indi_cb_kept_add = 16386,
+	EMbmCbsuiappQgn_indi_cb_kept_add_mask = 16387,
+	EMbmCbsuiappQgn_menu_cb_2 = 16388,
+	EMbmCbsuiappQgn_menu_cb_2_mask = 16389,
+	EMbmCbsuiappQgn_menu_cb = 16390,
+	EMbmCbsuiappQgn_menu_cb_mask = 16391,
+	EMbmCbsuiappQgn_prop_cb_msg = 16392,
+	EMbmCbsuiappQgn_prop_cb_msg_mask = 16393,
+	EMbmCbsuiappQgn_prop_cb_msg_unread = 16394,
+	EMbmCbsuiappQgn_prop_cb_msg_unread_mask = 16395,
+	EMbmCbsuiappQgn_prop_cb_subs = 16396,
+	EMbmCbsuiappQgn_prop_cb_subs_mask = 16397,
+	EMbmCbsuiappQgn_prop_cb_subs_unread = 16398,
+	EMbmCbsuiappQgn_prop_cb_subs_unread_mask = 16399,
+	EMbmCbsuiappQgn_prop_cb_unsubs = 16400,
+	EMbmCbsuiappQgn_prop_cb_unsubs_mask = 16401,
+	EMbmCbsuiappQgn_prop_cb_unsubs_unread = 16402,
+	EMbmCbsuiappQgn_prop_cb_unsubs_unread_mask = 16403,
+	EMbmCbsuiappLastElement
+	};

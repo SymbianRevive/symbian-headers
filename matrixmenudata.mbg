@@ -1,0 +1,22 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMatrixmenudata
+	{
+	EMbmMatrixmenudataQgn_menu_music = 16384,
+	EMbmMatrixmenudataQgn_menu_music_mask = 16385,
+	EMbmMatrixmenudataQgn_menu_group_web = 16386,
+	EMbmMatrixmenudataQgn_menu_group_web_mask = 16387,
+	EMbmMatrixmenudataQgn_menu_photos = 16388,
+	EMbmMatrixmenudataQgn_menu_photos_mask = 16389,
+	EMbmMatrixmenudataQgn_menu_video = 16390,
+	EMbmMatrixmenudataQgn_menu_video_mask = 16391,
+	EMbmMatrixmenudataQgn_menu_group_apps = 16392,
+	EMbmMatrixmenudataQgn_menu_group_apps_mask = 16393,
+	EMbmMatrixmenudataQgn_menu_group_extras = 16394,
+	EMbmMatrixmenudataQgn_menu_group_extras_mask = 16395,
+	EMbmMatrixmenudataQgn_menu_games = 16396,
+	EMbmMatrixmenudataQgn_menu_games_mask = 16397,
+	EMbmMatrixmenudataQgn_menu_group_organiser = 16398,
+	EMbmMatrixmenudataQgn_menu_group_organiser_mask = 16399,
+	EMbmMatrixmenudataLastElement
+	};

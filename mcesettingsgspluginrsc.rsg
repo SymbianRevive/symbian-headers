@@ -1,0 +1,9 @@
+#define R_MCEUI_MAINVIEW_MENUBAR                  0x3f0e2002
+#define R_MCEUI_MAINVIEW_MENUPANE                 0x3f0e2003
+#define R_MCEUI_MAINVIEW_TITLE                    0x3f0e2004
+#define R_QTN_SET_FOLDER_MESSAGING                0x3f0e2005
+#define R_MCEUI_MAIN_VIEW                         0x3f0e2006
+#define R_MCEUI_MAINVIEW_SOFTKEYS                 0x3f0e2007
+#define R_MCEUI_CBS_SETTINGS_TEXT                 0x3f0e2008
+#define R_MCEUI_GENERAL_SETTINGS_TEXT             0x3f0e2009
+#define R_MCE_NOTE_SETTINGS_OPEN_MCE              0x3f0e200a

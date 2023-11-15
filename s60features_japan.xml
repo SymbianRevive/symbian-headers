@@ -1,0 +1,4548 @@
+<?xml version="1.0"?>
+<!DOCTYPE featuredatabase SYSTEM "featuredatabase.dtd">
+
+<!--
+Filename: s60features.xml
+Copyright (c) 2006 Nokia Corporation and/or its subsidiary(-ies).
+All rights reserved.
+This component and the accompanying materials are made available
+under the terms of "Eclipse Public License v1.0"
+which accompanies this distribution, and is available
+at the URL "http://www.eclipse.org/legal/epl-v10.html".
+
+Initial Contributors:
+Nokia Corporation - initial contribution.
+
+Contributors:
+
+Description:
+-->
+
+<featuredatabase>
+
+<featureset ibyname="s60features.iby" hfilename="publicfeatureuids.hrh" namespace="NSdkFeatures">
+<hfileheader interfacestatus="@released" interfacevisibility="@publishedPartner">
+// publicfeatureuids.hrh
+//
+// Copyright (c) Nokia 2007. All rights reserved.
+//...................................................
+</hfileheader>
+<!-- S60 uids -->
+
+<feature  name="KFeatureId3DRingingTones" uid="0x6b8" statusflags="0x1">
+<hrhmacro include="FF_3D_RINGING_TONES"/>
+<comment>
+/** Feature FF_3D_RINGING_TONES*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFf3gCellbroadcast" uid="0xaf" statusflags="0x1">
+<hrhmacro include="FF_3G_CELLBROADCAST"/>
+<comment>
+/** Feature FF_3G_CELLBROADCAST*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfAbcAgressiveUi" uid="0xfc" statusflags="0x0">
+<hrhmacro include="FF_ABC_AGRESSIVE_UI"/>
+<comment>
+/** Feature FF_ABC_AGRESSIVE_UI*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfAdaptiveWlanScanningSupport" uid="0x8c" statusflags="0x0">
+<hrhmacro include="FF_ADAPTIVE_WLAN_SCANNING_SUPPORT"/>
+<comment>
+/** Feature FF_ADAPTIVE_WLAN_SCANNING_SUPPORT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfAdditionalFonts" uid="0xf1" statusflags="0x1">
+<hrhmacro include="FF_ADDITIONAL_FONTS"/>
+<comment>
+/** Feature FF_ADDITIONAL_FONTS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfAiWlansnifferWidget" uid="0xac" statusflags="0x0">
+<hrhmacro include="FF_AI_WLANSNIFFER_WIDGET"/>
+<comment>
+/** Feature FF_AI_WLANSNIFFER_WIDGET*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfAlternativeCallWaitingTone" uid="0x13b" statusflags="0x0">
+<hrhmacro include="FF_ALTERNATIVE_CALL_WAITING_TONE"/>
+<comment>
+/** Feature FF_ALTERNATIVE_CALL_WAITING_TONE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdArabicHandwritingRecognitionInput" uid="0x152" statusflags="0x0">
+<hrhmacro include="FF_ARABIC_HANDWRITING_RECOGNITION_INPUT"/>
+<comment>
+/** Feature FF_ARABIC_HANDWRITING_RECOGNITION_INPUT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdAsynchFileSaveQueue" uid="0x6a7" statusflags="0x1">
+<hrhmacro include="FF_ASYNCH_FILE_SAVE_QUEUE"/>
+<comment>
+/** Feature FF_ASYNCH_FILE_SAVE_QUEUE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfAudt" uid="0x3f" statusflags="0x0">
+<hrhmacro include="FF_AUDT"/>
+<comment>
+/** Feature FF_AUDT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfAutomotivestack" uid="0x14a" statusflags="0x0">
+<hrhmacro include="FF_AUTOMOTIVESTACK"/>
+<comment>
+/** Feature FF_AUTOMOTIVESTACK*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdAutoRedialForVideoCall" uid="0x6bb" statusflags="0x1">
+<hrhmacro include="FF_AUTO_REDIAL_FOR_VIDEO_CALL"/>
+<comment>
+/** Feature FF_AUTO_REDIAL_FOR_VIDEO_CALL*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfAvkonEmotionIconEnabled" uid="0xd3" statusflags="0x1">
+<hrhmacro include="FF_AVKON_EMOTION_ICON_ENABLED"/>
+<comment>
+/** Feature FF_AVKON_EMOTION_ICON_ENABLED*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfBirthdayImprovement" uid="0xbd" statusflags="0x0">
+<hrhmacro include="FF_BIRTHDAY_IMPROVEMENT"/>
+<comment>
+/** Feature FF_BIRTHDAY_IMPROVEMENT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfBluetoothDataProfilesDisabled" uid="0x10f" statusflags="0x24">
+<hrhmacro include="FF_BLUETOOTH_DATA_PROFILES_DISABLED"/>
+<comment>
+/** Feature FF_BLUETOOTH_DATA_PROFILES_DISABLED*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfBluetoothDisabled" uid="0x10e" statusflags="0x24">
+<hrhmacro include="FF_BLUETOOTH_DISABLED"/>
+<comment>
+/** Feature FF_BLUETOOTH_DISABLED*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdBrowserProgressiveDownload" uid="0x6bc" statusflags="0x1">
+<hrhmacro include="FF_BROWSER_PROGRESSIVE_DOWNLOAD"/>
+<comment>
+/** Feature FF_BROWSER_PROGRESSIVE_DOWNLOAD*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfCalDayView" uid="0x132" statusflags="0x0">
+<hrhmacro include="FF_CALENDAR_DAY_VIEW"/>
+<comment>
+/** Feature FF_CALENDAR_DAY_VIEW*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfCalScrollablePreview" uid="0x133" statusflags="0x0">
+<hrhmacro include="FF_CALENDAR_SCROLLABLE_PREVIEW"/>
+<comment>
+/** Feature FF_CALENDAR_SCROLLABLE_PREVIEW*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfCalendarWidget" uid="0x1490" statusflags="0x0">
+<hrhmacro include="FF_CALENDAR_WIDGET"/>
+<comment>
+/** Feature FF_CALENDAR_WIDGET*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfCalMeetingRequestUi" uid="0x128" statusflags="0x0">
+<hrhmacro include="FF_CAL_MEETING_REQUEST_UI"/>
+<comment>
+/** Feature FF_CAL_MEETING_REQUEST_UI*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfCapacitiveDisplay" uid="0xb7" statusflags="0x1">
+<hrhmacro include="FF_CAPACITIVE_DISPLAY"/>
+<comment>
+/** Feature FF_CAPACITIVE_DISPLAY*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdChineseFontsHires" uid="0x8a" statusflags="0x0">
+<hrhmacro include="FF_CHINESE_FONTS_HIRES"/>
+<comment>
+/** Feature FF_CHINESE_FONTS_HIRES*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfChineseSelectionKey" uid="0xe9" statusflags="0x0">
+<hrhmacro include="FF_CHINESE_SELECTION_KEY"/>
+<comment>
+/** Feature FF_CHINESE_SELECTION_KEY*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfClockMultiprocolSupport" uid="0xbe" statusflags="0x0">
+<hrhmacro include="FF_CLOCK_MULTIPROCOL_SUPPORT"/>
+<comment>
+/** Feature FF_CLOCK_MULTIPROCOL_SUPPORT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfCmailIntegration" uid="0xf7" statusflags="0x0">
+<hrhmacro include="FF_CMAIL_INTEGRATION"/>
+<comment>
+/** Feature FF_CMAIL_INTEGRATION*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdCommsDatCreationFromXml" uid="0x43" statusflags="0x0">
+<hrhmacro include="FF_COMMSDAT_CREATION_FROM_XML"/>
+<comment>
+/** Feature FF_COMMSDAT_CREATION_FROM_XML*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfConnectionOverride" uid="0xb3" statusflags="0x1">
+<hrhmacro include="FF_CONNECTION_OVERRIDE"/>
+<comment>
+/** Feature FF_CONNECTION_OVERRIDE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfContactsCompanyNames" uid="0xec" statusflags="0x0">
+<hrhmacro include="FF_CONTACTS_COMPANY_NAMES"/>
+<comment>
+/** Feature FF_CONTACTS_COMPANY_NAMES*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfContactsMerge" uid="0x10c" statusflags="0x1">
+<hrhmacro include="FF_CONTACTS_MERGE"/>
+<comment>
+/** Feature FF_CONTACTS_MERGE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdffContactsMycard" uid="0x10b" statusflags="0x1">
+<hrhmacro include="FF_CONTACTS_MYCARD"/>
+<comment>
+/** Feature FF_CONTACTS_MYCARD*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfContactsNickname" uid="0xb6" statusflags="0x0">
+<hrhmacro include="FF_CONTACTS_NICKNAME"/>
+<comment>
+/** Feature FF_CONTACTS_NICKNAME*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfContactsPredictiveSearch" uid="0xeb" statusflags="0x0">
+<hrhmacro include="FF_CONTACTS_PREDICTIVE_SEARCH"/>
+<comment>
+/** Feature FF_CONTACTS_PREDICTIVE_SEARCH*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfContactsRemoteLookup" uid="0xea" statusflags="0x1">
+<hrhmacro include="FF_CONTACTS_REMOTE_LOOKUP"/>
+<comment>
+/** Feature FF_CONTACTS_REMOTE_LOOKUP*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfContactsSocial" uid="0x111" statusflags="0x1">
+<hrhmacro include="FF_CONTACTS_SOCIAL"/>
+<comment>
+/** Feature FF_CONTACTS_SOCIAL*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfContextProfiles" uid="0xfe" statusflags="0x0">
+<hrhmacro include="FF_CONTEXT_PROFILES"/>
+<comment>
+/** Feature FF_CONTEXT_PROFILES*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfDeviceEncryptionFeature" uid="0xfa" statusflags="0x1">
+<hrhmacro include="FF_DEVICE_ENCRYPTION_FEATURE"/>
+<comment>
+/** Feature FF_DEVICE_ENCRYPTION_FEATURE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfDisableOmaSuplV2" uid="0x134" statusflags="0x0">
+<hrhmacro include="FF_DISABLE_OMA_SUPL_V2"/>
+<comment>
+/** Feature FF_DISABLE_OMA_SUPL_V2*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfDisplayNetworkNameAfterCsRegistration" uid="0x1461" statusflags="0x0">
+<hrhmacro include="FF_DISPLAY_NETWORK_NAME_AFTER_CS_REGISTRATION"/>
+<comment>
+/** Feature FF_DISPLAY_NETWORK_NAME_AFTER_CS_REGISTRATION*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfDmConnmoAdapter" uid="0x115" statusflags="0x0">
+<hrhmacro include="FF_DM_CONNMO_ADAPTER"/>
+<comment>
+/** Feature FF_DM_CONNMO_ADAPTER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdDmInstallSecurity" uid="0x13c9" statusflags="0x0">
+<hrhmacro include="FF_DM_INSTALL_SECURITY"/>
+<comment>
+/** Feature FF_DM_INSTALL_SECURITY*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfDualLanguageSupport" uid="0xc2" statusflags="0x0">
+<hrhmacro include="FF_DUAL_LANGUAGE_SUPPORT"/>
+<comment>
+/** Feature FF_DUAL_LANGUAGE_SUPPORT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdDualModem" uid="0xe6" statusflags="0x0">
+<hrhmacro include="FF_DUAL_MODEM"/>
+<comment>
+/** Feature FF_DUAL_MODEM*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfEmailConversationView" uid="0x158" statusflags="0x2">
+<hrhmacro include="FF_EMAIL_CONVERSATION_VIEW"/>
+<comment>
+/** Feature FF_EMAIL_CONVERSATION_VIEW*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfEmailFramework" uid="0x87" statusflags="0x1">
+<hrhmacro include="FF_EMAIL_FRAMEWORK"/>
+<comment>
+/** Feature FF_EMAIL_FRAMEWORK*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfEmailFullscreenviewer" uid="0x145" statusflags="0x0">
+<hrhmacro include="FF_EMAIL_FULLSCREENVIEWER"/>
+<comment>
+/** Feature FF_EMAIL_FULLSCREENVIEWER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfEmailIpsServices" uid="0x89" statusflags="0x0">
+<hrhmacro include="FF_EMAIL_IPS_SERVICES"/>
+<comment>
+/** Feature FF_EMAIL_IPS_SERVICES*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdEmailMceIntegration" uid="0x7e" statusflags="0x1">
+<hrhmacro include="FF_EMAIL_MCE_INTEGRATION"/>
+<comment>
+/** Feature FF_EMAIL_MCE_INTEGRATION*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfEmailPredictivesearch" uid="0x144" statusflags="0x0">
+<hrhmacro include="FF_EMAIL_PREDICTIVESEARCH"/>
+<comment>
+/** Feature FF_EMAIL_PREDICTIVESEARCH*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfEmailProtocolPlugins" uid="0xd7" statusflags="0x1">
+<hrhmacro include="FF_EMAIL_PROTOCOL_PLUGINS"/>
+<comment>
+/** Feature FF_EMAIL_PROTOCOL_PLUGINS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfEmailUi" uid="0x88" statusflags="0x0">
+<hrhmacro include="FF_EMAIL_UI"/>
+<comment>
+/** Feature FF_EMAIL_UI*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfEmailUiSplitscreen" uid="0x143" statusflags="0x0">
+<hrhmacro include="FF_EMAIL_UI_SPLITSCREEN"/>
+<comment>
+/** Feature FF_EMAIL_UI_SPLITSCREEN*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfEmergencyCbs" uid="0x157" statusflags="0x0">
+<hrhmacro include="FF_EMERGENCY_CBS"/>
+<comment>
+/** Feature FF_EMERGENCY_CBS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdEnableIsiCommunicationInUsbChargingMode" uid="0x135" statusflags="0x5">
+<hrhmacro include="FF_ENABLE_ISI_COMMUNICATION_IN_USB_CHARGING_MODE"/>
+<comment>
+/** Feature FF_ENABLE_ISI_COMMUNICATION_IN_USB_CHARGING_MODE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfEnhancedCalendarEventUi" uid="0x127" statusflags="0x0">
+<hrhmacro include="FF_ENHANCED_CALENDAR_EVENT_UI"/>
+<comment>
+/** Feature FF_ENHANCED_CALENDAR_EVENT_UI*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfEntryPointForVideoShare" uid="0x1469" statusflags="0x0">
+<hrhmacro include="FF_ENTRY_POINT_FOR_VIDEO_SHARE"/>
+<comment>
+/** Feature FF_ENTRY_POINT_FOR_VIDEO_SHARE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfFarsiCalendar" uid="0xd5" statusflags="0x0">
+<hrhmacro include="FF_FARSI_CALENDAR"/>
+<comment>
+/** Feature FF_FARSI_CALENDAR*/
+</comment>
+</feature>
+
+<featureoverride  name="KFeatureIdFmtx" uid="0x6a9" statusflags="0x1">
+<hrhmacro include="FF_FMTX"/>
+<comment>
+/** Feature FF_FMTX*/
+</comment>
+</featureoverride>
+
+<feature  name="KFeatureIdFfFmtxRdsText" uid="0xdc" statusflags="0x0">
+<hrhmacro include="FF_FMTX_RDS_TEXT"/>
+<comment>
+/** Feature FF_FMTX_RDS_TEXT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfFotaCheckLimitation" uid="0x146" statusflags="0x0">
+<hrhmacro include="FF_FOTA_CHECK_LIMITATION"/>
+<comment>
+/** Feature FF_FOTA_CHECK_LIMITATION*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFullscrHwrInput" uid="0x42" statusflags="0x0">
+<hrhmacro include="FF_FULLSCR_HWR_INPUT"/>
+<comment>
+/** Feature FF_FULLSCR_HWR_INPUT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfGenericAccessNetwork" uid="0x101" statusflags="0x0">
+<hrhmacro include="FF_GENERIC_ACCESS_NETWORK"/>
+<comment>
+/** Feature FF_GENERIC_ACCESS_NETWORK*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfGenericFontsAssets" uid="0xbc" statusflags="0x0">
+<hrhmacro include="FF_GENERIC_FONTS_ASSETS"/>
+<comment>
+/** Feature FF_GENERIC_FONTS_ASSETS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfHdmi" uid="0xa9" statusflags="0x0">
+<hrhmacro include="FF_HDMI"/>
+<comment>
+/** Feature FF_HDMI*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfHelpTutorialMerge" uid="0xa4" statusflags="0x0">
+<hrhmacro include="FF_HELP_TUTORIAL_MERGE"/>
+<comment>
+/** Feature FF_HELP_TUTORIAL_MERGE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfHijriCalendar" uid="0xd4" statusflags="0x0">
+<hrhmacro include="FF_HIJRI_CALENDAR"/>
+<comment>
+/** Feature FF_HIJRI_CALENDAR*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdHitchcockAppShell" uid="0x6ac" statusflags="0x0">
+<hrhmacro include="FF_HITCHCOCK_APP_SHELL"/>
+<comment>
+/** Feature FF_HITCHCOCK_APP_SHELL*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfHomescreenSwitchableRoot" uid="0x9a" statusflags="0x0">
+<hrhmacro include="FF_HOMESCREEN_SWITCHABLE_ROOT"/>
+<comment>
+/** Feature FF_HOMESCREEN_SWITCHABLE_ROOT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdProductIncludesHomeScreenEasyDialing" uid="0x13dd" statusflags="0x1">
+<hrhmacro include="FF_HOME_SCREEN_EASY_DIALING"/>
+<comment>
+/** Feature FF_HOME_SCREEN_EASY_DIALING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfHomeScreenVanityDialing" uid="0x13ea" statusflags="0x0">
+<hrhmacro include="FF_HOME_SCREEN_VANITY_DIALING"/>
+<comment>
+/** Feature FF_HOME_SCREEN_VANITY_DIALING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdIAUpdate" uid="0x1e" statusflags="0x25">
+<hrhmacro include="FF_IAUPDATE"/>
+<comment>
+/** Feature FF_IAUPDATE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfIaupdatePhase2" uid="0xb9" statusflags="0x1">
+<hrhmacro include="FF_IAUPDATE_PHASE2"/>
+<comment>
+/** Feature FF_IAUPDATE_PHASE2*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfIce" uid="0x15d" statusflags="0x0">
+<hrhmacro include="FF_ICE"/>
+<comment>
+/** Feature FF_ICE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfImageEditor" uid="0xff" statusflags="0x0">
+<hrhmacro include="FF_IMAGE_EDITOR"/>
+<comment>
+/** Feature FF_IMAGE_EDITOR*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfImsDeregistrationInOffline" uid="0x146e" statusflags="0x0">
+<hrhmacro include="FF_IMS_DEREGISTRATION_IN_OFFLINE"/>
+<comment>
+/** Feature FF_IMS_DEREGISTRATION_IN_OFFLINE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfImsDeregistrationInRfs" uid="0x146f" statusflags="0x0">
+<hrhmacro include="FF_IMS_DEREGISTRATION_IN_RFS"/>
+<comment>
+/** Feature FF_IMS_DEREGISTRATION_IN_RFS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfImsDeregistrationInVpn" uid="0x1459" statusflags="0x0">
+<hrhmacro include="FF_IMS_DEREGISTRATION_IN_VPN"/>
+<comment>
+/** Feature FF_IMS_DEREGISTRATION_IN_VPN*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfInputsPerOrientation" uid="0xc0" statusflags="0x0">
+<hrhmacro include="FF_INPUTS_PER_ORIENTATION"/>
+<comment>
+/** Feature FF_INPUTS_PER_ORIENTATION*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfIntelligentTextInput" uid="0xd8" statusflags="0x0">
+<hrhmacro include="FF_INTELLIGENT_TEXT_INPUT"/>
+<comment>
+/** Feature FF_INTELLIGENT_TEXT_INPUT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfItiVirtualTouchFirstGenerationSupport" uid="0xda" statusflags="0x0">
+<hrhmacro include="FF_ITI_VIRTUAL_TOUCH_FIRST_GENERATION_SUPPORT"/>
+<comment>
+/** Feature FF_ITI_VIRTUAL_TOUCH_FIRST_GENERATION_SUPPORT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfJavaGlobalIndicatorsApi" uid="0x86" statusflags="0x0">
+<hrhmacro include="FF_JAVA_GLOBAL_INDICATORS_API"/>
+<comment>
+/** Feature FF_JAVA_GLOBAL_INDICATORS_API*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfKeypadNoSendKey" uid="0x116" statusflags="0x0">
+<hrhmacro include="FF_KEYPAD_NO_SEND_KEY"/>
+<comment>
+/** Feature FF_KEYPAD_NO_SEND_KEY*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdKorean" uid="0xb4" statusflags="0x0">
+<hrhmacro include="FF_KOREAN"/>
+<comment>
+/** Feature FF_KOREAN*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfLayout480640Vga3" uid="0xf0" statusflags="0x0">
+<hrhmacro include="FF_LAYOUT_480_640_VGA3"/>
+<comment>
+/** Feature FF_LAYOUT_480_640_VGA3*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfLayout640480Vga3" uid="0xef" statusflags="0x0">
+<hrhmacro include="FF_LAYOUT_640_480_VGA3"/>
+<comment>
+/** Feature FF_LAYOUT_640_480_VGA3*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfLimitedMessageAndAlarmToneSize" uid="0x12c" statusflags="0x0">
+<hrhmacro include="FF_LIMITED_MESSAGE_AND_ALARM_TONE_SIZE"/>
+<comment>
+/** Feature FF_LIMITED_MESSAGE_AND_ALARM_TONE_SIZE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfLinkedFontsChinese" uid="0x9f" statusflags="0x0">
+<hrhmacro include="FF_LINKED_FONTS_CHINESE"/>
+<comment>
+/** Feature FF_LINKED_FONTS_CHINESE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfLocationsysuiHidePositioningMenu" uid="0x1468" statusflags="0x0">
+<hrhmacro include="FF_LOCATIONSYSUI_HIDE_POSITIONING_MENU"/>
+<comment>
+/** Feature FF_LOCATIONSYSUI_HIDE_POSITIONING_MENU*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfLocationMwApeCentricArchSupport" uid="0x102" statusflags="0x0">
+<hrhmacro include="FF_LOCATION_MW_APE_CENTRIC_ARCH_SUPPORT"/>
+<comment>
+/** Feature FF_LOCATION_MW_APE_CENTRIC_ARCH_SUPPORT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdM3gIconResources" uid="0x6ab" statusflags="0x0">
+<hrhmacro include="FF_M3G_ICON_RESOURCES"/>
+<comment>
+/** Feature FF_M3G_ICON_RESOURCES*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfManualSelectionPopulatedPlmnList" uid="0x1440" statusflags="0x0">
+<hrhmacro include="FF_MANUAL_SELECTION_POPULATED_PLMN_LIST"/>
+<comment>
+/** Feature FF_MANUAL_SELECTION_POPULATED_PLMN_LIST*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfMasterResetAndClearSubmenu" uid="0x144b" statusflags="0x0">
+<hrhmacro include="FF_MASTER_RESET_AND_CLEAR_SUBMENU"/>
+<comment>
+/** Feature FF_MASTER_RESET_AND_CLEAR_SUBMENU*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfMecoXmpp" uid="0xe8" statusflags="0x0">
+<hrhmacro include="FF_MECO_XMPP"/>
+<comment>
+/** Feature FF_MECO_XMPP*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfMeetingRequestUi" uid="0xae" statusflags="0x0">
+<hrhmacro include="FF_MEETING_REQUEST_UI"/>
+<comment>
+/** Feature FF_MEETING_REQUEST_UI*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfMenuTexturePreloading" uid="0x76" statusflags="0x0">
+<hrhmacro include="FF_MENU_TEXTURE_PRELOADING"/>
+<comment>
+/** Feature FF_MENU_TEXTURE_PRELOADING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfMobilityManagementErrors" uid="0x146c" statusflags="0x0">
+<hrhmacro include="FF_MOBILITY_MANAGEMENT_ERRORS"/>
+<comment>
+/** Feature FF_MOBILITY_MANAGEMENT_ERRORS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdS60MtpController" uid="0x110" statusflags="0x1">
+<hrhmacro include="FF_MTP_CONTROLLER"/>
+<comment>
+/** Feature FF_MTP_CONTROLLER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfMusicPathPlugin" uid="0x1470" statusflags="0x0">
+<hrhmacro include="FF_MUSIC_PATH_PLUGIN"/>
+<comment>
+/** Feature FF_MUSIC_PATH_PLUGIN*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfNcdEngine" uid="0x3d" statusflags="0x1">
+<hrhmacro include="FF_NCD_ENGINE"/>
+<comment>
+/** Feature FF_NCD_ENGINE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfNcdUi" uid="0x3e" statusflags="0x1">
+<hrhmacro include="FF_NCD_UI"/>
+<comment>
+/** Feature FF_NCD_UI*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdNfc" uid="0x75" statusflags="0x0">
+<hrhmacro include="FF_NEAR_FIELD_COMMUNICATION"/>
+<comment>
+/** Feature FF_NEAR_FIELD_COMMUNICATION*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdNltSupport" uid="0x9b" statusflags="0x0">
+<hrhmacro include="FF_NLT_SUPPORT"/>
+<comment>
+/** Feature FF_NLT_SUPPORT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfNoCugSupport" uid="0xc3" statusflags="0x0">
+<hrhmacro include="FF_NO_CUG_SUPPORT"/>
+<comment>
+/** Feature FF_NO_CUG_SUPPORT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdNoIdleSoftkeys" uid="0x44" statusflags="0x0">
+<hrhmacro include="FF_NO_IDLE_SOFTKEYS"/>
+<comment>
+/** Feature FF_NO_IDLE_SOFTKEYS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfOdeLegalNotice" uid="0xd9" statusflags="0x0">
+<hrhmacro include="FF_ODE_COPYRIGHT_NOTICE"/>
+<comment>
+/** Feature FF_ODE_COPYRIGHT_NOTICE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfOfnFeature" uid="0xc1" statusflags="0x0">
+<hrhmacro include="FF_OFN_FEATURE"/>
+<comment>
+/** Feature FF_OFN_FEATURE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfOmadrm1FullSupport" uid="0x149" statusflags="0x1">
+<hrhmacro include="FF_OMADRM1_FULL_SUPPORT"/>
+<comment>
+/** Feature FF_OMADRM1_FULL_SUPPORT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfOmadrm2Support" uid="0x148" statusflags="0x1">
+<hrhmacro include="FF_OMADRM2_SUPPORT"/>
+<comment>
+/** Feature FF_OMADRM2_SUPPORT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfOmaLawmo" uid="0x159" statusflags="0x0">
+<hrhmacro include="FF_OMA_LAWMO"/>
+<comment>
+/** Feature FF_OMA_LAWMO*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfOmaScomoAdapter" uid="0xc5" statusflags="0x1">
+<hrhmacro include="FF_OMA_SCOMO_ADAPTER"/>
+<comment>
+/** Feature FF_OMA_SCOMO_ADAPTER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfOssLegalNotice" uid="0xc4" statusflags="0x0">
+<hrhmacro include="FF_OSS_LEGAL_NOTICE"/>
+<comment>
+/** Feature FF_OSS_LEGAL_NOTICE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfPlayreadySupport" uid="0x142" statusflags="0x0">
+<hrhmacro include="FF_PLAYREADY_SUPPORT"/>
+<comment>
+/** Feature FF_PLAYREADY_SUPPORT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfPnpmsProvFilter" uid="0x85" statusflags="0x0">
+<hrhmacro include="FF_PNPMS_PROV_FILTER"/>
+<comment>
+/** Feature FF_PNPMS_PROV_FILTER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdPnpmsServiceHelpPlugin" uid="0x80" statusflags="0x0">
+<hrhmacro include="FF_PNPMS_SERVICE_HELP_PLUGIN"/>
+<comment>
+/** Feature FF_PNPMS_SERVICE_HELP_PLUGIN*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfPowerKeyAsKeyguard" uid="0x147b" statusflags="0x0">
+<hrhmacro include="FF_POWER_KEY_AS_KEYGUARD"/>
+<comment>
+/** Feature FF_POWER_KEY_AS_KEYGUARD*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdPowerSave" uid="0x6ad" statusflags="0x1">
+<hrhmacro include="FF_POWER_SAVE"/>
+<comment>
+/** Feature FF_POWER_SAVE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdPreminetCatalogsClient" uid="0x6b7" statusflags="0x0">
+<hrhmacro include="FF_PREMINET_CATALOGS_CLIENT"/>
+<comment>
+/** Feature FF_PREMINET_CATALOGS_CLIENT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfProductFonts" uid="0x156" statusflags="0x0">
+<hrhmacro include="FF_PRODUCT_FONTS"/>
+<comment>
+/** Feature FF_PRODUCT_FONTS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdProvAuthtypePlugin" uid="0x64" statusflags="0x0">
+<hrhmacro include="FF_PROV_AUTHTYPE_PLUGIN"/>
+<comment>
+/** Feature FF_PROV_AUTHTYPE_PLUGIN*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfQt" uid="0xee" statusflags="0x0">
+<hrhmacro include="FF_QT"/>
+<comment>
+/** Feature FF_QT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfQtBearerManagement" uid="0x13f" statusflags="0x1">
+<hrhmacro include="FF_QT_BEARER_MANAGEMENT"/>
+<comment>
+/** Feature FF_QT_BEARER_MANAGEMENT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdQwertyFnKey" uid="0x6b2" statusflags="0x0">
+<hrhmacro include="FF_QWERTY_FN_KEY"/>
+<comment>
+/** Feature FF_QWERTY_FN_KEY*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdRockerKey" uid="0x78" statusflags="0x1">
+<hrhmacro include="FF_ROCKER_KEY"/>
+<comment>
+/** Feature FF_ROCKER_KEY*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfRuntimeDeviceCapabilityConfiguration" uid="0xc6" statusflags="0x1">
+<hrhmacro include="FF_RUNTIME_DEVICE_CAPABILITY_CONFIGURATION"/>
+<comment>
+/** Feature FF_RUNTIME_DEVICE_CAPABILITY_CONFIGURATION*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfSearchSw" uid="0x141" statusflags="0x0">
+<hrhmacro include="FF_SEARCH_SW"/>
+<comment>
+/** Feature FF_SEARCH_SW*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSelectableEmail" uid="0x7d" statusflags="0x1">
+<hrhmacro include="FF_SELECTABLE_EMAIL"/>
+<comment>
+/** Feature FF_SELECTABLE_EMAIL*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfServiceCallWhilePhoneLocked" uid="0x144e" statusflags="0x0">
+<hrhmacro include="FF_SERVICE_CALL_WHILE_PHONE_LOCKED"/>
+<comment>
+/** Feature FF_SERVICE_CALL_WHILE_PHONE_LOCKED*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfSidesliderSupport" uid="0x140" statusflags="0x0">
+<hrhmacro include="FF_SIDESLIDER_SUPPORT"/>
+<comment>
+/** Feature FF_SIDESLIDER_SUPPORT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfSimlessOfflineSupport" uid="0x82" statusflags="0x1">
+<hrhmacro include="FF_SIMLESS_OFFLINE_SUPPORT"/>
+<comment>
+/** Feature FF_SIMLESS_OFFLINE_SUPPORT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfSimlockUi" uid="0x144d" statusflags="0x0">
+<hrhmacro include="FF_SIMLOCK_UI"/>
+<comment>
+/** Feature FF_SIMLOCK_UI*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfSimConsecutive6f00ErrorsHandling" uid="0x147" statusflags="0x0">
+<hrhmacro include="FF_SIM_CONSECUTIVE_6F00_ERRORS_HANDLING"/>
+<comment>
+/** Feature FF_SIM_CONSECUTIVE_6F00_ERRORS_HANDLING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfSipApnSwitching" uid="0x13e" statusflags="0x0">
+<hrhmacro include="FF_SIP_APN_SWITCHING"/>
+<comment>
+/** Feature FF_SIP_APN_SWITCHING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfSipCustomPdpHandling" uid="0x10d" statusflags="0x0">
+<hrhmacro include="FF_SIP_CUSTOM_PDP_HANDLING"/>
+<comment>
+/** Feature FF_SIP_CUSTOM_PDP_HANDLING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfSipNonstandardInteropfix" uid="0x15e" statusflags="0x0">
+<hrhmacro include="FF_SIP_NONSTANDARD_INTEROPFIX"/>
+<comment>
+/** Feature FF_SIP_NONSTANDARD_INTEROPFIX*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfSmallScreenTouch" uid="0x117" statusflags="0x0">
+<hrhmacro include="FF_SMALL_SCREEN_TOUCH"/>
+<comment>
+/** Feature FF_SMALL_SCREEN_TOUCH*/
+</comment>
+</feature>
+
+<feature  name="KFeatureStartupOmaDmSupport" uid="0x28" statusflags="0x0">
+<hrhmacro include="FF_STARTUP_OMA_DM_SUPPORT"/>
+<comment>
+/** Feature FF_STARTUP_OMA_DM_SUPPORT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfStrokeInputmodeInTaiwan" uid="0x118" statusflags="0x0">
+<hrhmacro include="FF_STROKE_INPUTMODE_IN_TAIWAN"/>
+<comment>
+/** Feature FF_STROKE_INPUTMODE_IN_TAIWAN*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfSuplImsiGeneratedServerPriorityDefault" uid="0x12d" statusflags="0x0">
+<hrhmacro include="FF_SUPL_IMSI_GENERATED_SERVER_PRIORITY_DEFAULT"/>
+<comment>
+/** Feature FF_SUPL_IMSI_GENERATED_SERVER_PRIORITY_DEFAULT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfSyncmlStatusExtendedErrorCodes" uid="0x12b" statusflags="0x0">
+<hrhmacro include="FF_SYNCML_STATUS_EXTENDED_ERROR_CODES"/>
+<comment>
+/** Feature FF_SYNCML_STATUS_EXTENDED_ERROR_CODES*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSysapTimechangeobserverEnabled" uid="0xb2" statusflags="0x0">
+<hrhmacro include="FF_SYSAP_TIMECHANGEOBSERVER_ENABLED"/>
+<comment>
+/** Feature FF_SYSAP_TIMECHANGEOBSERVER_ENABLED*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfTacticons" uid="0xb8" statusflags="0x1">
+<hrhmacro include="FF_TACTICONS"/>
+<comment>
+/** Feature FF_TACTICONS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdTactileFeedback" uid="0x6b6" statusflags="0x1">
+<hrhmacro include="FF_TACTILE_FEEDBACK"/>
+<comment>
+/** Feature FF_TACTILE_FEEDBACK*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfTarmCapabilityBasedAccess" uid="0xd6" statusflags="0x1">
+<hrhmacro include="FF_TARM_CAPABILITY_BASED_ACCESS"/>
+<comment>
+/** Feature FF_TARM_CAPABILITY_BASED_ACCESS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfTarmCapabilityChecking" uid="0xed" statusflags="0x0">
+<hrhmacro include="FF_TARM_CAPABILITY_CHECKING"/>
+<comment>
+/** Feature FF_TARM_CAPABILITY_CHECKING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdTcpMyfavesFeature" uid="0x6ba" statusflags="0x0">
+<hrhmacro include="FF_TCP_MYFAVES_FEATURE"/>
+<comment>
+/** Feature FF_TCP_MYFAVES_FEATURE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfTcpMyprofile" uid="0xba" statusflags="0x0">
+<hrhmacro include="FF_TCP_MYPROFILE"/>
+<comment>
+/** Feature FF_TCP_MYPROFILE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfTdClmcontactreplicationfromphonebooktousimcard" uid="0x151" statusflags="0x0">
+<hrhmacro include="FF_TD_CLMContactReplicationFromPhonebookToUSIMCard"/>
+<comment>
+/** Feature FF_TD_CLMContactReplicationFromPhonebookToUSIMCard*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfTdCmccatcommandssupport" uid="0x150" statusflags="0x0">
+<hrhmacro include="FF_TD_CMCCATCommandsSupport"/>
+<comment>
+/** Feature FF_TD_CMCCATCommandsSupport*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfTdCmccpimpromptserverfullwhenreceive420statuscodefromserver" uid="0x14f" statusflags="0x0">
+<hrhmacro include="FF_TD_CMCCPIMPromptServerFullWhenReceive420StatusCodeFromServer"/>
+<comment>
+/** Feature FF_TD_CMCCPIMPromptServerFullWhenReceive420StatusCodeFromServer*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfTdCmccpimsynchronizationprogressindicatorui " uid="0x14e" statusflags="0x0">
+<hrhmacro include="FF_TD_CMCCPIMSynchronizationProgressIndicatorUI "/>
+<comment>
+/** Feature FF_TD_CMCCPIMSynchronizationProgressIndicatorUI */
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfTdScdma" uid="0x112" statusflags="0x0">
+<hrhmacro include="FF_TD_SCDMA"/>
+<comment>
+/** Feature FF_TD_SCDMA*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfTdScdmaForbiddenoperatoricondisplay" uid="0x13c" statusflags="0x0">
+<hrhmacro include="FF_TD_SCDMA_FORBIDDENOPERATORICONDISPLAY"/>
+<comment>
+/** Feature FF_TD_SCDMA_FORBIDDENOPERATORICONDISPLAY*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfTdScdmaVideocallKey" uid="0x13d" statusflags="0x0">
+<hrhmacro include="FF_TD_SCDMA_VIDEOCALL_KEY"/>
+<comment>
+/** Feature FF_TD_SCDMA_VIDEOCALL_KEY*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfTdSyncabPbfieldsInd" uid="0x15f" statusflags="0x0">
+<hrhmacro include="FF_TD_SYNCABLE_PBFIELDS_IND"/>
+<comment>
+/** Feature FF_TD_SYNCABLE_PBFIELDS_IND*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdTestATCommand" uid="0x6b9" statusflags="0x0">
+<hrhmacro include="FF_TEST_AT_COMMAND"/>
+<comment>
+/** Feature FF_TEST_AT_COMMAND*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdTouchscreencalibInStartup" uid="0x45" statusflags="0x0">
+<hrhmacro include="FF_TOUCHSCREENCALIB_IN_STARTUP"/>
+<comment>
+/** Feature FF_TOUCHSCREENCALIB_IN_STARTUP*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdTouchCallHandling" uid="0x6b3" statusflags="0x1">
+<hrhmacro include="FF_TOUCH_CALL_HANDLING"/>
+<comment>
+/** Feature FF_TOUCH_CALL_HANDLING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfTouchUnlockStroke" uid="0xad" statusflags="0x0">
+<hrhmacro include="FF_TOUCH_UNLOCK_STROKE"/>
+<comment>
+/** Feature FF_TOUCH_UNLOCK_STROKE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdUpnpFramework20" uid="0x46" statusflags="0x0">
+<hrhmacro include="FF_UPNP_FRAMEWORK_2_0"/>
+<comment>
+/** Feature FF_UPNP_FRAMEWORK_2_0*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdUsbCharging" uid="0x77" statusflags="0x1">
+<hrhmacro include="FF_USB_CHARGING"/>
+<comment>
+/** Feature FF_USB_CHARGING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdUsbHost" uid="0x6a8" statusflags="0x0">
+<hrhmacro include="FF_USB_HOST"/>
+<comment>
+/** Feature FF_USB_HOST*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdUsbModem" uid="0x109" statusflags="0x0">
+<hrhmacro include="FF_USB_MODEM"/>
+<comment>
+/** Feature FF_USB_MODEM*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdUseEGprsIcon" uid="0x79" statusflags="0x0">
+<hrhmacro include="FF_USE_EGPRS_ICON"/>
+<comment>
+/** Feature FF_USE_EGPRS_ICON*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfUseNavikeyForVolume" uid="0xf8" statusflags="0x0">
+<hrhmacro include="FF_USE_NAVIKEY_FOR_VOLUME"/>
+<comment>
+/** Feature FF_USE_NAVIKEY_FOR_VOLUME*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfVideoAudioBranding" uid="0x10a" statusflags="0x0">
+<hrhmacro include="FF_VIDEO_AUDIO_BRANDING"/>
+<comment>
+/** Feature FF_VIDEO_AUDIO_BRANDING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfVideoEditor" uid="0x100" statusflags="0x0">
+<hrhmacro include="FF_VIDEO_EDITOR"/>
+<comment>
+/** Feature FF_VIDEO_EDITOR*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfVirtualFullscrPortraitQwertyInput" uid="0x15c" statusflags="0x0">
+<hrhmacro include="FF_VIRTUAL_FULLSCR_PORTRAIT_QWERTY_INPUT"/>
+<comment>
+/** Feature FF_VIRTUAL_FULLSCR_PORTRAIT_QWERTY_INPUT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdVirtualFullscrQwertyInput" uid="0x40" statusflags="0x1">
+<hrhmacro include="FF_VIRTUAL_FULLSCR_QWERTY_INPUT"/>
+<comment>
+/** Feature FF_VIRTUAL_FULLSCR_QWERTY_INPUT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdVirtualItutInput" uid="0x41" statusflags="0x1">
+<hrhmacro include="FF_VIRTUAL_ITUT_INPUT"/>
+<comment>
+/** Feature FF_VIRTUAL_ITUT_INPUT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfVirtualKeyboardUsEnglishLayout" uid="0x15b" statusflags="0x0">
+<hrhmacro include="FF_VIRTUAL_KEYBOARD_US_ENGLISH_LAYOUT"/>
+<comment>
+/** Feature FF_VIRTUAL_KEYBOARD_US_ENGLISH_LAYOUT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdVmbxCallDivertIcon" uid="0x74" statusflags="0x0">
+<hrhmacro include="FF_VMBX_CALL_DIVERT_ICON"/>
+<comment>
+/** Feature FF_VMBX_CALL_DIVERT_ICON*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfVoiceCallContinuity" uid="0x98" statusflags="0x1">
+<hrhmacro include="FF_VOICE_CALL_CONTINUITY"/>
+<comment>
+/** Feature FF_VOICE_CALL_CONTINUITY*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfVpnClient" uid="0x63" statusflags="0x24">
+<hrhmacro include="FF_VPN_CLIENT"/>
+<comment>
+/** Feature FF_VPN_CLIENT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdWebvideoPh2" uid="0x27" statusflags="0x0">
+<hrhmacro include="FF_WEBVIDEO_PH2"/>
+<comment>
+/** Feature FF_WEBVIDEO_PH2*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfWlanAuthenticationOnlySupport" uid="0x13a" statusflags="0x0">
+<hrhmacro include="FF_WLAN_AUTHENTICATION_ONLY_SUPPORT"/>
+<comment>
+/** Feature FF_WLAN_AUTHENTICATION_ONLY_SUPPORT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfWlanExtensions" uid="0xb1" statusflags="0x0">
+<hrhmacro include="FF_WLAN_EXTENSIONS"/>
+<comment>
+/** Feature FF_WLAN_EXTENSIONS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfWlanWapi" uid="0x81" statusflags="0x0">
+<hrhmacro include="FF_WLAN_WAPI"/>
+<comment>
+/** Feature FF_WLAN_WAPI*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfWmdrmDlaSupport" uid="0x136" statusflags="0x1">
+<hrhmacro include="FF_WMDRM_DLA_SUPPORT"/>
+<comment>
+/** Feature FF_WMDRM_DLA_SUPPORT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFfWsNcim" uid="0x99" statusflags="0x1">
+<hrhmacro include="FF_WS_NCIM"/>
+<comment>
+/** Feature FF_WS_NCIM*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdHlpAdditionalCalendar" uid="0x2afd" statusflags="0x0">
+<hrhmacro include="HLP_ADDITIONAL_CALENDAR"/>
+<comment>
+/** Feature HLP_ADDITIONAL_CALENDAR*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdHlpCameraKey" uid="0x2aff" statusflags="0x0">
+<hrhmacro include="HLP_CAMERA_KEY"/>
+<comment>
+/** Feature HLP_CAMERA_KEY*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdHlpClearKey" uid="0x2af8" statusflags="0x1">
+<hrhmacro include="HLP_CLEAR_KEY"/>
+<comment>
+/** Feature HLP_CLEAR_KEY*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdHlpInternetSuiteVeryLite" uid="0xb5" statusflags="0x0">
+<hrhmacro include="HLP_INTERNET_SUITE_VERY_LITE"/>
+<comment>
+/** Feature HLP_INTERNET_SUITE_VERY_LITE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdHlpItutInput" uid="0x2afa" statusflags="0x0">
+<hrhmacro include="HLP_ITUT_INPUT"/>
+<comment>
+/** Feature HLP_ITUT_INPUT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdHlpMsk" uid="0x2afb" statusflags="0x1">
+<hrhmacro include="HLP_MSK"/>
+<comment>
+/** Feature HLP_MSK*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdHlpOmaDrmMetering" uid="0x2b00" statusflags="0x0">
+<hrhmacro include="HLP_OMA_DRM_METERING"/>
+<comment>
+/** Feature HLP_OMA_DRM_METERING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdHlpPreminetCatalogsClient" uid="0x2af9" statusflags="0x0">
+<hrhmacro include="HLP_PREMINET_CATALOGS_CLIENT"/>
+<comment>
+/** Feature HLP_PREMINET_CATALOGS_CLIENT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdHlpRecentlyPlayedFolder" uid="0x2afe" statusflags="0x0">
+<hrhmacro include="HLP_RECENTLY_PLAYED_FOLDER"/>
+<comment>
+/** Feature HLP_RECENTLY_PLAYED_FOLDER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdHlpSensorSettings" uid="0x8b" statusflags="0x0">
+<hrhmacro include="HLP_SENSOR_SETTINGS"/>
+<comment>
+/** Feature HLP_SENSOR_SETTINGS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdHlpWaypoints" uid="0x2afc" statusflags="0x0">
+<hrhmacro include="HLP_WAYPOINTS"/>
+<comment>
+/** Feature HLP_WAYPOINTS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdJsr135Support" uid="0x46a" statusflags="0x0">
+<hrhmacro include="JSR_135_SUPPORT"/>
+<comment>
+/** Feature JSR_135_SUPPORT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureId3DMenu" uid="0x5e7" statusflags="0x1">
+<hrhmacro include="__3D_MENU"/>
+<comment>
+/** Feature __3D_MENU*/
+</comment>
+</feature>
+
+<feature  name="KFeatureId3GpExtension" uid="0x638" statusflags="0x1">
+<hrhmacro include="__3GP_EXTENTION"/>
+<comment>
+/** Feature __3GP_EXTENTION*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdAac" uid="0x4b" statusflags="0x1">
+<hrhmacro include="__AAC"/>
+<comment>
+/** Feature __AAC*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdAacEncoderPlugin" uid="0x475" statusflags="0x1">
+<hrhmacro include="__AAC_ENCODER_PLUGIN"/>
+<comment>
+/** Feature __AAC_ENCODER_PLUGIN*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdAacPlusDecoderPlugin" uid="0x477" statusflags="0x1">
+<hrhmacro include="__AAC_PLUS_DECODER_PLUGIN"/>
+<comment>
+/** Feature __AAC_PLUS_DECODER_PLUGIN*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdAccessoryFw" uid="0x47e" statusflags="0x1">
+<hrhmacro include="__ACCESSORY_FW"/>
+<comment>
+/** Feature __ACCESSORY_FW*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdActiveIdle" uid="0x45f" statusflags="0x0">
+<hrhmacro include="__ACTIVE_IDLE"/>
+<comment>
+/** Feature __ACTIVE_IDLE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdAllowUpgradeHelix" uid="0x6a3" statusflags="0x1">
+<hrhmacro include="__ALLOW_UPGRADE_HELIX"/>
+<comment>
+/** Feature __ALLOW_UPGRADE_HELIX*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdAlwaysOnLine" uid="0x436" statusflags="0x1">
+<hrhmacro include="__ALWAYS_ONLINE"/>
+<comment>
+/** Feature __ALWAYS_ONLINE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdAlwaysOnLineEmail" uid="0x44d" statusflags="0x1">
+<hrhmacro include="__ALWAYS_ONLINE_EMAIL"/>
+<comment>
+/** Feature __ALWAYS_ONLINE_EMAIL*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdAlwaysOnlinePDPContext" uid="0x478" statusflags="0x0">
+<hrhmacro include="__ALWAYS_ONLINE_PDPCONTEXT"/>
+<comment>
+/** Feature __ALWAYS_ONLINE_PDPCONTEXT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdAlwaysOnlinePDPContext2" uid="0x67e" statusflags="0x0">
+<hrhmacro include="__ALWAYS_ONLINE_PDPCONTEXT2"/>
+<comment>
+/** Feature __ALWAYS_ONLINE_PDPCONTEXT2*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdAmrNb" uid="0x49" statusflags="0x1">
+<hrhmacro include="__AMR_NB"/>
+<comment>
+/** Feature __AMR_NB*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdAmrWb" uid="0x4a" statusflags="0x1">
+<hrhmacro include="__AMR_WB"/>
+<comment>
+/** Feature __AMR_WB*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdApplicationControllableAudioRouting" uid="0x8" statusflags="0x0">
+<hrhmacro include="__APPLICATION_CONTROLLABLE_AUDIO_ROUTING"/>
+<comment>
+/** Feature __APPLICATION_CONTROLLABLE_AUDIO_ROUTING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdAppshellAvkonUi" uid="0x64d" statusflags="0x0">
+<hrhmacro include="__APPSHELL_AVKON_UI"/>
+<comment>
+/** Feature __APPSHELL_AVKON_UI*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdAppCsdSupport" uid="0x6e" statusflags="0x0">
+<hrhmacro include="__APP_CSD_SUPPORT"/>
+<comment>
+/** Feature __APP_CSD_SUPPORT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdArmAvc" uid="0x65e" statusflags="0x1">
+<hrhmacro include="__ARM_AVC"/>
+<comment>
+/** Feature __ARM_AVC*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdArmMdfH263mpeg4Dec" uid="0x66c" statusflags="0x1">
+<hrhmacro include="__ARM_MDF_H263MPEG4_DEC"/>
+<comment>
+/** Feature __ARM_MDF_H263MPEG4_DEC*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdArmMdfH264Dec" uid="0x66a" statusflags="0x1">
+<hrhmacro include="__ARM_MDF_H264_DEC"/>
+<comment>
+/** Feature __ARM_MDF_H264_DEC*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdArmMdfPostprocessor" uid="0x66d" statusflags="0x1">
+<hrhmacro include="__ARM_MDF_POSTPROCESSOR"/>
+<comment>
+/** Feature __ARM_MDF_POSTPROCESSOR*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdArmMdfRealvideoDec" uid="0x66b" statusflags="0x1">
+<hrhmacro include="__ARM_MDF_REALVIDEO_DEC"/>
+<comment>
+/** Feature __ARM_MDF_REALVIDEO_DEC*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdAtHandler" uid="0xdf" statusflags="0x1">
+<hrhmacro include="__AT_HANDLER"/>
+<comment>
+/** Feature __AT_HANDLER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdAudioAac" uid="0x426" statusflags="0x1">
+<hrhmacro include="__AUDIO_AAC"/>
+<comment>
+/** Feature __AUDIO_AAC*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdAudioControllerStreaming" uid="0x637" statusflags="0x1">
+<hrhmacro include="__AUDIO_CONTROLLER_STREAMING"/>
+<comment>
+/** Feature __AUDIO_CONTROLLER_STREAMING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdAudioEffectsApi" uid="0x1f1" statusflags="0x1">
+<hrhmacro include="__AUDIO_EFFECTS_API"/>
+<comment>
+/** Feature __AUDIO_EFFECTS_API*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdAudioMessaging" uid="0x61d" statusflags="0x1">
+<hrhmacro include="__AUDIO_MESSAGING"/>
+<comment>
+/** Feature __AUDIO_MESSAGING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdAudioPlaylist" uid="0x427" statusflags="0x1">
+<hrhmacro include="__AUDIO_PLAYLIST"/>
+<comment>
+/** Feature __AUDIO_PLAYLIST*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdAudioResourceIndications" uid="0x1f3" statusflags="0x1">
+<hrhmacro include="__AUDIO_RESOURCE_INDICATIONS"/>
+<comment>
+/** Feature __AUDIO_RESOURCE_INDICATIONS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdAutoAccessoryIdentification" uid="0xce" statusflags="0x0">
+<hrhmacro include="__AUTO_ACCESSORY_IDENTIFICATION"/>
+<comment>
+/** Feature __AUTO_ACCESSORY_IDENTIFICATION*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdAvcDecoder" uid="0x61f" statusflags="0x1">
+<hrhmacro include="__AVC_DECODER"/>
+<comment>
+/** Feature __AVC_DECODER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdAvcEncoder" uid="0x620" statusflags="0x1">
+<hrhmacro include="__AVC_ENCODER"/>
+<comment>
+/** Feature __AVC_ENCODER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdAvkonApac" uid="0x3f7" statusflags="0x1">
+<hrhmacro include="__AVKON_APAC__"/>
+<comment>
+/** Feature __AVKON_APAC__*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdAvkonELaf" uid="0x3f2" statusflags="0x0">
+<hrhmacro include="__AVKON_ELAF__"/>
+<comment>
+/** Feature __AVKON_ELAF__*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdBasicLocationInfoDisplay" uid="0x5e9" statusflags="0x0">
+<hrhmacro include="__BASIC_LOCATION_INFO_DISPLAY"/>
+<comment>
+/** Feature __BASIC_LOCATION_INFO_DISPLAY*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdBassBoostEffectUi" uid="0x689" statusflags="0x0">
+<hrhmacro include="__BASS_BOOST_EFFECT_UI"/>
+<comment>
+/** Feature __BASS_BOOST_EFFECT_UI*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdBeatnikAudioengine" uid="0x668" statusflags="0x1">
+<hrhmacro include="__BEATNIK_AUDIOENGINE"/>
+<comment>
+/** Feature __BEATNIK_AUDIOENGINE*/
+</comment>
+</feature>
+
+<featureoverride  name="KFeatureIdBluetoothGpsPsy" uid="0x7a" statusflags="0x1">
+<hrhmacro include="__BLUETOOTHGPSPSY"/>
+<comment>
+/** Feature __BLUETOOTHGPSPSY*/
+</comment>
+</featureoverride>
+
+<feature  name="KFeatureIdBrandingServer" uid="0x679" statusflags="0x1">
+<hrhmacro include="__BRANDING_SERVER"/>
+<comment>
+/** Feature __BRANDING_SERVER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdBrightnessControl" uid="0x430" statusflags="0x0">
+<hrhmacro include="__BRIGHTNESS_CONTROL"/>
+<comment>
+/** Feature __BRIGHTNESS_CONTROL*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdBrowserAdaptiveBookm" uid="0xa3" statusflags="0x1">
+<hrhmacro include="__BROWSER_ADAPTIVE_BOOKMARKS"/>
+<comment>
+/** Feature __BROWSER_ADAPTIVE_BOOKMARKS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdBrowserAudioPlugin" uid="0x462" statusflags="0x1">
+<hrhmacro include="__BROWSER_AUDIO_PLUGIN"/>
+<comment>
+/** Feature __BROWSER_AUDIO_PLUGIN*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdBrowserFileUpload" uid="0x44b" statusflags="0x1">
+<hrhmacro include="__BROWSER_FILE_UPLOAD"/>
+<comment>
+/** Feature __BROWSER_FILE_UPLOAD*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdBrowserFrames" uid="0x42d" statusflags="0x1">
+<hrhmacro include="__BROWSER_FRAMES"/>
+<comment>
+/** Feature __BROWSER_FRAMES*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdBrowserFullScr" uid="0x42a" statusflags="0x1">
+<hrhmacro include="__BROWSER_FULLSCREEN"/>
+<comment>
+/** Feature __BROWSER_FULLSCREEN*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdBrowserIMEINotification" uid="0xa1" statusflags="0x1">
+<hrhmacro include="__BROWSER_IMEI_NOTIFICATION"/>
+<comment>
+/** Feature __BROWSER_IMEI_NOTIFICATION*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdBrowserNarrowScreen" uid="0x424" statusflags="0x1">
+<hrhmacro include="__BROWSER_NARROW_SCREEN"/>
+<comment>
+/** Feature __BROWSER_NARROW_SCREEN*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdBrowserNetscapeAPI" uid="0x44f" statusflags="0x1">
+<hrhmacro include="__BROWSER_NETSCAPE_API"/>
+<comment>
+/** Feature __BROWSER_NETSCAPE_API*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdBrowserPluginInterfaceProxy" uid="0xa2" statusflags="0x0">
+<hrhmacro include="__BROWSER_PLUGIN_INTERFACE_PROXY"/>
+<comment>
+/** Feature __BROWSER_PLUGIN_INTERFACE_PROXY*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdBrowserProgressInd" uid="0x428" statusflags="0x1">
+<hrhmacro include="__BROWSER_PROGRESS_IND"/>
+<comment>
+/** Feature __BROWSER_PROGRESS_IND*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdBrowserUrlCompletion" uid="0xa5" statusflags="0x1">
+<hrhmacro include="__BROWSER_URL_COMPLETION"/>
+<comment>
+/** Feature __BROWSER_URL_COMPLETION*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdBrowserVideoPlugin" uid="0x646" statusflags="0x1">
+<hrhmacro include="__BROWSER_VIDEO_PLUGIN"/>
+<comment>
+/** Feature __BROWSER_VIDEO_PLUGIN*/
+</comment>
+</feature>
+
+<featureoverride  name="KFeatureIdBt" uid="0xc" statusflags="0x1">
+<hrhmacro include="__BT"/>
+<comment>
+/** Feature __BT*/
+</comment>
+</featureoverride>
+
+<feature  name="KFeatureIdBticBinariesCheckEnabled" uid="0x641" statusflags="0x0">
+<hrhmacro include="__BTIC_BINARIES_CHECK_ENABLED"/>
+<comment>
+/** Feature __BTIC_BINARIES_CHECK_ENABLED*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdBticEnabled" uid="0x640" statusflags="0x1">
+<hrhmacro include="__BTIC_ENABLED"/>
+<comment>
+/** Feature __BTIC_ENABLED*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdBtAudio" uid="0xf" statusflags="0x1">
+<hrhmacro include="__BT_AUDIO"/>
+<comment>
+/** Feature __BT_AUDIO*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdBtFaxProfile" uid="0x12" statusflags="0x0">
+<hrhmacro include="__BT_FAX_PROFILE"/>
+<comment>
+/** Feature __BT_FAX_PROFILE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdBtImagingProfile" uid="0x13" statusflags="0x1">
+<hrhmacro include="__BT_IMAGING_PROFILE"/>
+<comment>
+/** Feature __BT_IMAGING_PROFILE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdBtPanProfile" uid="0x10" statusflags="0x0">
+<hrhmacro include="__BT_PAN_PROFILE"/>
+<comment>
+/** Feature __BT_PAN_PROFILE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdBtPbap" uid="0x696" statusflags="0x1">
+<hrhmacro include="__BT_PBAP"/>
+<comment>
+/** Feature __BT_PBAP*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdBtPrintingProfile" uid="0x14" statusflags="0x0">
+<hrhmacro include="__BT_PRINTING_PROFILE"/>
+<comment>
+/** Feature __BT_PRINTING_PROFILE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdBtSap" uid="0xde" statusflags="0x1">
+<hrhmacro include="__BT_SAP"/>
+<comment>
+/** Feature __BT_SAP*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdBtStereoAudio" uid="0x62c" statusflags="0x1">
+<hrhmacro include="__BT_STEREO_AUDIO"/>
+<comment>
+/** Feature __BT_STEREO_AUDIO*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdBtTestMode" uid="0xe0" statusflags="0x1">
+<hrhmacro include="__BT_TEST_MODE"/>
+<comment>
+/** Feature __BT_TEST_MODE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdCaeVrCustomCommands" uid="0x83" statusflags="0x1">
+<hrhmacro include="__CAE_VR_CUSTOM_COMMANDS"/>
+<comment>
+/** Feature __CAE_VR_CUSTOM_COMMANDS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdCallImagetext" uid="0x5df" statusflags="0x1">
+<hrhmacro include="__CALL_IMAGETEXT"/>
+<comment>
+/** Feature __CALL_IMAGETEXT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdCamera" uid="0x2" statusflags="0x1">
+<hrhmacro include="__CAMERA"/>
+<comment>
+/** Feature __CAMERA*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdCameraBurstMode" uid="0x84" statusflags="0x1">
+<hrhmacro include="__CAMERA_BURST_MODE"/>
+<comment>
+/** Feature __CAMERA_BURST_MODE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdCameraFullscreenViewfinder" uid="0x647" statusflags="0x1">
+<hrhmacro include="__CAMERA_FULLSCREEN_VIEWFINDER"/>
+<comment>
+/** Feature __CAMERA_FULLSCREEN_VIEWFINDER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdCameraLensCover" uid="0xd1" statusflags="0x0">
+<hrhmacro include="__CAMERA_LENS_COVER"/>
+<comment>
+/** Feature __CAMERA_LENS_COVER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdCameraLocationSupport" uid="0x9e" statusflags="0x0">
+<hrhmacro include="__CAMERA_LOCATION_SUPPORT"/>
+<comment>
+/** Feature __CAMERA_LOCATION_SUPPORT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdCdmaChannelListing" uid="0x461" statusflags="0x0">
+<hrhmacro include="__CDMA_CHANNEL_LISTING"/>
+<comment>
+/** Feature __CDMA_CHANNEL_LISTING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdCdmaExtendedAms" uid="0x57" statusflags="0x0">
+<hrhmacro include="__CDMA_EXTENDED_AMS"/>
+<comment>
+/** Feature __CDMA_EXTENDED_AMS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdCdmaFastDormant" uid="0x122" statusflags="0x0">
+<hrhmacro include="__CDMA_FAST_DORMANT"/>
+<comment>
+/** Feature __CDMA_FAST_DORMANT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdCdmaIota" uid="0x56" statusflags="0x0">
+<hrhmacro include="__CDMA_IOTA"/>
+<comment>
+/** Feature __CDMA_IOTA*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdCellBroadcast" uid="0x442" statusflags="0x1">
+<hrhmacro include="__CELL_BROADCAST"/>
+<comment>
+/** Feature __CELL_BROADCAST*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdChatNG" uid="0x672" statusflags="0x1">
+<hrhmacro include="__CHATNG"/>
+<comment>
+/** Feature __CHATNG*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdChinese" uid="0x448" statusflags="0x0">
+<hrhmacro include="__CHINESE"/>
+<comment>
+/** Feature __CHINESE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdChinesePrcFonts" uid="0x46d" statusflags="0x0">
+<hrhmacro include="__CHINESE_PRC_FONTS"/>
+<comment>
+/** Feature __CHINESE_PRC_FONTS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdChineseTaiwanHkFonts" uid="0x46e" statusflags="0x0">
+<hrhmacro include="__CHINESE_TAIWAN_HK_FONTS"/>
+<comment>
+/** Feature __CHINESE_TAIWAN_HK_FONTS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdCommDBProtection" uid="0x5e3" statusflags="0x0">
+<hrhmacro include="__COMMDB_PROTECTION"/>
+<comment>
+/** Feature __COMMDB_PROTECTION*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdCommonDsy" uid="0x129" statusflags="0x1">
+<hrhmacro include="__COMMON_DSY"/>
+<comment>
+/** Feature __COMMON_DSY*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdCommonTsy" uid="0x125" statusflags="0x1">
+<hrhmacro include="__COMMON_TSY"/>
+<comment>
+/** Feature __COMMON_TSY*/
+</comment>
+</feature>
+
+<featureoverride  name="KFeatureIdCommonTsyEmergencyCallsEnabledInOfflineMode" uid="0x126" statusflags="0x1">
+<hrhmacro include="__COMMON_TSY__EMERGENCY_CALLS_ENABLED_IN_OFFLINE_MODE"/>
+<comment>
+/** Feature __COMMON_TSY__EMERGENCY_CALLS_ENABLED_IN_OFFLINE_MODE*/
+</comment>
+</featureoverride>
+
+<feature  name="KFeatureIdConnMonExtension" uid="0x6c" statusflags="0x1">
+<hrhmacro include="__CONNMON_EXTENSION"/>
+<comment>
+/** Feature __CONNMON_EXTENSION*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdConnMonUI" uid="0x451" statusflags="0x1">
+<hrhmacro include="__CONNMON_UI"/>
+<comment>
+/** Feature __CONNMON_UI*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdContentDownload" uid="0x5e0" statusflags="0x1">
+<hrhmacro include="__CONTENT_DOWNLOAD"/>
+<comment>
+/** Feature __CONTENT_DOWNLOAD*/
+</comment>
+</feature>
+
+<featureoverride  name="KFeatureIdCoverDisplay" uid="0x3" statusflags="0x0">
+<hrhmacro include="__COVER_DISPLAY"/>
+<comment>
+/** Feature __COVER_DISPLAY*/
+</comment>
+</featureoverride>
+
+<featureoverride  name="KFeatureIdCsVideoTelephony" uid="0x59" statusflags="0x1">
+<hrhmacro include="__CS_VIDEO_TELEPHONY"/>
+<comment>
+/** Feature __CS_VIDEO_TELEPHONY*/
+</comment>
+</featureoverride>
+
+<feature  name="KFeatureIdCustomisedRFS" uid="0x686" statusflags="0x0">
+<hrhmacro include="__CUSTOMISED_RFS"/>
+<comment>
+/** Feature __CUSTOMISED_RFS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdDefaultConnection" uid="0x69d" statusflags="0x0">
+<hrhmacro include="__DEFAULT_CONNECTION"/>
+<comment>
+/** Feature __DEFAULT_CONNECTION*/
+</comment>
+</feature>
+
+<featureoverride  name="KFeatureIdDHCP" uid="0x6b" statusflags="0x1">
+<hrhmacro include="__DHCP"/>
+<comment>
+/** Feature __DHCP*/
+</comment>
+</featureoverride>
+
+<feature  name="KFeatureIdDialupNetworking" uid="0x67c" statusflags="0x1">
+<hrhmacro include="__DIALUP_NETWORKING"/>
+<comment>
+/** Feature __DIALUP_NETWORKING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdDisplayPost" uid="0x64a" statusflags="0x1">
+<hrhmacro include="__DISPLAY_POST"/>
+<comment>
+/** Feature __DISPLAY_POST*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdDpb" uid="0x20" statusflags="0x1">
+<hrhmacro include="__DPB"/>
+<comment>
+/** Feature __DPB*/
+</comment>
+</feature>
+
+<featureoverride  name="KFeatureIdDriveMode" uid="0x584" statusflags="0x0">
+<hrhmacro include="__DRIVE_MODE"/>
+<comment>
+/** Feature __DRIVE_MODE*/
+</comment>
+</featureoverride>
+
+<featureoverride  name="KFeatureIdDrm" uid="0x5b" statusflags="0x1">
+<hrhmacro include="__DRM"/>
+<comment>
+/** Feature __DRM*/
+</comment>
+</featureoverride>
+
+<feature  name="KFeatureIdDrmClock" uid="0x60" statusflags="0x1">
+<hrhmacro include="__DRM_CLOCK"/>
+<comment>
+/** Feature __DRM_CLOCK*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdDrmFull" uid="0x5d" statusflags="0x1">
+<hrhmacro include="__DRM_FULL"/>
+<comment>
+/** Feature __DRM_FULL*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdDrmOma2" uid="0x62" statusflags="0x1">
+<hrhmacro include="__DRM_OMA2"/>
+<comment>
+/** Feature __DRM_OMA2*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdDrmPhase2" uid="0x5f" statusflags="0x1">
+<hrhmacro include="__DRM_PHASE2"/>
+<comment>
+/** Feature __DRM_PHASE2*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdDrmUserDataTransfer" uid="0x61" statusflags="0x0">
+<hrhmacro include="__DRM_USER_DATA_TRANSFER"/>
+<comment>
+/** Feature __DRM_USER_DATA_TRANSFER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdDynamicProfiles" uid="0x420" statusflags="0x1">
+<hrhmacro include="__DYNAMIC_PROFILES"/>
+<comment>
+/** Feature __DYNAMIC_PROFILES*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdEdgeKnowledge" uid="0x68" statusflags="0x1">
+<hrhmacro include="__EDGE_KNOWLEDGE"/>
+<comment>
+/** Feature __EDGE_KNOWLEDGE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdEditKey" uid="0x688" statusflags="0x1">
+<hrhmacro include="__EDIT_KEY"/>
+<comment>
+/** Feature __EDIT_KEY*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdEmailOverSms" uid="0x444" statusflags="0x0">
+<hrhmacro include="__EMAIL_OVER_SMS"/>
+<comment>
+/** Feature __EMAIL_OVER_SMS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdEmailUi" uid="0x582" statusflags="0x1">
+<hrhmacro include="__EMAIL_UI"/>
+<comment>
+/** Feature __EMAIL_UI*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdEnPolicyDos" uid="0x45e" statusflags="0x1">
+<hrhmacro include="__EN_POLICY_DOS"/>
+<comment>
+/** Feature __EN_POLICY_DOS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdEqualizer" uid="0x5de" statusflags="0x1">
+<hrhmacro include="__EQUALIZER"/>
+<comment>
+/** Feature __EQUALIZER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdExeProtection" uid="0x5db" statusflags="0x0">
+<hrhmacro include="__EXE_PROTECTION"/>
+<comment>
+/** Feature __EXE_PROTECTION*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdExtendedStartup" uid="0x421" statusflags="0x1">
+<hrhmacro include="__EXTENDED_STARTUP"/>
+<comment>
+/** Feature __EXTENDED_STARTUP*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFlashLiteBrowserPlugin" uid="0x47a" statusflags="0x1">
+<hrhmacro include="__FLASH_LITE_BROWSER_PLUGIN"/>
+<comment>
+/** Feature __FLASH_LITE_BROWSER_PLUGIN*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFlashLiteViewer" uid="0x479" statusflags="0x1">
+<hrhmacro include="__FLASH_LITE_VIEWER"/>
+<comment>
+/** Feature __FLASH_LITE_VIEWER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFlightMode" uid="0x6" statusflags="0x0">
+<hrhmacro include="__FLIGHT_MODE"/>
+<comment>
+/** Feature __FLIGHT_MODE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdFmRadio" uid="0x5" statusflags="0x1">
+<hrhmacro include="__FM_RADIO"/>
+<comment>
+/** Feature __FM_RADIO*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdGeneralSearchFramework" uid="0x670" statusflags="0x1">
+<hrhmacro include="__GENERAL_SEARCH_FRAMEWORK"/>
+<comment>
+/** Feature __GENERAL_SEARCH_FRAMEWORK*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdGeneralSearchUi" uid="0x671" statusflags="0x1">
+<hrhmacro include="__GENERAL_SEARCH_UI"/>
+<comment>
+/** Feature __GENERAL_SEARCH_UI*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdHandwritingRecognitionInput" uid="0x644" statusflags="0x1">
+<hrhmacro include="__HANDWRITING_RECOGNITION_INPUT"/>
+<comment>
+/** Feature __HANDWRITING_RECOGNITION_INPUT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdHindiRomContent" uid="0x664" statusflags="0x0">
+<hrhmacro include="__HINDI_ROM_CONTENT"/>
+<comment>
+/** Feature __HINDI_ROM_CONTENT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdHsxpaSupport" uid="0x682" statusflags="0x1">
+<hrhmacro include="__HSXPA_SUPPORT"/>
+<comment>
+/** Feature __HSXPA_SUPPORT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdHttpDigestAuth" uid="0x43c" statusflags="0x1">
+<hrhmacro include="__HTTP_DIGEST_AUTH"/>
+<comment>
+/** Feature __HTTP_DIGEST_AUTH*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdHwrmTargetModifierPlugin" uid="0x681" statusflags="0x1">
+<hrhmacro include="__HWRM_TARGET_MODIFIER_PLUGIN"/>
+<comment>
+/** Feature __HWRM_TARGET_MODIFIER_PLUGIN*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdId3V2Metadata" uid="0x1ef" statusflags="0x1">
+<hrhmacro include="__ID3V2_METADATA"/>
+<comment>
+/** Feature __ID3V2_METADATA*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdIetd" uid="0x4" statusflags="0x0">
+<hrhmacro include="__IETD"/>
+<comment>
+/** Feature __IETD*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdIm" uid="0x21" statusflags="0x1">
+<hrhmacro include="__IM"/>
+<comment>
+/** Feature __IM*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdImageUpload" uid="0x43e" statusflags="0x0">
+<hrhmacro include="__IMAGE_UPLOAD"/>
+<comment>
+/** Feature __IMAGE_UPLOAD*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdImageViewer" uid="0x692" statusflags="0x1">
+<hrhmacro include="__IMAGE_VIEWER"/>
+<comment>
+/** Feature __IMAGE_VIEWER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdImpsStandaloneIpCir" uid="0x22" statusflags="0x1">
+<hrhmacro include="__IMPS_STANDALONE_IP_CIR"/>
+<comment>
+/** Feature __IMPS_STANDALONE_IP_CIR*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdIncludeAacCMMFCodec" uid="0x1ec" statusflags="0x1">
+<hrhmacro include="__INCLUDE_AAC_CMMFCODEC"/>
+<comment>
+/** Feature __INCLUDE_AAC_CMMFCODEC*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdIncludeAmrNbCMMFCodec" uid="0x121" statusflags="0x1">
+<hrhmacro include="__INCLUDE_AMR_NB_CMMFCODEC"/>
+<comment>
+/** Feature __INCLUDE_AMR_NB_CMMFCODEC*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdIncludeAmrWbCMMFCodec" uid="0x1eb" statusflags="0x1">
+<hrhmacro include="__INCLUDE_AMR_WB_CMMFCODEC"/>
+<comment>
+/** Feature __INCLUDE_AMR_WB_CMMFCODEC*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdIncludeEaacplusCmmfcodec" uid="0x5f1" statusflags="0x1">
+<hrhmacro include="__INCLUDE_EAACPLUS_CMMFCODEC"/>
+<comment>
+/** Feature __INCLUDE_EAACPLUS_CMMFCODEC*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdIncludeMp3CMMFCodec" uid="0x1ed" statusflags="0x1">
+<hrhmacro include="__INCLUDE_MP3_CMMFCODEC"/>
+<comment>
+/** Feature __INCLUDE_MP3_CMMFCODEC*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdIncludeQcelpCMMFCodec" uid="0x1ee" statusflags="0x1">
+<hrhmacro include="__INCLUDE_QCELP_CMMFCODEC"/>
+<comment>
+/** Feature __INCLUDE_QCELP_CMMFCODEC*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdIndicRomContent" uid="0x69e" statusflags="0x1">
+<hrhmacro include="__INDIC_ROM_CONTENT"/>
+<comment>
+/** Feature __INDIC_ROM_CONTENT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdInstallerSisx" uid="0x583" statusflags="0x1">
+<hrhmacro include="__INSTALLER_SISX"/>
+<comment>
+/** Feature __INSTALLER_SISX*/
+</comment>
+</feature>
+
+<featureoverride  name="KFeatureIdIpsec" uid="0x66" statusflags="0x1">
+<hrhmacro include="__IPSEC"/>
+<comment>
+/** Feature __IPSEC*/
+</comment>
+</featureoverride>
+
+<feature  name="KFeatureIdIPv4Nat" uid="0x139" statusflags="0x0">
+<hrhmacro include="__IPV4_NAT"/>
+<comment>
+/** Feature __IPV4_NAT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdIPv6" uid="0x440" statusflags="0x1">
+<hrhmacro include="__IPV6"/>
+<comment>
+/** Feature __IPV6*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdIpPush" uid="0x581" statusflags="0x0">
+<hrhmacro include="__IP_PUSH"/>
+<comment>
+/** Feature __IP_PUSH*/
+</comment>
+</feature>
+
+<featureoverride  name="KFeatureIdIrda" uid="0xb" statusflags="0x1">
+<hrhmacro include="__IRDA"/>
+<comment>
+/** Feature __IRDA*/
+</comment>
+</featureoverride>
+
+<feature  name="KFeatureIdICalSupport" uid="0x634" statusflags="0x1">
+<hrhmacro include="__I_CAL_SUPPORT"/>
+<comment>
+/** Feature __I_CAL_SUPPORT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdJapanese" uid="0x438" statusflags="0x1">
+<hrhmacro include="__JAPANESE"/>
+<comment>
+/** Feature __JAPANESE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdJapaneseLargerDictionary" uid="0x5ed" statusflags="0x1">
+<hrhmacro include="__JAPANESE_LARGER_DICTIONARY"/>
+<comment>
+/** Feature __JAPANESE_LARGER_DICTIONARY*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdJapanesePicto" uid="0x437" statusflags="0x1">
+<hrhmacro include="__JAPANESE_PICTOGRAPHS"/>
+<comment>
+/** Feature __JAPANESE_PICTOGRAPHS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdJapanesePictographsGrouping" uid="0x5dc" statusflags="0x0">
+<hrhmacro include="__JAPANESE_PICTOGRAPHS_GROUPING"/>
+<comment>
+/** Feature __JAPANESE_PICTOGRAPHS_GROUPING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdJapanPrefixChange" uid="0x46b" statusflags="0x1">
+<hrhmacro include="__JAPAN_PREFIX_CHANGE"/>
+<comment>
+/** Feature __JAPAN_PREFIX_CHANGE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdJava" uid="0x697" statusflags="0x1">
+<hrhmacro include="__JAVA"/>
+<comment>
+/** Feature __JAVA*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdJava3DAPI" uid="0x92" statusflags="0x0">
+<hrhmacro include="__JAVA_3DAPI"/>
+<comment>
+/** Feature __JAVA_3DAPI*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdJavaApiEnhancementsIap" uid="0x683" statusflags="0x0">
+<hrhmacro include="__JAVA_API_ENHANCEMENTS_IAP"/>
+<comment>
+/** Feature __JAVA_API_ENHANCEMENTS_IAP*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdJavaApiEnhancementsMobinfo" uid="0x684" statusflags="0x0">
+<hrhmacro include="__JAVA_API_ENHANCEMENTS_MOBINFO"/>
+<comment>
+/** Feature __JAVA_API_ENHANCEMENTS_MOBINFO*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdJavaESWT" uid="0x680" statusflags="0x0">
+<hrhmacro include="__JAVA_ESWT"/>
+<comment>
+/** Feature __JAVA_ESWT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdJavaFileAPI" uid="0x90" statusflags="0x0">
+<hrhmacro include="__JAVA_FILEAPI"/>
+<comment>
+/** Feature __JAVA_FILEAPI*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdJ2MEWebServicesAPI" uid="0x96" statusflags="0x0">
+<hrhmacro include="__JAVA_J2MEWEBSERVICESAPI"/>
+<comment>
+/** Feature __JAVA_J2MEWEBSERVICESAPI*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdJavaJsr177SecurityAndTrustServicesApdu" uid="0x631" statusflags="0x0">
+<hrhmacro include="__JAVA_JSR177_SECURITY_AND_TRUST_SERVICES_APDU"/>
+<comment>
+/** Feature __JAVA_JSR177_SECURITY_AND_TRUST_SERVICES_APDU*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdJavaJsr177SecurityAndTrustServicesCrypto" uid="0x633" statusflags="0x0">
+<hrhmacro include="__JAVA_JSR177_SECURITY_AND_TRUST_SERVICES_CRYPTO"/>
+<comment>
+/** Feature __JAVA_JSR177_SECURITY_AND_TRUST_SERVICES_CRYPTO*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdJavaJsr177SecurityAndTrustServicesPki" uid="0x632" statusflags="0x0">
+<hrhmacro include="__JAVA_JSR177_SECURITY_AND_TRUST_SERVICES_PKI"/>
+<comment>
+/** Feature __JAVA_JSR177_SECURITY_AND_TRUST_SERVICES_PKI*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdJavaJsr205Wma20Support" uid="0x587" statusflags="0x1">
+<hrhmacro include="__JAVA_JSR205_WMA_2_0_SUPPORT"/>
+<comment>
+/** Feature __JAVA_JSR205_WMA_2_0_SUPPORT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdJavaJsr177SecurityAndTrustServices" uid="0x58b" statusflags="0x1">
+<hrhmacro include="__JAVA_JSR_177_SECURITY_AND_TRUST_SERVICES"/>
+<comment>
+/** Feature __JAVA_JSR_177_SECURITY_AND_TRUST_SERVICES*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdJavaJsr180SipAPI" uid="0x589" statusflags="0x0">
+<hrhmacro include="__JAVA_JSR_180_SIP_API"/>
+<comment>
+/** Feature __JAVA_JSR_180_SIP_API*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdJavaJsr2262DSvgAPI" uid="0x58a" statusflags="0x0">
+<hrhmacro include="__JAVA_JSR_226_2D_SVG_API"/>
+<comment>
+/** Feature __JAVA_JSR_226_2D_SVG_API*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdJavaJsr2343DAudioAndMusicCapabilities" uid="0x588" statusflags="0x0">
+<hrhmacro include="__JAVA_JSR_234_3D_AUDIO_AND_MUSIC_CAPABILITIES"/>
+<comment>
+/** Feature __JAVA_JSR_234_3D_AUDIO_AND_MUSIC_CAPABILITIES*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdJavaLocationAPI" uid="0x93" statusflags="0x0">
+<hrhmacro include="__JAVA_LOCATIONAPI"/>
+<comment>
+/** Feature __JAVA_LOCATIONAPI*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdJavaMIDP20" uid="0x585" statusflags="0x1">
+<hrhmacro include="__JAVA_MIDP20"/>
+<comment>
+/** Feature __JAVA_MIDP20*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdJavaMMAPI11" uid="0x8f" statusflags="0x0">
+<hrhmacro include="__JAVA_MMAPI11"/>
+<comment>
+/** Feature __JAVA_MMAPI11*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdJavaPIMAPI" uid="0x91" statusflags="0x0">
+<hrhmacro include="__JAVA_PIMAPI"/>
+<comment>
+/** Feature __JAVA_PIMAPI*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdJavaStubs" uid="0x698" statusflags="0x0">
+<hrhmacro include="__JAVA_STUBS"/>
+<comment>
+/** Feature __JAVA_STUBS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdKeepDRMContentOnPhone" uid="0x5e2" statusflags="0x0">
+<hrhmacro include="__KEEP_DRM_CONTENT_ON_PHONE"/>
+<comment>
+/** Feature __KEEP_DRM_CONTENT_ON_PHONE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLandmarks" uid="0x70" statusflags="0x1">
+<hrhmacro include="__LANDMARKS"/>
+<comment>
+/** Feature __LANDMARKS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLandmarksConverter" uid="0x7b" statusflags="0x1">
+<hrhmacro include="__LANDMARKS_CONVERTER"/>
+<comment>
+/** Feature __LANDMARKS_CONVERTER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLayout176_208" uid="0x463" statusflags="0x0">
+<hrhmacro include="__LAYOUT176_208"/>
+<comment>
+/** Feature __LAYOUT176_208*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLayout208_176" uid="0x62e" statusflags="0x0">
+<hrhmacro include="__LAYOUT208_176"/>
+<comment>
+/** Feature __LAYOUT208_176*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLayout208_208" uid="0x464" statusflags="0x0">
+<hrhmacro include="__LAYOUT208_208"/>
+<comment>
+/** Feature __LAYOUT208_208*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLayout240_320" uid="0x465" statusflags="0x1">
+<hrhmacro include="__LAYOUT_240_320"/>
+<comment>
+/** Feature __LAYOUT_240_320*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLayout240_320_LargeScreen" uid="0x655" statusflags="0x1">
+<hrhmacro include="__LAYOUT_240_320_LARGE_SCREEN"/>
+<comment>
+/** Feature __LAYOUT_240_320_LARGE_SCREEN*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLayout240_320_QVGA3" uid="0x68d" statusflags="0x0">
+<hrhmacro include="__LAYOUT_240_320_QVGA3"/>
+<comment>
+/** Feature __LAYOUT_240_320_QVGA3*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLayout240_320_Touch" uid="0x659" statusflags="0x0">
+<hrhmacro include="__LAYOUT_240_320_TOUCH"/>
+<comment>
+/** Feature __LAYOUT_240_320_TOUCH*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLayout320_240" uid="0x466" statusflags="0x1">
+<hrhmacro include="__LAYOUT_320_240"/>
+<comment>
+/** Feature __LAYOUT_320_240*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLayout320_240_LargeScreen" uid="0x656" statusflags="0x1">
+<hrhmacro include="__LAYOUT_320_240_LARGE_SCREEN"/>
+<comment>
+/** Feature __LAYOUT_320_240_LARGE_SCREEN*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLayout320_240_QVGA3" uid="0x68e" statusflags="0x0">
+<hrhmacro include="__LAYOUT_320_240_QVGA3"/>
+<comment>
+/** Feature __LAYOUT_320_240_QVGA3*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLayout320_240_Touch" uid="0x65a" statusflags="0x0">
+<hrhmacro include="__LAYOUT_320_240_TOUCH"/>
+<comment>
+/** Feature __LAYOUT_320_240_TOUCH*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLayout320_480" uid="0x651" statusflags="0x0">
+<hrhmacro include="__LAYOUT_320_480"/>
+<comment>
+/** Feature __LAYOUT_320_480*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLayout320_480_Touch" uid="0x65b" statusflags="0x1">
+<hrhmacro include="__LAYOUT_320_480_TOUCH"/>
+<comment>
+/** Feature __LAYOUT_320_480_TOUCH*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLayout352_416" uid="0x467" statusflags="0x0">
+<hrhmacro include="__LAYOUT_352_416"/>
+<comment>
+/** Feature __LAYOUT_352_416*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLayout352_800" uid="0x654" statusflags="0x0">
+<hrhmacro include="__LAYOUT_352_800"/>
+<comment>
+/** Feature __LAYOUT_352_800*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLayout360_640_Touch" uid="0x6a5" statusflags="0x1">
+<hrhmacro include="__LAYOUT_360_640_TOUCH"/>
+<comment>
+/** Feature __LAYOUT_360_640_TOUCH*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLayout416_352" uid="0x468" statusflags="0x0">
+<hrhmacro include="__LAYOUT_416_352"/>
+<comment>
+/** Feature __LAYOUT_416_352*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLayout480_320" uid="0x652" statusflags="0x0">
+<hrhmacro include="__LAYOUT_480_320"/>
+<comment>
+/** Feature __LAYOUT_480_320*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLayout480_320_Touch" uid="0x65c" statusflags="0x1">
+<hrhmacro include="__LAYOUT_480_320_TOUCH"/>
+<comment>
+/** Feature __LAYOUT_480_320_TOUCH*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLayout480_640" uid="0x64f" statusflags="0x0">
+<hrhmacro include="__LAYOUT_480_640"/>
+<comment>
+/** Feature __LAYOUT_480_640*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLayout480_640_Touch" uid="0x657" statusflags="0x0">
+<hrhmacro include="__LAYOUT_480_640_TOUCH"/>
+<comment>
+/** Feature __LAYOUT_480_640_TOUCH*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLayout640_360_Touch" uid="0x6a4" statusflags="0x1">
+<hrhmacro include="__LAYOUT_640_360_TOUCH"/>
+<comment>
+/** Feature __LAYOUT_640_360_TOUCH*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLayout640_480" uid="0x650" statusflags="0x0">
+<hrhmacro include="__LAYOUT_640_480"/>
+<comment>
+/** Feature __LAYOUT_640_480*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLayout640_480_Touch" uid="0x658" statusflags="0x0">
+<hrhmacro include="__LAYOUT_640_480_TOUCH"/>
+<comment>
+/** Feature __LAYOUT_640_480_TOUCH*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLayout800_352" uid="0x653" statusflags="0x0">
+<hrhmacro include="__LAYOUT_800_352"/>
+<comment>
+/** Feature __LAYOUT_800_352*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLightSurf" uid="0xf3" statusflags="0x0">
+<hrhmacro include="__LIGHTSURF"/>
+<comment>
+/** Feature __LIGHTSURF*/
+</comment>
+</feature>
+
+<featureoverride  name="KFeatureIdLocationFrameworkCore" uid="0x72" statusflags="0x1">
+<hrhmacro include="__LOCATIONFRAMEWORKCORE"/>
+<comment>
+/** Feature __LOCATIONFRAMEWORKCORE*/
+</comment>
+</featureoverride>
+
+<feature  name="KFeatureIdLocationGpsHw" uid="0x472" statusflags="0x0">
+<hrhmacro include="__LOCATIONGPSHW"/>
+<comment>
+/** Feature __LOCATIONGPSHW*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLocationSysUi" uid="0x7c" statusflags="0x1">
+<hrhmacro include="__LOCATIONSYSUI"/>
+<comment>
+/** Feature __LOCATIONSYSUI*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLocationVerifier" uid="0x470" statusflags="0x0">
+<hrhmacro include="__LOCATIONVERIFIER"/>
+<comment>
+/** Feature __LOCATIONVERIFIER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLocationCentre" uid="0x6a6" statusflags="0x1">
+<hrhmacro include="__LOCATION_CENTRE"/>
+<comment>
+/** Feature __LOCATION_CENTRE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLoggerGprs" uid="0x67" statusflags="0x1">
+<hrhmacro include="__LOGGER_GPRS"/>
+<comment>
+/** Feature __LOGGER_GPRS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdMacromediaFlash6" uid="0x4f" statusflags="0x1">
+<hrhmacro include="__MACROMEDIA_FLASH_6"/>
+<comment>
+/** Feature __MACROMEDIA_FLASH_6*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdMannerMode" uid="0x65d" statusflags="0x0">
+<hrhmacro include="__MANNER_MODE"/>
+<comment>
+/** Feature __MANNER_MODE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdMapAndNavigationAiwProvider" uid="0x642" statusflags="0x1">
+<hrhmacro include="__MAP_AND_NAVIGATION_AIW_PROVIDER"/>
+<comment>
+/** Feature __MAP_AND_NAVIGATION_AIW_PROVIDER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdMediator" uid="0x64e" statusflags="0x1">
+<hrhmacro include="__MEDIATOR"/>
+<comment>
+/** Feature __MEDIATOR*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdMediaTransferProtocol" uid="0x6a1" statusflags="0x1">
+<hrhmacro include="__MEDIA_TRANSFER_PROTOCOL"/>
+<comment>
+/** Feature __MEDIA_TRANSFER_PROTOCOL*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdMeetingRequestEnabler" uid="0x636" statusflags="0x1">
+<hrhmacro include="__MEETING_REQUEST_ENABLER"/>
+<comment>
+/** Feature __MEETING_REQUEST_ENABLER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdMeetingRequestSupport" uid="0x5e4" statusflags="0x0">
+<hrhmacro include="__MEETING_REQUEST_SUPPORT"/>
+<comment>
+/** Feature __MEETING_REQUEST_SUPPORT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdMIPv4" uid="0x138" statusflags="0x0">
+<hrhmacro include="__MIPV4"/>
+<comment>
+/** Feature __MIPV4*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdMIPv6" uid="0x6a" statusflags="0x0">
+<hrhmacro include="__MIPV6"/>
+<comment>
+/** Feature __MIPV6*/
+</comment>
+</feature>
+
+<featureoverride  name="KFeatureIdMmc" uid="0x1" statusflags="0x1">
+<hrhmacro include="__MMC"/>
+<comment>
+/** Feature __MMC*/
+</comment>
+</featureoverride>
+
+<feature  name="KFeatureIdMmCommsAvController" uid="0x1f9" statusflags="0x1">
+<hrhmacro include="__MMCOMMSAVCONTROLLER"/>
+<comment>
+/** Feature __MMCOMMSAVCONTROLLER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdMmCommsController" uid="0x1f4" statusflags="0x0">
+<hrhmacro include="__MMCOMMSCONTROLLER"/>
+<comment>
+/** Feature __MMCOMMSCONTROLLER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdMmCommsEngine" uid="0x1f5" statusflags="0x1">
+<hrhmacro include="__MMCOMMSENGINE"/>
+<comment>
+/** Feature __MMCOMMSENGINE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdMmcEject" uid="0x693" statusflags="0x1">
+<hrhmacro include="__MMC_EJECT"/>
+<comment>
+/** Feature __MMC_EJECT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdMmcHotswap" uid="0x434" statusflags="0x1">
+<hrhmacro include="__MMC_HOTSWAP"/>
+<comment>
+/** Feature __MMC_HOTSWAP*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdMmcLock" uid="0x687" statusflags="0x1">
+<hrhmacro include="__MMC_LOCK"/>
+<comment>
+/** Feature __MMC_LOCK*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdMmfDrmUtility" uid="0x1f0" statusflags="0x1">
+<hrhmacro include="__MMF_DRM_UTILITY"/>
+<comment>
+/** Feature __MMF_DRM_UTILITY*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdMMS" uid="0xf4" statusflags="0x1">
+<hrhmacro include="__MMS"/>
+<comment>
+/** Feature __MMS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdMmsNonDestructiveForward" uid="0xf2" statusflags="0x1">
+<hrhmacro include="__MMS_NONDESTRUCTIVE_FORWARD"/>
+<comment>
+/** Feature __MMS_NONDESTRUCTIVE_FORWARD*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdMMSNotificationsView" uid="0x46c" statusflags="0x1">
+<hrhmacro include="__MMS_NOTIFICATIONS_VIEW"/>
+<comment>
+/** Feature __MMS_NOTIFICATIONS_VIEW*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdMmsPostcard" uid="0x5e5" statusflags="0x0">
+<hrhmacro include="__MMS_POSTCARD"/>
+<comment>
+/** Feature __MMS_POSTCARD*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdMmsXidHeaderHttpFilter" uid="0x5f0" statusflags="0x0">
+<hrhmacro include="__MMS_XID_HEADER_HTTP_FILTER"/>
+<comment>
+/** Feature __MMS_XID_HEADER_HTTP_FILTER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdMobileActiveSync" uid="0x673" statusflags="0x1">
+<hrhmacro include="__MOBILE_ACTIVE_SYNC"/>
+<comment>
+/** Feature __MOBILE_ACTIVE_SYNC*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdMp3" uid="0x47" statusflags="0x1">
+<hrhmacro include="__MP3"/>
+<comment>
+/** Feature __MP3*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdMpegAacEncoding" uid="0x11a" statusflags="0x1">
+<hrhmacro include="__MPEG4_AAC_ENCODING"/>
+<comment>
+/** Feature __MPEG4_AAC_ENCODING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdMpeg4VideoEncoding" uid="0x50" statusflags="0x1">
+<hrhmacro include="__MPEG4_VIDEO_ENCODING"/>
+<comment>
+/** Feature __MPEG4_VIDEO_ENCODING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdMRouter" uid="0xe" statusflags="0x0">
+<hrhmacro include="__MROUTER"/>
+<comment>
+/** Feature __MROUTER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdMrtSdkLibraries" uid="0x67f" statusflags="0x1">
+<hrhmacro include="__MRT_SDK_LIBRARIES"/>
+<comment>
+/** Feature __MRT_SDK_LIBRARIES*/
+</comment>
+</feature>
+
+<featureoverride  name="KFeatureIdMtpProtocolSupport" uid="0x1f8" statusflags="0x1">
+<hrhmacro include="__MTP_PROTOCOL_SUPPORT"/>
+<comment>
+/** Feature __MTP_PROTOCOL_SUPPORT*/
+</comment>
+</featureoverride>
+
+<feature  name="KFeatureIdMultimediaSharing" uid="0x678" statusflags="0x1">
+<hrhmacro include="__MULTIMEDIA_SHARING"/>
+<comment>
+/** Feature __MULTIMEDIA_SHARING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdMultipleProvCtx" uid="0x423" statusflags="0x1">
+<hrhmacro include="__MULTIPLE_PROV_CTX"/>
+<comment>
+/** Feature __MULTIPLE_PROV_CTX*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdNetworkRegistration" uid="0x69" statusflags="0x1">
+<hrhmacro include="__NETWORK_REGISTRATION"/>
+<comment>
+/** Feature __NETWORK_REGISTRATION*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdNewsticker" uid="0xa6" statusflags="0x0">
+<hrhmacro include="__NEWSTICKER"/>
+<comment>
+/** Feature __NEWSTICKER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdNotSupportedFeature1" uid="0x3e9" statusflags="0x0">
+<hrhmacro include="__NOT_SUPPORTED_FEATURE1"/>
+<comment>
+/** Feature __NOT_SUPPORTED_FEATURE1*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdNotSupportedFeature2" uid="0x3eb" statusflags="0x0">
+<hrhmacro include="__NOT_SUPPORTED_FEATURE2"/>
+<comment>
+/** Feature __NOT_SUPPORTED_FEATURE2*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdNoOtaConfig" uid="0x41b" statusflags="0x0">
+<hrhmacro include="__NO_OTA_CONFIGURATION"/>
+<comment>
+/** Feature __NO_OTA_CONFIGURATION*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdNoPowerkey" uid="0x667" statusflags="0x0">
+<hrhmacro include="__NO_POWERKEY"/>
+<comment>
+/** Feature __NO_POWERKEY*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdNpProxy" uid="0x63e" statusflags="0x1">
+<hrhmacro include="__NP_PROXY"/>
+<comment>
+/** Feature __NP_PROXY*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdOcr" uid="0x639" statusflags="0x0">
+<hrhmacro include="__OCR"/>
+<comment>
+/** Feature __OCR*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdOcrHanwang" uid="0x63a" statusflags="0x0">
+<hrhmacro include="__OCR_HANWANG"/>
+<comment>
+/** Feature __OCR_HANWANG*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdOcrRomdb" uid="0x63b" statusflags="0x0">
+<hrhmacro include="__OCR_ROMDB"/>
+<comment>
+/** Feature __OCR_ROMDB*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdOCSP" uid="0x95" statusflags="0x1">
+<hrhmacro include="__OCSP"/>
+<comment>
+/** Feature __OCSP*/
+</comment>
+</feature>
+
+<featureoverride  name="KFeatureIdOfflineMode" uid="0x7" statusflags="0x1">
+<hrhmacro include="__OFFLINE_MODE"/>
+<comment>
+/** Feature __OFFLINE_MODE*/
+</comment>
+</featureoverride>
+
+<feature  name="KFeatureIdOmaEmailNotifications" uid="0x661" statusflags="0x1">
+<hrhmacro include="__OMA_EMAIL_NOTIFICATIONS"/>
+<comment>
+/** Feature __OMA_EMAIL_NOTIFICATIONS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdOmaImps12" uid="0x694" statusflags="0x1">
+<hrhmacro include="__OMA_IMPS_12"/>
+<comment>
+/** Feature __OMA_IMPS_12*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdOmaImps13" uid="0x695" statusflags="0x0">
+<hrhmacro include="__OMA_IMPS_13"/>
+<comment>
+/** Feature __OMA_IMPS_13*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdOmaPoc" uid="0x602" statusflags="0x0">
+<hrhmacro include="__OMA_POC"/>
+<comment>
+/** Feature __OMA_POC*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdOmaProv" uid="0xe4" statusflags="0x1">
+<hrhmacro include="__OMA_PROV"/>
+<comment>
+/** Feature __OMA_PROV*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdOmaSuplPlugins" uid="0x630" statusflags="0x1">
+<hrhmacro include="__OMA_SUPL_PLUGINS"/>
+<comment>
+/** Feature __OMA_SUPL_PLUGINS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdOnScreenDialer" uid="0x6a0" statusflags="0x1">
+<hrhmacro include="__ON_SCREEN_DIALER"/>
+<comment>
+/** Feature __ON_SCREEN_DIALER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdOpenGLES3DApi" uid="0xa" statusflags="0x1">
+<hrhmacro include="__OPENGL_ES_3DAPI"/>
+<comment>
+/** Feature __OPENGL_ES_3DAPI*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdOpenGLESSWImplementation" uid="0xd2" statusflags="0x1">
+<hrhmacro include="__OPENGL_ES_SW_IMPLEMENTATION"/>
+<comment>
+/** Feature __OPENGL_ES_SW_IMPLEMENTATION*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdOpenvgSwImplementation" uid="0x645" statusflags="0x1">
+<hrhmacro include="__OPENVG_SW_IMPLEMENTATION"/>
+<comment>
+/** Feature __OPENVG_SW_IMPLEMENTATION*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdOperatorCache" uid="0x42f" statusflags="0x1">
+<hrhmacro include="__OPERATOR_CACHE"/>
+<comment>
+/** Feature __OPERATOR_CACHE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdOperatorMenu" uid="0x422" statusflags="0x1">
+<hrhmacro include="__OPERATOR_MENU"/>
+<comment>
+/** Feature __OPERATOR_MENU*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdPaletteIndexAddressFixed" uid="0x460" statusflags="0x0">
+<hrhmacro include="__PALETTE_INDEX_ADDRESS_FIXED"/>
+<comment>
+/** Feature __PALETTE_INDEX_ADDRESS_FIXED*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdPenSupport" uid="0x19a" statusflags="0x1">
+<hrhmacro include="__PEN_SUPPORT"/>
+<comment>
+/** Feature __PEN_SUPPORT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdPenSupportCalibration" uid="0x67a" statusflags="0x1">
+<hrhmacro include="__PEN_SUPPORT_CALIBRATION"/>
+<comment>
+/** Feature __PEN_SUPPORT_CALIBRATION*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdPhoneHideDataCallNbr" uid="0x5a" statusflags="0x0">
+<hrhmacro include="__PHONE_HIDE_MO_DATACALL_NUMBER"/>
+<comment>
+/** Feature __PHONE_HIDE_MO_DATACALL_NUMBER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdPhoneNumberGrouping" uid="0x123" statusflags="0x0">
+<hrhmacro include="__PHONE_NUMBER_GROUPING"/>
+<comment>
+/** Feature __PHONE_NUMBER_GROUPING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdPlugAndPlayMobileServices" uid="0x67b" statusflags="0x1">
+<hrhmacro include="__PLUG_AND_PLAY_MOBILE_SERVICES"/>
+<comment>
+/** Feature __PLUG_AND_PLAY_MOBILE_SERVICES*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdPresence" uid="0x24" statusflags="0x1">
+<hrhmacro include="__PRESENCE"/>
+<comment>
+/** Feature __PRESENCE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdPresenceFramework" uid="0x665" statusflags="0x1">
+<hrhmacro include="__PRESENCE_FRAMEWORK"/>
+<comment>
+/** Feature __PRESENCE_FRAMEWORK*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdPrivacyFramework" uid="0x73" statusflags="0x1">
+<hrhmacro include="__PRIVACYFRAMEWORK"/>
+<comment>
+/** Feature __PRIVACYFRAMEWORK*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdProductRemconTsp" uid="0x699" statusflags="0x0">
+<hrhmacro include="__PRODUCT_REMCON_TSP"/>
+<comment>
+/** Feature __PRODUCT_REMCON_TSP*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdProtocolCdma" uid="0x53" statusflags="0x0">
+<hrhmacro include="__PROTOCOL_CDMA"/>
+<comment>
+/** Feature __PROTOCOL_CDMA*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdProtocolGsm" uid="0x51" statusflags="0x1">
+<hrhmacro include="__PROTOCOL_GSM"/>
+<comment>
+/** Feature __PROTOCOL_GSM*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdProtocolTdma" uid="0x54" statusflags="0x0">
+<hrhmacro include="__PROTOCOL_TDMA"/>
+<comment>
+/** Feature __PROTOCOL_TDMA*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdProtocolWcdma" uid="0x52" statusflags="0x1">
+<hrhmacro include="__PROTOCOL_WCDMA"/>
+<comment>
+/** Feature __PROTOCOL_WCDMA*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdProtocolWlan" uid="0x6d" statusflags="0x25">
+<hrhmacro include="__PROTOCOL_WLAN"/>
+<comment>
+/** Feature __PROTOCOL_WLAN*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdPushWhiteList" uid="0xe3" statusflags="0x1">
+<hrhmacro include="__PUSH_WHITELIST"/>
+<comment>
+/** Feature __PUSH_WHITELIST*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdQcelp" uid="0x119" statusflags="0x0">
+<hrhmacro include="__QCELP"/>
+<comment>
+/** Feature __QCELP*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdQos" uid="0x65" statusflags="0x1">
+<hrhmacro include="__QOS"/>
+<comment>
+/** Feature __QOS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdQvga2LayoutInUse" uid="0x63c" statusflags="0x0">
+<hrhmacro include="__QVGA2_LAYOUT_IN_USE"/>
+<comment>
+/** Feature __QVGA2_LAYOUT_IN_USE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdQwertyInput" uid="0x199" statusflags="0x1">
+<hrhmacro include="__QWERTY_INPUT"/>
+<comment>
+/** Feature __QWERTY_INPUT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdRealPlayerAsDefault" uid="0x669" statusflags="0x1">
+<hrhmacro include="__REAL_PLAYER_AS_DEFAULT"/>
+<comment>
+/** Feature __REAL_PLAYER_AS_DEFAULT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdRemoteLock" uid="0x674" statusflags="0x1">
+<hrhmacro include="__REMOTE_LOCK"/>
+<comment>
+/** Feature __REMOTE_LOCK*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdRemoteStorageFw" uid="0x62d" statusflags="0x1">
+<hrhmacro include="__REMOTE_STORAGE_FW"/>
+<comment>
+/** Feature __REMOTE_STORAGE_FW*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdRestrictedCallBarring" uid="0x648" statusflags="0x0">
+<hrhmacro include="__RESTRICTED_CALL_BARRING"/>
+<comment>
+/** Feature __RESTRICTED_CALL_BARRING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdRestrictedCallDivert" uid="0x649" statusflags="0x0">
+<hrhmacro include="__RESTRICTED_CALL_DIVERT"/>
+<comment>
+/** Feature __RESTRICTED_CALL_DIVERT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdRestrictedVoiceMail" uid="0x5e1" statusflags="0x0">
+<hrhmacro include="__RESTRICTED_VOICE_MAIL"/>
+<comment>
+/** Feature __RESTRICTED_VOICE_MAIL*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdRfid" uid="0x16" statusflags="0x0">
+<hrhmacro include="__RFID"/>
+<comment>
+/** Feature __RFID*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdRssFeeds" uid="0xa7" statusflags="0x1">
+<hrhmacro include="__RSS_FEEDS"/>
+<comment>
+/** Feature __RSS_FEEDS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdRtpStack" uid="0x635" statusflags="0x1">
+<hrhmacro include="__RTP_STACK"/>
+<comment>
+/** Feature __RTP_STACK*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdRV9" uid="0x446" statusflags="0x1">
+<hrhmacro include="__RV9"/>
+<comment>
+/** Feature __RV9*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdS60FmRadioApplication" uid="0x603" statusflags="0x1">
+<hrhmacro include="__S60_FM_RADIO_APPLICATION"/>
+<comment>
+/** Feature __S60_FM_RADIO_APPLICATION*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSapApplicationManagement" uid="0x628" statusflags="0x1">
+<hrhmacro include="__SAP_APPLICATION_MANAGEMENT"/>
+<comment>
+/** Feature __SAP_APPLICATION_MANAGEMENT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSapDeviceLockEnhancements" uid="0x64b" statusflags="0x1">
+<hrhmacro include="__SAP_DEVICE_LOCK_ENHANCEMENTS"/>
+<comment>
+/** Feature __SAP_DEVICE_LOCK_ENHANCEMENTS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSapEmbeddedLinkAdapter" uid="0x621" statusflags="0x1">
+<hrhmacro include="__SAP_EMBEDDED_LINK_ADAPTER"/>
+<comment>
+/** Feature __SAP_EMBEDDED_LINK_ADAPTER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSapIdleSoftkeyAdapter" uid="0x622" statusflags="0x1">
+<hrhmacro include="__SAP_IDLE_SOFTKEY_ADAPTER"/>
+<comment>
+/** Feature __SAP_IDLE_SOFTKEY_ADAPTER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSapOperatorLogoAdapter" uid="0x623" statusflags="0x1">
+<hrhmacro include="__SAP_OPERATOR_LOGO_ADAPTER"/>
+<comment>
+/** Feature __SAP_OPERATOR_LOGO_ADAPTER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSapPolicyManagement" uid="0x62a" statusflags="0x1">
+<hrhmacro include="__SAP_POLICY_MANAGEMENT"/>
+<comment>
+/** Feature __SAP_POLICY_MANAGEMENT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSapScreensaverAdapter" uid="0x624" statusflags="0x1">
+<hrhmacro include="__SAP_SCREENSAVER_ADAPTER"/>
+<comment>
+/** Feature __SAP_SCREENSAVER_ADAPTER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSapStartupAdapter" uid="0x625" statusflags="0x1">
+<hrhmacro include="__SAP_STARTUP_ADAPTER"/>
+<comment>
+/** Feature __SAP_STARTUP_ADAPTER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSapTerminalControlFw" uid="0x629" statusflags="0x1">
+<hrhmacro include="__SAP_TERMINAL_CONTROL_FW"/>
+<comment>
+/** Feature __SAP_TERMINAL_CONTROL_FW*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSapThemesAdapter" uid="0x626" statusflags="0x1">
+<hrhmacro include="__SAP_THEMES_ADAPTER"/>
+<comment>
+/** Feature __SAP_THEMES_ADAPTER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSapUiSettingServer" uid="0x62b" statusflags="0x1">
+<hrhmacro include="__SAP_UI_SETTING_SERVER"/>
+<comment>
+/** Feature __SAP_UI_SETTING_SERVER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSapWallpaperAdapter" uid="0x627" statusflags="0x1">
+<hrhmacro include="__SAP_WALLPAPER_ADAPTER"/>
+<comment>
+/** Feature __SAP_WALLPAPER_ADAPTER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSatBip" uid="0x606" statusflags="0x1">
+<hrhmacro include="__SAT_BIP"/>
+<comment>
+/** Feature __SAT_BIP*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSatCallControl" uid="0x605" statusflags="0x1">
+<hrhmacro include="__SAT_CALL_CONTROL"/>
+<comment>
+/** Feature __SAT_CALL_CONTROL*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSatDisplayText" uid="0x607" statusflags="0x1">
+<hrhmacro include="__SAT_DISPLAY_TEXT"/>
+<comment>
+/** Feature __SAT_DISPLAY_TEXT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSatGetInkey" uid="0x608" statusflags="0x1">
+<hrhmacro include="__SAT_GET_INKEY"/>
+<comment>
+/** Feature __SAT_GET_INKEY*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSatGetInput" uid="0x609" statusflags="0x1">
+<hrhmacro include="__SAT_GET_INPUT"/>
+<comment>
+/** Feature __SAT_GET_INPUT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSatLanguageNotification" uid="0x60a" statusflags="0x1">
+<hrhmacro include="__SAT_LANGUAGE_NOTIFICATION"/>
+<comment>
+/** Feature __SAT_LANGUAGE_NOTIFICATION*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSatLaunchBrowser" uid="0x60b" statusflags="0x1">
+<hrhmacro include="__SAT_LAUNCH_BROWSER"/>
+<comment>
+/** Feature __SAT_LAUNCH_BROWSER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSatMoSmControl" uid="0x60c" statusflags="0x1">
+<hrhmacro include="__SAT_MO_SM_CONTROL"/>
+<comment>
+/** Feature __SAT_MO_SM_CONTROL*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSatPlayTone" uid="0x60d" statusflags="0x1">
+<hrhmacro include="__SAT_PLAY_TONE"/>
+<comment>
+/** Feature __SAT_PLAY_TONE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSatProvideLocalInfo" uid="0x60e" statusflags="0x1">
+<hrhmacro include="__SAT_PROVIDE_LOCAL_INFO"/>
+<comment>
+/** Feature __SAT_PROVIDE_LOCAL_INFO*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSatRefresh" uid="0x60f" statusflags="0x1">
+<hrhmacro include="__SAT_REFRESH"/>
+<comment>
+/** Feature __SAT_REFRESH*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSatSelectItem" uid="0x610" statusflags="0x1">
+<hrhmacro include="__SAT_SELECT_ITEM"/>
+<comment>
+/** Feature __SAT_SELECT_ITEM*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSatSendDtfm" uid="0x611" statusflags="0x1">
+<hrhmacro include="__SAT_SEND_DTMF"/>
+<comment>
+/** Feature __SAT_SEND_DTMF*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSatSendSm" uid="0x612" statusflags="0x1">
+<hrhmacro include="__SAT_SEND_SM"/>
+<comment>
+/** Feature __SAT_SEND_SM*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSatSendSs" uid="0x613" statusflags="0x1">
+<hrhmacro include="__SAT_SEND_SS"/>
+<comment>
+/** Feature __SAT_SEND_SS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSatSendUssd" uid="0x614" statusflags="0x1">
+<hrhmacro include="__SAT_SEND_USSD"/>
+<comment>
+/** Feature __SAT_SEND_USSD*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSatSetupCall" uid="0x615" statusflags="0x1">
+<hrhmacro include="__SAT_SETUP_CALL"/>
+<comment>
+/** Feature __SAT_SETUP_CALL*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSatSetUpEventList" uid="0x616" statusflags="0x1">
+<hrhmacro include="__SAT_SET_UP_EVENT_LIST"/>
+<comment>
+/** Feature __SAT_SET_UP_EVENT_LIST*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSatSetUpIdleModeText" uid="0x617" statusflags="0x1">
+<hrhmacro include="__SAT_SET_UP_IDLE_MODE_TEXT"/>
+<comment>
+/** Feature __SAT_SET_UP_IDLE_MODE_TEXT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSatSetUpMenu" uid="0x618" statusflags="0x1">
+<hrhmacro include="__SAT_SET_UP_MENU"/>
+<comment>
+/** Feature __SAT_SET_UP_MENU*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdScalableIcons" uid="0x469" statusflags="0x1">
+<hrhmacro include="__SCALABLE_ICONS"/>
+<comment>
+/** Feature __SCALABLE_ICONS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSdnd" uid="0x11b" statusflags="0x0">
+<hrhmacro include="__SDND"/>
+<comment>
+/** Feature __SDND*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSeamlessLinks" uid="0x432" statusflags="0x1">
+<hrhmacro include="__SEAMLESS_LINKS"/>
+<comment>
+/** Feature __SEAMLESS_LINKS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSecureHW" uid="0x5e" statusflags="0x0">
+<hrhmacro include="__SECURE_HW"/>
+<comment>
+/** Feature __SECURE_HW*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSenduiMmsUpload" uid="0x46f" statusflags="0x0">
+<hrhmacro include="__SENDUI_MMS_UPLOAD"/>
+<comment>
+/** Feature __SENDUI_MMS_UPLOAD*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSendFileInCall" uid="0x43f" statusflags="0x1">
+<hrhmacro include="__SEND_FILE_IN_CALL"/>
+<comment>
+/** Feature __SEND_FILE_IN_CALL*/
+</comment>
+</feature>
+
+<featureoverride  name="KFeatureIdAmbientLightSensor" uid="0x5f9" statusflags="0x1">
+<hrhmacro include="__SERIES60_AMBIENT_LIGHT_SENSOR"/>
+<comment>
+/** Feature __SERIES60_AMBIENT_LIGHT_SENSOR*/
+</comment>
+</featureoverride>
+
+<feature  name="KFeatureIdHelp" uid="0x3f4" statusflags="0x1">
+<hrhmacro include="__SERIES60_HELP"/>
+<comment>
+/** Feature __SERIES60_HELP*/
+</comment>
+</feature>
+
+<featureoverride  name="KFeatureIdKeypadNoSlider" uid="0x3f5" statusflags="0x1">
+<hrhmacro include="__SERIES60_KEYPAD_NO_SLIDER"/>
+<comment>
+/** Feature __SERIES60_KEYPAD_NO_SLIDER*/
+</comment>
+</featureoverride>
+
+<feature  name="KFeatureIdKeypadNoVoiceKey" uid="0x3f6" statusflags="0x0">
+<hrhmacro include="__SERIES60_KEYPAD_NO_VOICE_KEY"/>
+<comment>
+/** Feature __SERIES60_KEYPAD_NO_VOICE_KEY*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdLunarCalendar" uid="0x3f9" statusflags="0x0">
+<hrhmacro include="__SERIES60_LUNAR_CALENDAR"/>
+<comment>
+/** Feature __SERIES60_LUNAR_CALENDAR*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdMidi" uid="0x3f3" statusflags="0x1">
+<hrhmacro include="__SERIES60_MIDI"/>
+<comment>
+/** Feature __SERIES60_MIDI*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSeries60NativeBrowser" uid="0xa8" statusflags="0x1">
+<hrhmacro include="__SERIES60_NATIVE_BROWSER"/>
+<comment>
+/** Feature __SERIES60_NATIVE_BROWSER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdPhone2DigitDial" uid="0x409" statusflags="0x0">
+<hrhmacro include="__SERIES60_PHONE_2DIGIT_DIAL"/>
+<comment>
+/** Feature __SERIES60_PHONE_2DIGIT_DIAL*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdPhoneCnap" uid="0x407" statusflags="0x1">
+<hrhmacro include="__SERIES60_PHONE_CNAP"/>
+<comment>
+/** Feature __SERIES60_PHONE_CNAP*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdPhoneTty" uid="0x408" statusflags="0x1">
+<hrhmacro include="__SERIES60_PHONE_TTY"/>
+<comment>
+/** Feature __SERIES60_PHONE_TTY*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdPushSL" uid="0x41e" statusflags="0x1">
+<hrhmacro include="__SERIES60_PUSH_SL"/>
+<comment>
+/** Feature __SERIES60_PUSH_SL*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdPushSP" uid="0x41f" statusflags="0x0">
+<hrhmacro include="__SERIES60_PUSH_SP"/>
+<comment>
+/** Feature __SERIES60_PUSH_SP*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdRealPlayer" uid="0x410" statusflags="0x1">
+<hrhmacro include="__SERIES60_REAL_PLAYER"/>
+<comment>
+/** Feature __SERIES60_REAL_PLAYER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSettingsProtection" uid="0x41a" statusflags="0x1">
+<hrhmacro include="__SERIES60_SETTINGS_PROTECTION"/>
+<comment>
+/** Feature __SERIES60_SETTINGS_PROTECTION*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdShowPanics" uid="0x433" statusflags="0x1">
+<hrhmacro include="__SHOW_PANICS"/>
+<comment>
+/** Feature __SHOW_PANICS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSideVolumeKeys" uid="0xcf" statusflags="0x1">
+<hrhmacro include="__SIDE_VOLUME_KEYS"/>
+<comment>
+/** Feature __SIDE_VOLUME_KEYS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSimCard" uid="0x58" statusflags="0x1">
+<hrhmacro include="__SIMCARD"/>
+<comment>
+/** Feature __SIMCARD*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSimpleLogs" uid="0x441" statusflags="0x0">
+<hrhmacro include="__SIMPLE_LOGS"/>
+<comment>
+/** Feature __SIMPLE_LOGS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSimCertificates" uid="0x19" statusflags="0x1">
+<hrhmacro include="__SIM_CERTIFICATES"/>
+<comment>
+/** Feature __SIM_CERTIFICATES*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSimPhonebookMatch" uid="0x124" statusflags="0x1">
+<hrhmacro include="__SIM_PHONEBOOK_MATCH"/>
+<comment>
+/** Feature __SIM_PHONEBOOK_MATCH*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSind" uid="0x48" statusflags="0x1">
+<hrhmacro include="__SIND"/>
+<comment>
+/** Feature __SIND*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSipSimplePresenceProtocol" uid="0x663" statusflags="0x1">
+<hrhmacro include="__SIP_SIMPLE_PRESENCE_PROTOCOL"/>
+<comment>
+/** Feature __SIP_SIMPLE_PRESENCE_PROTOCOL*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSlideshowScreensaver" uid="0x68c" statusflags="0x1">
+<hrhmacro include="__SLIDESHOW_SCREENSAVER"/>
+<comment>
+/** Feature __SLIDESHOW_SCREENSAVER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSmartmsgSMSBookmarkReceiving" uid="0x452" statusflags="0x1">
+<hrhmacro include="__SMARTMSG_SMS_BOOKMARK_RECEIVING"/>
+<comment>
+/** Feature __SMARTMSG_SMS_BOOKMARK_RECEIVING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSmartmsgSMSGmsMessageReceiving" uid="0x458" statusflags="0x1">
+<hrhmacro include="__SMARTMSG_SMS_GMS_MESSAGE_RECEIVING"/>
+<comment>
+/** Feature __SMARTMSG_SMS_GMS_MESSAGE_RECEIVING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSmartmsgSMSGmsMessageSendingSupported" uid="0x459" statusflags="0x0">
+<hrhmacro include="__SMARTMSG_SMS_GMS_MESSAGE_SENDING_SUPPORTED "/>
+<comment>
+/** Feature __SMARTMSG_SMS_GMS_MESSAGE_SENDING_SUPPORTED */
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSmartmsgSMSIapSettingsReceiving" uid="0x454" statusflags="0x0">
+<hrhmacro include="__SMARTMSG_SMS_IAP_SETTINGS_RECEIVING"/>
+<comment>
+/** Feature __SMARTMSG_SMS_IAP_SETTINGS_RECEIVING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSmartmsgSMSOperatorLogoReceiving" uid="0x456" statusflags="0x1">
+<hrhmacro include="__SMARTMSG_SMS_OPERATOR_LOGO_RECEIVING"/>
+<comment>
+/** Feature __SMARTMSG_SMS_OPERATOR_LOGO_RECEIVING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSmartmsgSMSRingingToneReceiving" uid="0x457" statusflags="0x1">
+<hrhmacro include="__SMARTMSG_SMS_RINGING_TONE_RECEIVING"/>
+<comment>
+/** Feature __SMARTMSG_SMS_RINGING_TONE_RECEIVING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSmartmsgSMSVcalReceiving" uid="0x45a" statusflags="0x1">
+<hrhmacro include="__SMARTMSG_SMS_VCAL_RECEIVING"/>
+<comment>
+/** Feature __SMARTMSG_SMS_VCAL_RECEIVING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSmartmsgSMSVcalSending" uid="0x45c" statusflags="0x1">
+<hrhmacro include="__SMARTMSG_SMS_VCAL_SENDING"/>
+<comment>
+/** Feature __SMARTMSG_SMS_VCAL_SENDING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSmartmsgSMSVcardReceiving" uid="0x45b" statusflags="0x1">
+<hrhmacro include="__SMARTMSG_SMS_VCARD_RECEIVING"/>
+<comment>
+/** Feature __SMARTMSG_SMS_VCARD_RECEIVING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSmartmsgSMSVcardSending" uid="0x45d" statusflags="0x1">
+<hrhmacro include="__SMARTMSG_SMS_VCARD_SENDING"/>
+<comment>
+/** Feature __SMARTMSG_SMS_VCARD_SENDING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSmartmsgSMSWapApReceiving" uid="0x453" statusflags="0x0">
+<hrhmacro include="__SMARTMSG_SMS_WAP_AP_RECEIVING"/>
+<comment>
+/** Feature __SMARTMSG_SMS_WAP_AP_RECEIVING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSmartmsgSMSWvSettingsReceiving" uid="0x455" statusflags="0x0">
+<hrhmacro include="__SMARTMSG_SMS_WV_SETTINGS_RECEIVING"/>
+<comment>
+/** Feature __SMARTMSG_SMS_WV_SETTINGS_RECEIVING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSmartCardProv" uid="0x1b" statusflags="0x1">
+<hrhmacro include="__SMART_CARD_PROV"/>
+<comment>
+/** Feature __SMART_CARD_PROV*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSmilEditor" uid="0x431" statusflags="0x1">
+<hrhmacro include="__SMIL_EDITOR"/>
+<comment>
+/** Feature __SMIL_EDITOR*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSmilStreaming" uid="0x4e" statusflags="0x0">
+<hrhmacro include="__SMIL_STREAMING"/>
+<comment>
+/** Feature __SMIL_STREAMING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSrcs" uid="0x11" statusflags="0x1">
+<hrhmacro include="__SRCS"/>
+<comment>
+/** Feature __SRCS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSSO" uid="0x1c" statusflags="0x0">
+<hrhmacro include="__SSO"/>
+<comment>
+/** Feature __SSO*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdStereoWideningEffectUi" uid="0x68a" statusflags="0x0">
+<hrhmacro include="__STEREO_WIDENING_EFFECT_UI"/>
+<comment>
+/** Feature __STEREO_WIDENING_EFFECT_UI*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSuplFramework" uid="0x62f" statusflags="0x1">
+<hrhmacro include="__SUPL_FRAMEWORK"/>
+<comment>
+/** Feature __SUPL_FRAMEWORK*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSupportedFeature1" uid="0x3e8" statusflags="0x1">
+<hrhmacro include="__SUPPORTED_FEATURE1"/>
+<comment>
+/** Feature __SUPPORTED_FEATURE1*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSupportedFeature2" uid="0x3ea" statusflags="0x1">
+<hrhmacro include="__SUPPORTED_FEATURE2"/>
+<comment>
+/** Feature __SUPPORTED_FEATURE2*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSvgt" uid="0x4d" statusflags="0x1">
+<hrhmacro include="__SVGT"/>
+<comment>
+/** Feature __SVGT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSvgtScreensaverPlugin" uid="0x66f" statusflags="0x1">
+<hrhmacro include="__SVGT_SCREENSAVER_PLUGIN"/>
+<comment>
+/** Feature __SVGT_SCREENSAVER_PLUGIN*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSvgtViewer" uid="0x473" statusflags="0x1">
+<hrhmacro include="__SVGT_VIEWER"/>
+<comment>
+/** Feature __SVGT_VIEWER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSyncMlDm" uid="0x29" statusflags="0x1">
+<hrhmacro include="__SYNCML_DM"/>
+<comment>
+/** Feature __SYNCML_DM*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSyncMlDm112" uid="0x69f" statusflags="0x0">
+<hrhmacro include="__SYNCML_DM_1_1_2"/>
+<comment>
+/** Feature __SYNCML_DM_1_1_2*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSyncMlDmDiagnostics" uid="0x691" statusflags="0x0">
+<hrhmacro include="__SYNCML_DM_DIAGNOSTICS"/>
+<comment>
+/** Feature __SYNCML_DM_DIAGNOSTICS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSyncMlDmDs" uid="0x2f" statusflags="0x1">
+<hrhmacro include="__SYNCML_DM_DS"/>
+<comment>
+/** Feature __SYNCML_DM_DS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSyncMlDmEmail" uid="0x31" statusflags="0x1">
+<hrhmacro include="__SYNCML_DM_EMAIL"/>
+<comment>
+/** Feature __SYNCML_DM_EMAIL*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSyncMlDmFota" uid="0x3a" statusflags="0x1">
+<hrhmacro include="__SYNCML_DM_FOTA"/>
+<comment>
+/** Feature __SYNCML_DM_FOTA*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSyncMlDmIAP" uid="0x30" statusflags="0x1">
+<hrhmacro include="__SYNCML_DM_IAP"/>
+<comment>
+/** Feature __SYNCML_DM_IAP*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSyncMlDmImps" uid="0x39" statusflags="0x1">
+<hrhmacro include="__SYNCML_DM_IMPS"/>
+<comment>
+/** Feature __SYNCML_DM_IMPS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSyncMlDmMMS" uid="0x32" statusflags="0x1">
+<hrhmacro include="__SYNCML_DM_MMS"/>
+<comment>
+/** Feature __SYNCML_DM_MMS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSyncMlDmObex" uid="0x36" statusflags="0x1">
+<hrhmacro include="__SYNCML_DM_OBEX"/>
+<comment>
+/** Feature __SYNCML_DM_OBEX*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSyncMlDmOta" uid="0x68f" statusflags="0x1">
+<hrhmacro include="__SYNCML_DM_OTA"/>
+<comment>
+/** Feature __SYNCML_DM_OTA*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSyncMlDmSIP" uid="0x3c" statusflags="0x1">
+<hrhmacro include="__SYNCML_DM_SIP"/>
+<comment>
+/** Feature __SYNCML_DM_SIP*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSyncMlDmStreaming" uid="0x38" statusflags="0x0">
+<hrhmacro include="__SYNCML_DM_STREAMING"/>
+<comment>
+/** Feature __SYNCML_DM_STREAMING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSyncMlDmVoIP" uid="0x3b" statusflags="0x1">
+<hrhmacro include="__SYNCML_DM_VOIP"/>
+<comment>
+/** Feature __SYNCML_DM_VOIP*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSyncMlDmWlan" uid="0x37" statusflags="0x1">
+<hrhmacro include="__SYNCML_DM_WLAN"/>
+<comment>
+/** Feature __SYNCML_DM_WLAN*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSyncMlDs" uid="0x2a" statusflags="0x1">
+<hrhmacro include="__SYNCML_DS"/>
+<comment>
+/** Feature __SYNCML_DS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSyncMlDsAiwProvider" uid="0x5ec" statusflags="0x1">
+<hrhmacro include="__SYNCML_DS_AIW_PROVIDER"/>
+<comment>
+/** Feature __SYNCML_DS_AIW_PROVIDER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSyncMlDsAlert" uid="0x34" statusflags="0x1">
+<hrhmacro include="__SYNCML_DS_ALERT"/>
+<comment>
+/** Feature __SYNCML_DS_ALERT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSyncMlDsBookmark" uid="0x6aa" statusflags="0x1">
+<hrhmacro include="__SYNCML_DS_BOOKMARK"/>
+<comment>
+/** Feature __SYNCML_DS_BOOKMARK*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSyncMlDsCal" uid="0x2e" statusflags="0x1">
+<hrhmacro include="__SYNCML_DS_CAL"/>
+<comment>
+/** Feature __SYNCML_DS_CAL*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSyncMlDsCon" uid="0x2d" statusflags="0x1">
+<hrhmacro include="__SYNCML_DS_CON"/>
+<comment>
+/** Feature __SYNCML_DS_CON*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSyncMlDsEmail" uid="0x2c" statusflags="0x1">
+<hrhmacro include="__SYNCML_DS_EMAIL"/>
+<comment>
+/** Feature __SYNCML_DS_EMAIL*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSyncMlDsEmailFiltering" uid="0x71" statusflags="0x0">
+<hrhmacro include="__SYNCML_DS_EMAIL_FILTERING"/>
+<comment>
+/** Feature __SYNCML_DS_EMAIL_FILTERING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSyncMlDsMMS" uid="0x2b" statusflags="0x1">
+<hrhmacro include="__SYNCML_DS_MMS"/>
+<comment>
+/** Feature __SYNCML_DS_MMS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSyncMlDsNotepad" uid="0x35" statusflags="0x1">
+<hrhmacro include="__SYNCML_DS_NOTEPAD"/>
+<comment>
+/** Feature __SYNCML_DS_NOTEPAD*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSyncMlDsOverHttp" uid="0x586" statusflags="0x1">
+<hrhmacro include="__SYNCML_DS_OVER_HTTP"/>
+<comment>
+/** Feature __SYNCML_DS_OVER_HTTP*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSyncMlDsSms" uid="0x63f" statusflags="0x1">
+<hrhmacro include="__SYNCML_DS_SMS"/>
+<comment>
+/** Feature __SYNCML_DS_SMS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSyncMlIsync" uid="0x690" statusflags="0x1">
+<hrhmacro include="__SYNCML_ISYNC"/>
+<comment>
+/** Feature __SYNCML_ISYNC*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSyncMlObex" uid="0x33" statusflags="0x1">
+<hrhmacro include="__SYNCML_OBEX"/>
+<comment>
+/** Feature __SYNCML_OBEX*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdSyncMlTwinSuite" uid="0x68b" statusflags="0x0">
+<hrhmacro include="__SYNCML_TWIN_SUITE"/>
+<comment>
+/** Feature __SYNCML_TWIN_SUITE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdTelephonyService" uid="0x471" statusflags="0x0">
+<hrhmacro include="__TELEPHONY_SERVICE"/>
+<comment>
+/** Feature __TELEPHONY_SERVICE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdThai" uid="0x439" statusflags="0x0">
+<hrhmacro include="__THAI"/>
+<comment>
+/** Feature __THAI*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdThaiCalendar" uid="0x66e" statusflags="0x0">
+<hrhmacro include="__THAI_CALENDAR"/>
+<comment>
+/** Feature __THAI_CALENDAR*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdTvOut" uid="0x604" statusflags="0x1">
+<hrhmacro include="__TV_OUT"/>
+<comment>
+/** Feature __TV_OUT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdUiTransitionEffects" uid="0x666" statusflags="0x1">
+<hrhmacro include="__UI_TRANSITION_EFFECTS"/>
+<comment>
+/** Feature __UI_TRANSITION_EFFECTS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdUiZoom" uid="0x65f" statusflags="0x1">
+<hrhmacro include="__UI_ZOOM"/>
+<comment>
+/** Feature __UI_ZOOM*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdUpin" uid="0x64c" statusflags="0x1">
+<hrhmacro include="__UPIN"/>
+<comment>
+/** Feature __UPIN*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdUpnpAvcp" uid="0x5fd" statusflags="0x1">
+<hrhmacro include="__UPNP_AVCP"/>
+<comment>
+/** Feature __UPNP_AVCP*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdUpnpMediaserver" uid="0x67d" statusflags="0x1">
+<hrhmacro include="__UPNP_MEDIASERVER"/>
+<comment>
+/** Feature __UPNP_MEDIASERVER*/
+</comment>
+</feature>
+
+<featureoverride  name="KFeatureIdUpnpPrintFramework" uid="0x5ff" statusflags="0x1">
+<hrhmacro include="__UPNP_PRINT_FRAMEWORK"/>
+<comment>
+/** Feature __UPNP_PRINT_FRAMEWORK*/
+</comment>
+</featureoverride>
+
+<feature  name="KFeatureIdUpnpRemoteStorage" uid="0x600" statusflags="0x0">
+<hrhmacro include="__UPNP_REMOTE_STORAGE"/>
+<comment>
+/** Feature __UPNP_REMOTE_STORAGE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdUpnpStack" uid="0x5f8" statusflags="0x1">
+<hrhmacro include="__UPNP_STACK"/>
+<comment>
+/** Feature __UPNP_STACK*/
+</comment>
+</feature>
+
+<featureoverride  name="KFeatureIdUsb" uid="0xd" statusflags="0x1">
+<hrhmacro include="__USB"/>
+<comment>
+/** Feature __USB*/
+</comment>
+</featureoverride>
+
+<feature  name="KFeatureIdUsbDeviceLock" uid="0x474" statusflags="0x1">
+<hrhmacro include="__USB_DEVICE_LOCK"/>
+<comment>
+/** Feature __USB_DEVICE_LOCK*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdUsbMultiPersonality" uid="0x5fe" statusflags="0x1">
+<hrhmacro include="__USB_MULTIPERSONALITY"/>
+<comment>
+/** Feature __USB_MULTIPERSONALITY*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdUsbPictbridge" uid="0x5fb" statusflags="0x1">
+<hrhmacro include="__USB_PICTBRIDGE"/>
+<comment>
+/** Feature __USB_PICTBRIDGE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdUsbPictbridgeUi" uid="0x61e" statusflags="0x0">
+<hrhmacro include="__USB_PICTBRIDGE_UI"/>
+<comment>
+/** Feature __USB_PICTBRIDGE_UI*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdUsbPtp" uid="0x5fc" statusflags="0x0">
+<hrhmacro include="__USB_PTP"/>
+<comment>
+/** Feature __USB_PTP*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdUsbRemotePersonality" uid="0x69a" statusflags="0x1">
+<hrhmacro include="__USB_REMOTE_PERSONALITY"/>
+<comment>
+/** Feature __USB_REMOTE_PERSONALITY*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdUsbStreaming" uid="0xdd" statusflags="0x0">
+<hrhmacro include="__USB_STREAMING"/>
+<comment>
+/** Feature __USB_STREAMING*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdUserConfigurableUssdMenu" uid="0x5dd" statusflags="0x0">
+<hrhmacro include="__USER_CONFIGURABLE_USSD_MENU"/>
+<comment>
+/** Feature __USER_CONFIGURABLE_USSD_MENU*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdUseAacCMMFCodec" uid="0x11e" statusflags="0x1">
+<hrhmacro include="__USE_AAC_CMMFCODEC"/>
+<comment>
+/** Feature __USE_AAC_CMMFCODEC*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdUseAmrNbCMMFCodec" uid="0x11c" statusflags="0x1">
+<hrhmacro include="__USE_AMR_NB_CMMFCODEC"/>
+<comment>
+/** Feature __USE_AMR_NB_CMMFCODEC*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdUseAmrWbCMMFCodec" uid="0x11d" statusflags="0x1">
+<hrhmacro include="__USE_AMR_WB_CMMFCODEC"/>
+<comment>
+/** Feature __USE_AMR_WB_CMMFCODEC*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdUseDrmEngineInCcp" uid="0x5c" statusflags="0x1">
+<hrhmacro include="__USE_DRMENGINE_IN_CCP"/>
+<comment>
+/** Feature __USE_DRMENGINE_IN_CCP*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdUseEaacplusCmmfCodec" uid="0x5f2" statusflags="0x1">
+<hrhmacro include="__USE_EAACPLUS_CMMFCODEC"/>
+<comment>
+/** Feature __USE_EAACPLUS_CMMFCODEC*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdUseMp3CMMFCodec" uid="0x11f" statusflags="0x1">
+<hrhmacro include="__USE_MP3_CMMFCODEC"/>
+<comment>
+/** Feature __USE_MP3_CMMFCODEC*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdUseQcelpCMMFCodec" uid="0x120" statusflags="0x1">
+<hrhmacro include="__USE_QCELP_CMMFCODEC"/>
+<comment>
+/** Feature __USE_QCELP_CMMFCODEC*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdUSSD" uid="0x443" statusflags="0x1">
+<hrhmacro include="__USSD"/>
+<comment>
+/** Feature __USSD*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdVfpHwSupport" uid="0x685" statusflags="0x1">
+<hrhmacro include="__VFP_HW_SUPPORT"/>
+<comment>
+/** Feature __VFP_HW_SUPPORT*/
+</comment>
+</feature>
+
+<featureoverride  name="KFeatureIdVibra" uid="0x19b" statusflags="0x1">
+<hrhmacro include="__VIBRA"/>
+<comment>
+/** Feature __VIBRA*/
+</comment>
+</featureoverride>
+
+<feature  name="KFeatureIdVideocallMenuVisibility" uid="0x5ef" statusflags="0x0">
+<hrhmacro include="__VIDEOCALL_MENU_VISIBILITY"/>
+<comment>
+/** Feature __VIDEOCALL_MENU_VISIBILITY*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdVideoCenterSupported" uid="0x6a2" statusflags="0x0">
+<hrhmacro include="__VIDEO_CENTER_SUPPORTED"/>
+<comment>
+/** Feature __VIDEO_CENTER_SUPPORTED*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdVideoMenu" uid="0x662" statusflags="0x1">
+<hrhmacro include="__VIDEO_MENU"/>
+<comment>
+/** Feature __VIDEO_MENU*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdVideoRecorder" uid="0xd0" statusflags="0x1">
+<hrhmacro include="__VIDEO_RECORDER"/>
+<comment>
+/** Feature __VIDEO_RECORDER*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdVirtualKeyboardInput" uid="0x643" statusflags="0x1">
+<hrhmacro include="__VIRTUAL_KEYBOARD_INPUT"/>
+<comment>
+/** Feature __VIRTUAL_KEYBOARD_INPUT*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdCommonVoip" uid="0x12a" statusflags="0x1">
+<hrhmacro include="__VOIP"/>
+<comment>
+/** Feature __VOIP*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdWallet" uid="0x15" statusflags="0x0">
+<hrhmacro include="__WALLET"/>
+<comment>
+/** Feature __WALLET*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdWebWidgets" uid="0x69b" statusflags="0x1">
+<hrhmacro include="__WEB_WIDGETS"/>
+<comment>
+/** Feature __WEB_WIDGETS*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdWim" uid="0x18" statusflags="0x1">
+<hrhmacro include="__WIM"/>
+<comment>
+/** Feature __WIM*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdWindowsMedia" uid="0x675" statusflags="0x1">
+<hrhmacro include="__WINDOWS_MEDIA"/>
+<comment>
+/** Feature __WINDOWS_MEDIA*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdWindowsMediaDrm" uid="0x676" statusflags="0x1">
+<hrhmacro include="__WINDOWS_MEDIA_DRM"/>
+<comment>
+/** Feature __WINDOWS_MEDIA_DRM*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdWlanWep256Enabled" uid="0x5fa" statusflags="0x0">
+<hrhmacro include="__WLAN_WEP256_ENABLED"/>
+<comment>
+/** Feature __WLAN_WEP256_ENABLED*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdWma" uid="0x1f7" statusflags="0x1">
+<hrhmacro include="__WMA"/>
+<comment>
+/** Feature __WMA*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdWorldClock" uid="0x44a" statusflags="0x1">
+<hrhmacro include="__WORLD_CLOCK"/>
+<comment>
+/** Feature __WORLD_CLOCK*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdWsp" uid="0x1a" statusflags="0x0">
+<hrhmacro include="__WSP"/>
+<comment>
+/** Feature __WSP*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdXdm" uid="0x5f3" statusflags="0x1">
+<hrhmacro include="__XDM"/>
+<comment>
+/** Feature __XDM*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdXdmLocalStorage" uid="0x5f5" statusflags="0x1">
+<hrhmacro include="__XDM_LOCALSTORAGE"/>
+<comment>
+/** Feature __XDM_LOCALSTORAGE*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdXdmXcap" uid="0x5f4" statusflags="0x1">
+<hrhmacro include="__XDM_XCAP"/>
+<comment>
+/** Feature __XDM_XCAP*/
+</comment>
+</feature>
+
+<feature  name="KFeatureIdXspExtensionManager" uid="0x69c" statusflags="0x1">
+<hrhmacro include="__XSP_EXTENSION_MANAGER"/>
+<comment>
+/** Feature __XSP_EXTENSION_MANAGER*/
+</comment>
+</feature>
+
+</featureset>
+<defaultfeaturerange loweruid="0x0" higheruid="0x1000000">
+<comment>
+/**
+The UID ranges are allocated for Symbian features that default to reporting "feature supported"
+*/
+</comment>
+</defaultfeaturerange >
+</featuredatabase> 

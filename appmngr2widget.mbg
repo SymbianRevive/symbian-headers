@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifAppmngr2widget
+	{
+	EMbmAppmngr2widgetQgn_menu_am_widget = 16384,
+	EMbmAppmngr2widgetQgn_menu_am_widget_mask = 16385,
+	EMbmAppmngr2widgetLastElement
+	};

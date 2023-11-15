@@ -1,0 +1,8 @@
+#define R_PSLN_CALL_IMAGE_VIEW                    0x4d7be004
+#define R_PSLN_CI_VIEW_MENUBAR                    0x4d7be005
+#define R_PSLN_CI_BASIC_MENUPANE                  0x4d7be006
+#define R_PSLN_CI_LIST_VIEW_TITLE                 0x4d7be007
+#define R_PSLN_CI_LIST_VIEW_CAPTION               0x4d7be008
+#define R_PSLN_CI_TAB_NAME                        0x4d7be009
+#define R_PSLN_CI_VIEW_LBX                        0x4d7be00a
+#define R_PSLN_TITLE_PANE_CALLIMAGE               0x4d7be00b

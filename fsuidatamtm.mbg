@@ -1,0 +1,7 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifFsuidatamtm
+	{
+	EMbmFsuidatamtmQgn_prop_cmail_inbox_small = 16384,
+	EMbmFsuidatamtmLastElement
+	};

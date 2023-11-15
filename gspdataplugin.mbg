@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifGspdataplugin
+	{
+	EMbmGspdatapluginQgn_prop_set_conn_gprs = 16384,
+	EMbmGspdatapluginQgn_prop_set_conn_gprs_mask = 16385,
+	EMbmGspdatapluginLastElement
+	};

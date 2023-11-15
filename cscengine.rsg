@@ -1,0 +1,2 @@
+#define R_CSCENG_INTEREST_SERVICE_PLUGIN          0x5bdf9002
+#define R_CSCENG_INTEREST_UI_EXT_PLUGIN           0x5bdf9003

@@ -1,0 +1,18 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifIaupdate
+	{
+	EMbmIaupdateQgn_prop_cale_accepted = 16384,
+	EMbmIaupdateQgn_prop_cale_accepted_mask = 16385,
+	EMbmIaupdateQgn_prop_swupd_failed = 16386,
+	EMbmIaupdateQgn_prop_swupd_failed_mask = 16387,
+	EMbmIaupdateQgn_indi_important_add = 16388,
+	EMbmIaupdateQgn_indi_important_add_mask = 16389,
+	EMbmIaupdateQgn_indi_tb_swupd_start = 16390,
+	EMbmIaupdateQgn_indi_tb_swupd_start_mask = 16391,
+	EMbmIaupdateQgn_indi_tb_swupd_detail = 16392,
+	EMbmIaupdateQgn_indi_tb_swupd_detail_mask = 16393,
+	EMbmIaupdateQgn_indi_tb_swupd_history = 16394,
+	EMbmIaupdateQgn_indi_tb_swupd_history_mask = 16395,
+	EMbmIaupdateLastElement
+	};

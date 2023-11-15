@@ -1,0 +1,9 @@
+#define R_COMPRESS_BITMAPS                        1
+#define R_PREFERRED_ICON_DEPTH                    2
+#define R_PREFERRED_ICON_MASK_DEPTH               3
+#define R_PREFERRED_PHOTO_DEPTH                   4
+#define R_PREFERRED_VIDEO_DEPTH                   5
+#define R_PREFERRED_OFFSCREEN_DEPTH               6
+#define R_PREFERRED_OFFSCREEN_MASK_DEPTH          7
+#define R_MAX_DYNAMIC_CACHE_SIZE                  8
+#define R_PRECACHE_LIST2                          9

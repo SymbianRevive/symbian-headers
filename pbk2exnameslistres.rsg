@@ -1,0 +1,17 @@
+#define R_PHONEBOOK2_NAMESLIST_UI_EXTENSION_INFORMATION 0x4cfb6002
+#define R_NAME_LIST_ICON_INFORMATION              0x4cfb6003
+#define R_NAME_LIST_ICON_ARRAY                    0x4cfb6004
+#define R_NAME_LIST_ICON_INFO_ARRAY               0x4cfb6005
+#define R_PBK2_SOFTKEYS_OPTIONS_EXIT_CONNECT      0x4cfb6006
+#define R_PBK2_MOVE_TOP_CONTACTS_DLG              0x4cfb6007
+#define R_PBK2_MOVE_TOP_CONTACTS_DLG_TITLE        0x4cfb6008
+#define R_QTN_PHOB_ADD_TOP_CONTACTS               0x4cfb6009
+#define R_QTN_CONTACTS_MC_SET_UP_MY_CARD          0x4cfb600a
+#define R_QTN_CONTACTS_MC_MY_CARD                 0x4cfb600b
+#define R_QTN_PHOB_N_NUMBERS                      0x4cfb600c
+#define R_QTN_PHOB_MY_CARD_CLEAR_CONFIRM          0x4cfb600d
+#define R_PBK2_NAMES_LIST_EXTENSION_CONTROL       0x4cfb600e
+#define R_PBK2_SPB_NAMES_LIST_EXTENSION_CONTROL   0x4cfb600f
+#define R_QTN_PHOB_SEARCH_FROM_REMOTE             0x4cfb6010
+#define R_PBK2_NAMES_LIST_MYCARD_MENU             0x4cfb6011
+#define R_PBK2_MYCARD_FIELD_CLIP_SELECTOR         0x4cfb6012

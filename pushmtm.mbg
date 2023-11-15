@@ -1,0 +1,10 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifPushmtm
+	{
+	EMbmPushmtmQgn_prop_mce_push_unread = 16384,
+	EMbmPushmtmQgn_prop_mce_push_unread_mask = 16385,
+	EMbmPushmtmQgn_prop_mce_push_read = 16386,
+	EMbmPushmtmQgn_prop_mce_push_read_mask = 16387,
+	EMbmPushmtmLastElement
+	};

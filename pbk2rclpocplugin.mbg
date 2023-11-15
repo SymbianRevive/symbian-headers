@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifPbk2rclpocplugin
+	{
+	EMbmPbk2rclpocpluginQgn_prop_cmail_action_ptt = 16384,
+	EMbmPbk2rclpocpluginQgn_prop_cmail_action_ptt_mask = 16385,
+	EMbmPbk2rclpocpluginLastElement
+	};

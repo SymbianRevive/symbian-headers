@@ -1,0 +1,9 @@
+#define R_PHONEBOOK_FIELD_PROPERTIES              2
+#define R_PBK_FIELD_GROUPS                        3
+#define R_QTN_PHOB_ENTRY_NAME                     4
+#define R_QTN_PHOB_UNNAMED                        5
+#define R_QTN_PHOB_ENTRY_NAME_NEW_ORDER           6
+#define R_PBK_NAME_ORDER                          7
+#define R_PBK_NAME_SEPARATOR_USED                 8
+#define R_PBK_NAME_SEPARATOR_CHAR                 9
+#define R_PBK_NAME_ORDERING_SETTINGS_VISIBILITY   10

@@ -1,0 +1,8 @@
+#define R_MN_AIWMENU_SHOW_ON_MAP                  0x40f90003
+#define R_MN_AIWMENU_NAVIGATE_TO                  0x40f90004
+#define R_MN_AIWMENU_SELECT_FROM_MAP              0x40f90005
+#define R_MN_AIWMENU_FETCH_COORDINATES            0x40f90006
+#define R_MN_AIWMENU_FETCH_ADDRESS                0x40f90007
+#define R_MN_ERROR_NO_PROVIDER                    0x40f90008
+#define R_MN_ERROR_SERVICE_UNAVAILABLE            0x40f90009
+#define R_MN_PROVIDER_LIST_QUERY                  0x40f9000a

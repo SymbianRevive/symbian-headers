@@ -1,0 +1,12 @@
+#define R_DIAG_EXTERNAL_MEDIA_CARD_PLUGIN_NAME    0x148ee003
+#define R_QTN_DIAG_LST_TEST_MMC                   0x148ee004
+#define R_QTN_DIAG_MSG_TITLE_MMC                  0x148ee005
+#define R_QTN_DIAG_MSG_INFO_MMC                   0x148ee006
+#define R_QTN_DIAG_TITLE_TEST_EXTERNAL_MEMORY     0x148ee007
+#define R_EXT_MEMORY_SOFTKEYS_OK_SKIP             0x148ee008
+#define R_EXT_MEMORY_SOFTKEYS_OK_CANCEL           0x148ee009
+#define R_EXT_MEMORY_SOFTKEYS_YES_NO              0x148ee00a
+#define R_MESSAGEQUERY_TITLE_EXTERNALMEMORY       0x148ee00b
+#define R_MESSAGEQUERY_NO_EXTERNALMEMORY          0x148ee00c
+#define R_EXTMEM_SOFTKEYS_CANCEL                  0x148ee00d
+#define R_EXTMEM_PLUGIN_WAIT_NOTE                 0x148ee00e

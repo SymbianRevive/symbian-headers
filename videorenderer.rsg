@@ -1,0 +1,2 @@
+#define GCE_SUPPORTED_FORMAT                      1
+#define TIMER                                     2

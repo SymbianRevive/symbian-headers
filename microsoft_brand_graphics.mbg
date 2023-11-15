@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMicrosoft_brand_graphics
+	{
+	EMbmMicrosoft_brand_graphicsMicrosoft = 16384,
+	EMbmMicrosoft_brand_graphicsMicrosoft_mask = 16385,
+	EMbmMicrosoft_brand_graphicsLastElement
+	};

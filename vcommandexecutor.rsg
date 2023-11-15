@@ -1,0 +1,17 @@
+#define PROMPT_TIME24                             2
+#define PROMPT_TIME12AM                           3
+#define PROMPT_TIME12PM                           4
+#define PROMPT_OPERATOR                           5
+#define PROMPT_NOOPERATOR                         6
+#define PROMPT_BATTERYFULL                        7
+#define PROMPT_BATTERYALMOSTFULL                  8
+#define PROMPT_BATTERYHALF                        9
+#define PROMPT_BATTERYALMOSTEMPTY                 10
+#define PROMPT_BATTERYLOW                         11
+#define PROMPT_NOBATTERY                          12
+#define PROMPT_NETWORKEXCELLENT                   13
+#define PROMPT_NETWORKGOOD                        14
+#define PROMPT_NETWORKRATHERGOOD                  15
+#define PROMPT_NETWORKLOW                         16
+#define PROMPT_NETWORKNONE                        17
+#define PROMPT_NONETWORK                          18

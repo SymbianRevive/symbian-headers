@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifGssynchronisationplugin
+	{
+	EMbmGssynchronisationpluginQgn_prop_cp_conn_sync = 16384,
+	EMbmGssynchronisationpluginQgn_prop_cp_conn_sync_mask = 16385,
+	EMbmGssynchronisationpluginLastElement
+	};

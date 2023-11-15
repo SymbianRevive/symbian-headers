@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifGsxdmplugin
+	{
+	EMbmGsxdmpluginQgn_prop_set_conn_xdm = 16384,
+	EMbmGsxdmpluginQgn_prop_set_conn_xdm_mask = 16385,
+	EMbmGsxdmpluginLastElement
+	};

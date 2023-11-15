@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifGspeninputplugin
+	{
+	EMbmGspeninputpluginQgn_prop_cp_dev_pen = 16384,
+	EMbmGspeninputpluginQgn_prop_cp_dev_pen_mask = 16385,
+	EMbmGspeninputpluginLastElement
+	};

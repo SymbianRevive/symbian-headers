@@ -1,0 +1,2 @@
+#define R_JAVA_SECUR_CERT_DISABLING               0x40a4a002
+#define R_JAVA_SECUR_CERT_DELETING                0x40a4a003

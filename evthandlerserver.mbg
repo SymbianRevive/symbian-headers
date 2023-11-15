@@ -1,0 +1,12 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifEvthandlerserver
+	{
+	EMbmEvthandlerserverQgn_note_locev_alarm_inacc_heavy = 16384,
+	EMbmEvthandlerserverQgn_note_locev_alarm_inacc_heavy_mask = 16385,
+	EMbmEvthandlerserverQgn_note_locev_alarm_inacc = 16386,
+	EMbmEvthandlerserverQgn_note_locev_alarm_inacc_mask = 16387,
+	EMbmEvthandlerserverQgn_note_locev_alarm_acc = 16388,
+	EMbmEvthandlerserverQgn_note_locev_alarm_acc_mask = 16389,
+	EMbmEvthandlerserverLastElement
+	};

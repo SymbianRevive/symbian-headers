@@ -1,0 +1,28 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifVcxhgmyvideos
+	{
+	EMbmVcxhgmyvideosQgn_indi_vdc_video_new_add = 16384,
+	EMbmVcxhgmyvideosQgn_indi_vdc_video_new_add_mask = 16385,
+	EMbmVcxhgmyvideosQgn_indi_memc_mass_add = 16386,
+	EMbmVcxhgmyvideosQgn_indi_memc_mass_add_mask = 16387,
+	EMbmVcxhgmyvideosQgn_indi_mmc_add = 16388,
+	EMbmVcxhgmyvideosQgn_indi_mmc_add_mask = 16389,
+	EMbmVcxhgmyvideosQgn_indi_phone_add = 16390,
+	EMbmVcxhgmyvideosQgn_indi_phone_add_mask = 16391,
+	EMbmVcxhgmyvideosQgn_indi_vdc_rec_tv_add = 16392,
+	EMbmVcxhgmyvideosQgn_indi_vdc_rec_tv_add_mask = 16393,
+	EMbmVcxhgmyvideosQgn_indi_drm_rights_exp_add = 16394,
+	EMbmVcxhgmyvideosQgn_indi_drm_rights_exp_add_mask = 16395,
+	EMbmVcxhgmyvideosQgn_indi_drm_rights_add = 16396,
+	EMbmVcxhgmyvideosQgn_indi_drm_rights_add_mask = 16397,
+	EMbmVcxhgmyvideosQgn_indi_mpttv_tb_unmark = 16398,
+	EMbmVcxhgmyvideosQgn_indi_mpttv_tb_unmark_mask = 16399,
+	EMbmVcxhgmyvideosQgn_indi_mptv_tb_mark = 16400,
+	EMbmVcxhgmyvideosQgn_indi_mptv_tb_mark_mask = 16401,
+	EMbmVcxhgmyvideosQgn_indi_mup_tb_play = 16402,
+	EMbmVcxhgmyvideosQgn_indi_mup_tb_play_mask = 16403,
+	EMbmVcxhgmyvideosQgn_indi_tb_remove = 16404,
+	EMbmVcxhgmyvideosQgn_indi_tb_remove_mask = 16405,
+	EMbmVcxhgmyvideosLastElement
+	};

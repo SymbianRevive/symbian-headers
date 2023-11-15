@@ -1,0 +1,8 @@
+#define R_QTN_SM_ADD_PHONEBOOK                    0xf246003
+#define R_QTN_PHOB_PB_INFO_MEMORY_PHONE           0xf246004
+#define R_QTN_PHOB_PB_INFO_MEMORY_SIM             0xf246005
+#define R_QTN_SM_TITLE_BUSINESS_CARD              0xf246006
+#define R_QTN_BCARD_SAVED_TO_PB_AS_NEW            0xf246007
+#define R_VCARD_STORE_QUERY                       0xf246008
+#define R_MESSAGING_PHONENUMBER_SELECTOR          0xf246009
+#define R_MESSAGING_SYNCRONIZATION_SELECTOR       0xf24600a

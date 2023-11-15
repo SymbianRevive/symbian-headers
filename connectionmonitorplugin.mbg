@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifConnectionmonitorplugin
+	{
+	EMbmConnectionmonitorpluginQgn_prop_cp_conn_man = 16384,
+	EMbmConnectionmonitorpluginQgn_prop_cp_conn_man_mask = 16385,
+	EMbmConnectionmonitorpluginLastElement
+	};

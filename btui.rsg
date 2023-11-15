@@ -1,0 +1,4 @@
+#define R_BTUI_HOTKEYS                            0xd4fa004
+#define R_BTUI_STATUS_PANE                        0xd4fa005
+#define R_BTUI_NAVI_DECORATOR                     0xd4fa006
+#define R_BTUI_LOCALISABLE_APP_INFO               0xd4fa007

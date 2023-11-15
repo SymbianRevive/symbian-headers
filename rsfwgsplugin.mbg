@@ -1,0 +1,10 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifRsfwgsplugin
+	{
+	EMbmRsfwgspluginQgn_prop_set_conn_remotedrive = 16384,
+	EMbmRsfwgspluginQgn_prop_set_conn_remotedrive_mask = 16385,
+	EMbmRsfwgspluginQgn_indi_connection_on_add = 16386,
+	EMbmRsfwgspluginQgn_indi_connection_on_add_mask = 16387,
+	EMbmRsfwgspluginLastElement
+	};

@@ -1,0 +1,12 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifEasydialing
+	{
+	EMbmEasydialingQgn_indi_org_arrow_right = 16384,
+	EMbmEasydialingQgn_indi_org_arrow_right_mask = 16385,
+	EMbmEasydialingQgn_indi_org_arrow_left = 16386,
+	EMbmEasydialingQgn_indi_org_arrow_left_mask = 16387,
+	EMbmEasydialingQgn_indi_org_arrow_down = 16388,
+	EMbmEasydialingQgn_indi_org_arrow_down_mask = 16389,
+	EMbmEasydialingLastElement
+	};

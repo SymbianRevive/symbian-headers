@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifFilessearchplugin
+	{
+	EMbmFilessearchpluginQgn_prop_search_file_names = 16384,
+	EMbmFilessearchpluginQgn_prop_search_file_names_mask = 16385,
+	EMbmFilessearchpluginLastElement
+	};

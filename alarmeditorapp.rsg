@@ -1,0 +1,2 @@
+#define R_ALARM_EDITOR_APP_VIEW                   0xea0a004
+#define R_ALARM_EDITOR_APP_VIEW_MENUBAR           0xea0a005

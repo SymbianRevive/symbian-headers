@@ -1,0 +1,10 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifPeninputmodeswitcher
+	{
+	EMbmPeninputmodeswitcherQgn_graf_fep_candi_list_sec = 16384,
+	EMbmPeninputmodeswitcherQgn_graf_fep_candi_list_sec_mask = 16385,
+	EMbmPeninputmodeswitcherQgn_graf_fep_candi_list_sel = 16386,
+	EMbmPeninputmodeswitcherQgn_graf_fep_candi_list_sel_mask = 16387,
+	EMbmPeninputmodeswitcherLastElement
+	};

@@ -1,0 +1,12 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifLmrefapp
+	{
+	EMbmLmrefappCategory_global = 16384,
+	EMbmLmrefappCategory_global_mask = 16385,
+	EMbmLmrefappCategory_user = 16386,
+	EMbmLmrefappCategory_user_mask = 16387,
+	EMbmLmrefappDefault_lm = 16388,
+	EMbmLmrefappDefault_lm_mask = 16389,
+	EMbmLmrefappLastElement
+	};

@@ -1,0 +1,10 @@
+#define R_CALEN_LUNAR_DETAILS_DIALOG              0x10b3b002
+#define R_CALENDAR_SHOW_LUNAR_DATA                0x10b3b003
+#define R_CALENDAR_LUNAR_INFO_FESTIVAL            0x10b3b004
+#define R_CALENDAR_LUNAR_INFO_SOLAR               0x10b3b005
+#define R_CALENDAR_LUNAR_INFO_DATE                0x10b3b006
+#define R_CALENDAR_LUNAR_INFO_ANIMAL_YEAR         0x10b3b007
+#define R_CALENDAR_LUNAR_INFO_WESTERN_DATE        0x10b3b008
+#define R_CALE_LUNAR_DATE                         0x10b3b009
+#define R_CALE_LUNAR_LEAP_DATE                    0x10b3b00a
+#define R_CALE_YEAR_OF_CAT                        0x10b3b00b

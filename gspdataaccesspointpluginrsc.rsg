@@ -1,0 +1,13 @@
+#define R_GS_MENUBAR_CHANGE_EXIT                  0x4d9bf002
+#define R_GS_MENUBAR_OPEN_EXIT                    0x4d9bf003
+#define R_GS_MENU_ITEM_OPEN                       0x4d9bf004
+#define R_GS_MENU_ITEM_EXIT                       0x4d9bf005
+#define R_GS_MENU_ITEM_CHANGE                     0x4d9bf006
+#define R_GS_MENU_ITEM_HELP                       0x4d9bf007
+#define R_SETTING_LISTBOX                         0x4d9bf008
+#define R_GS_CBA_EXIT                             0x4d9bf009
+#define R_GS_PDATAACCESSPOINT_VIEW                0x4d9bf00a
+#define R_DIALUP_AP_NAME_NONE                     0x4d9bf00b
+#define R_DIALUP_AP_NAME_SETTING_PAGE             0x4d9bf00c
+#define R_DIALUP_AP_NAME_EDWIN                    0x4d9bf00d
+#define R_GS_PDATAACCESSPOINT_PLUGIN_CAPTION      0x4d9bf00e

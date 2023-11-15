@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifLocsuplsettings
+	{
+	EMbmLocsuplsettingsQgn_loc_server_disabled = 16384,
+	EMbmLocsuplsettingsQgn_loc_server_disabled_mask = 16385,
+	EMbmLocsuplsettingsLastElement
+	};

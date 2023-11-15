@@ -1,0 +1,9 @@
+#define R_MPX_MAIN_VIEW                           0x42d54003
+#define R_MPX_CUI_SOFTKEYS_OPTIONS_PHONE          0x42d54004
+#define R_MPX_MAIN_VIEW_MENUBAR                   0x42d54005
+#define R_MPX_MAIN_VIEW_MENU                      0x42d54006
+#define R_MPX_MAIN_VIEW_LBX                       0x42d54007
+#define R_MPX_MAIN_VIEW_TITLE                     0x42d54008
+#define R_MPX_REFRESH_AFTER_SYNC                  0x42d54009
+#define R_MPX_TRACK_POSITION                      0x42d5400a
+#define R_MPX_QUERY_YES_NO                        0x42d5400b

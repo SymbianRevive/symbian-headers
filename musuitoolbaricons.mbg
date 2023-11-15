@@ -1,0 +1,32 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMusuitoolbaricons
+	{
+	EMbmMusuitoolbariconsQgn_indi_tb_call_volume = 16384,
+	EMbmMusuitoolbariconsQgn_indi_tb_call_volume_mask = 16385,
+	EMbmMusuitoolbariconsQgn_indi_tb_fullscreen = 16386,
+	EMbmMusuitoolbariconsQgn_indi_tb_fullscreen_mask = 16387,
+	EMbmMusuitoolbariconsQgn_indi_cams_tb_rec_pause = 16388,
+	EMbmMusuitoolbariconsQgn_indi_cams_tb_rec_pause_mask = 16389,
+	EMbmMusuitoolbariconsQgn_indi_tb_pause_send_video = 16390,
+	EMbmMusuitoolbariconsQgn_indi_tb_pause_send_video_mask = 16391,
+	EMbmMusuitoolbariconsQgn_indi_tb_play = 16392,
+	EMbmMusuitoolbariconsQgn_indi_tb_play_mask = 16393,
+	EMbmMusuitoolbariconsQgn_indi_tb_video = 16394,
+	EMbmMusuitoolbariconsQgn_indi_tb_video_mask = 16395,
+	EMbmMusuitoolbariconsQgn_indi_tb_ffw_frew = 16396,
+	EMbmMusuitoolbariconsQgn_indi_tb_ffw_frew_mask = 16397,
+	EMbmMusuitoolbariconsQgn_indi_tb_zoom = 16398,
+	EMbmMusuitoolbariconsQgn_indi_tb_zoom_mask = 16399,
+	EMbmMusuitoolbariconsQgn_indi_tb_brightness = 16400,
+	EMbmMusuitoolbariconsQgn_indi_tb_brightness_mask = 16401,
+	EMbmMusuitoolbariconsQgn_indi_tb_microphone_mute = 16402,
+	EMbmMusuitoolbariconsQgn_indi_tb_microphone_mute_mask = 16403,
+	EMbmMusuitoolbariconsQgn_indi_tb_microphone_unmute = 16404,
+	EMbmMusuitoolbariconsQgn_indi_tb_microphone_unmute_mask = 16405,
+	EMbmMusuitoolbariconsQgn_indi_tb_ihf_off = 16406,
+	EMbmMusuitoolbariconsQgn_indi_tb_ihf_off_mask = 16407,
+	EMbmMusuitoolbariconsQgn_indi_tb_ihf_on = 16408,
+	EMbmMusuitoolbariconsQgn_indi_tb_ihf_on_mask = 16409,
+	EMbmMusuitoolbariconsLastElement
+	};

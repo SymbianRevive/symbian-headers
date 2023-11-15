@@ -1,0 +1,12 @@
+#define R_ADTUPDATER_MAIN_VIEW                    0x818de004
+#define R_QTN_CLK_INFO_RETRIEVING_TIME            0x818de005
+#define R_QTN_CLK_QUERY_TIME_NOT_RECEIVED         0x818de006
+#define R_QTN_CLK_NITZ_INF_QUERY                  0x818de007
+#define R_QTN_CLK_NITZ_INF_HEADER                 0x818de008
+#define R_QTN_CLK_DST_INFO                        0x818de009
+#define R_CBA_CLK_OK_CHANGE                       0x818de00a
+#define R_QTN_CLK_QTL_SELECT_COUNTRY              0x818de00b
+#define R_QTN_CLK_QTL_SELECT_CITY                 0x818de00c
+#define R_QTN_CLK_NITZ_GMT                        0x818de00d
+#define R_CLK_DATE_SETTING_QUERY_DIALOG           0x818de00e
+#define R_CLK_TIME_SETTING_QUERY_DIALOG           0x818de00f

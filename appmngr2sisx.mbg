@@ -1,0 +1,12 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifAppmngr2sisx
+	{
+	EMbmAppmngr2sisxQgn_menu_am_sis = 16384,
+	EMbmAppmngr2sisxQgn_menu_am_sis_mask = 16385,
+	EMbmAppmngr2sisxQgn_prop_drm_exp_large = 16386,
+	EMbmAppmngr2sisxQgn_prop_drm_exp_large_mask = 16387,
+	EMbmAppmngr2sisxQgn_indi_am_inst_no_add = 16388,
+	EMbmAppmngr2sisxQgn_indi_am_inst_no_add_mask = 16389,
+	EMbmAppmngr2sisxLastElement
+	};

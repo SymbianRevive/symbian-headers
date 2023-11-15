@@ -1,0 +1,14 @@
+#define R_LISTQUERY_ADD_WIDGET                    0x75d4a003
+#define R_XML_LISTQUERY                           0x75d4a004
+#define R_QTN_HS_ADD_WIDGET_FULL                  0x75d4a005
+#define R_QTN_HS_ERROR_WIDGETS_REMOVED            0x75d4a006
+#define R_QTN_HS_HS_MEMORY_FULL                   0x75d4a007
+#define R_QTN_HS_MAX_AMOUNT_OF_PAGES_NOTE         0x75d4a008
+#define R_QTN_HS_DELETE_PAGE                      0x75d4a009
+#define R_HS_ERROR_CONTENT_REMOVED                0x75d4a00a
+#define R_YES_NO_HS_REMOVE_VIEW                   0x75d4a00b
+#define R_ARRAY_CHANGE_WALLPAPER                  0x75d4a00c
+#define R_LISTQUERY_CHANGE_WALLPAPER              0x75d4a00d
+#define R_HS_CONTENT_REMOVED_VIEW                 0x75d4a00e
+#define R_QTN_HS_OPERATION_FAILED_NO_DISK         0x75d4a00f
+#define R_BACKUP_RESTORE_WAIT_DIALOG              0x75d4a010

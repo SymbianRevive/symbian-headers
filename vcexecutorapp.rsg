@@ -1,0 +1,9 @@
+#define R_DEFAULT_DOCUMENT_NAME                   0x6a495002
+#define R_VCEXECUTOR_STATUS_PANE                  0x6a495004
+#define R_EMPTY_TITLE_PANE                        0x6a495005
+#define R_LOCALISABLE_APP_INFO                    0x6a495006
+#define R_BT_ACTIVATE_IN_OFFLINE_QUERY            0x6a495007
+#define R_LEAVE_OFFLINE_PROFILE_CONFIRMATION_QUERY 0x6a495008
+#define R_BT_OFFLINE_DISABLED                     0x6a495009
+#define R_BT_GENERAL_ERROR                        0x6a49500a
+#define R_TEXT_INSERT_SIM                         0x6a49500b

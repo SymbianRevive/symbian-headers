@@ -1,0 +1,2 @@
+#define R_NFCPINNOTIFIER_PASSWORD_QUERY           0x45df1003
+#define R_NFCNOTIFIER_MSG_QUERY                   0x45df1004

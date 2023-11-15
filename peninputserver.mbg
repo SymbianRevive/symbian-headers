@@ -1,0 +1,12 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifPeninputserver
+	{
+	EMbmPeninputserverQgn_indi_itut_cursor_up = 16384,
+	EMbmPeninputserverQgn_indi_itut_cursor_up_mask = 16385,
+	EMbmPeninputserverQgn_indi_itut_cursor_down = 16386,
+	EMbmPeninputserverQgn_indi_itut_cursor_down_mask = 16387,
+	EMbmPeninputserverQgn_graf_line_primary_horizontal_dashed = 16388,
+	EMbmPeninputserverQgn_graf_line_primary_horizontal_dashed_mask = 16389,
+	EMbmPeninputserverLastElement
+	};

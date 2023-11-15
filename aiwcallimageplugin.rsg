@@ -1,0 +1,4 @@
+#define R_CALL_IMAGE_MENU                         0x101b9003
+#define R_CALL_IMAGE_ERROR_NOTE                   0x101b9004
+#define R_CALL_IMAGE_OK_NOTE                      0x101b9005
+#define R_CALL_IMAGE_DRM_NOTE                     0x101b9006

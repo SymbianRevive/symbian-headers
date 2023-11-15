@@ -1,0 +1,6 @@
+#define R_EIKALARM_CLOCK_ALARM_TYPE               0x7109002
+#define R_EIKALARM_CONFIRMATION                   0x7109003
+#define R_EIKALARM_TODO_TITLE                     0x7109004
+#define R_EIKALARM_TODO_DUE                       0x7109005
+#define R_EIKALARM_NOTE_SNOOZE                    0x7109006
+#define R_EIKALARM_NOTE_SNOOZE_ONE                0x7109007

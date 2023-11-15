@@ -1,0 +1,8 @@
+#define R_DM_RUN_TIME_VAR_DISABLE                 3
+#define R_DM_RUN_TIME_VAR_ENABLE                  4
+#define R_DM_RUN_TIME_VAR_CAMERA                  5
+#define R_DM_RUN_TIME_VAR_FIRMWARE_UPDATE         6
+#define R_DM_RUN_TIME_VAR_EXT_MEMORY              7
+#define R_DM_RUN_TIME_VAR_BLUETOOTH               8
+#define R_DM_RUN_TIME_VAR_WLAN                    9
+#define R_DM_RUN_TIME_VAR_DESKTOP_SYNC            10

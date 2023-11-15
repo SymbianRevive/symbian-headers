@@ -1,0 +1,14 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifVpnmanagementui
+	{
+	EMbmVpnmanagementuiQgn_prop_vpn_log_info = 16384,
+	EMbmVpnmanagementuiQgn_prop_vpn_log_info_mask = 16385,
+	EMbmVpnmanagementuiQgn_prop_vpn_log_warn = 16386,
+	EMbmVpnmanagementuiQgn_prop_vpn_log_warn_mask = 16387,
+	EMbmVpnmanagementuiQgn_prop_vpn_log_error = 16388,
+	EMbmVpnmanagementuiQgn_prop_vpn_log_error_mask = 16389,
+	EMbmVpnmanagementuiQgn_prop_set_conn_vpn = 16390,
+	EMbmVpnmanagementuiQgn_prop_set_conn_vpn_mask = 16391,
+	EMbmVpnmanagementuiLastElement
+	};

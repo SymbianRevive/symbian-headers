@@ -1,0 +1,16 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMmsui
+	{
+	EMbmMmsuiQgn_graf_mms_play = 16384,
+	EMbmMmsuiQgn_graf_mms_play_mask = 16385,
+	EMbmMmsuiQgn_indi_mce_priority_low = 16386,
+	EMbmMmsuiQgn_indi_mce_priority_low_mask = 16387,
+	EMbmMmsuiQgn_indi_mce_priority_high = 16388,
+	EMbmMmsuiQgn_indi_mce_priority_high_mask = 16389,
+	EMbmMmsuiQgn_prop_mce_mms_title = 16390,
+	EMbmMmsuiQgn_prop_mce_mms_title_mask = 16391,
+	EMbmMmsuiQgn_indi_tb_retrieve_mms = 16392,
+	EMbmMmsuiQgn_indi_tb_retrieve_mms_mask = 16393,
+	EMbmMmsuiLastElement
+	};

@@ -1,0 +1,38 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifLmkui
+	{
+	EMbmLmkuiQgn_prop_lm_transport = 16384,
+	EMbmLmkuiQgn_prop_lm_transport_mask = 16385,
+	EMbmLmkuiQgn_prop_lm_sport = 16386,
+	EMbmLmkuiQgn_prop_lm_sport_mask = 16387,
+	EMbmLmkuiQgn_prop_lm_sightseeing = 16388,
+	EMbmLmkuiQgn_prop_lm_sightseeing_mask = 16389,
+	EMbmLmkuiQgn_prop_lm_shopping = 16390,
+	EMbmLmkuiQgn_prop_lm_shopping_mask = 16391,
+	EMbmLmkuiQgn_prop_lm_restaurant = 16392,
+	EMbmLmkuiQgn_prop_lm_restaurant_mask = 16393,
+	EMbmLmkuiQgn_prop_lm_public = 16394,
+	EMbmLmkuiQgn_prop_lm_public_mask = 16395,
+	EMbmLmkuiQgn_prop_lm_people = 16396,
+	EMbmLmkuiQgn_prop_lm_people_mask = 16397,
+	EMbmLmkuiQgn_prop_lm_outdoor = 16398,
+	EMbmLmkuiQgn_prop_lm_outdoor_mask = 16399,
+	EMbmLmkuiQgn_prop_lm_hotel = 16400,
+	EMbmLmkuiQgn_prop_lm_hotel_mask = 16401,
+	EMbmLmkuiQgn_prop_lm_gene = 16402,
+	EMbmLmkuiQgn_prop_lm_gene_mask = 16403,
+	EMbmLmkuiQgn_prop_lm_fun = 16404,
+	EMbmLmkuiQgn_prop_lm_fun_mask = 16405,
+	EMbmLmkuiQgn_prop_lm_education = 16406,
+	EMbmLmkuiQgn_prop_lm_education_mask = 16407,
+	EMbmLmkuiQgn_prop_lm_communication = 16408,
+	EMbmLmkuiQgn_prop_lm_communication_mask = 16409,
+	EMbmLmkuiQgn_prop_lm_church = 16410,
+	EMbmLmkuiQgn_prop_lm_church_mask = 16411,
+	EMbmLmkuiQgn_prop_lm_business = 16412,
+	EMbmLmkuiQgn_prop_lm_business_mask = 16413,
+	EMbmLmkuiQgn_prop_lm_area = 16414,
+	EMbmLmkuiQgn_prop_lm_area_mask = 16415,
+	EMbmLmkuiLastElement
+	};

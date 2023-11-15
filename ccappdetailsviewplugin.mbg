@@ -1,0 +1,28 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifCcappdetailsviewplugin
+	{
+	EMbmCcappdetailsviewpluginQgn_prop_contact_detail_tab2 = 16384,
+	EMbmCcappdetailsviewpluginQgn_prop_contact_detail_tab2_mask = 16385,
+	EMbmCcappdetailsviewpluginQgn_indi_qdial_one_add = 16386,
+	EMbmCcappdetailsviewpluginQgn_indi_qdial_one_add_mask = 16387,
+	EMbmCcappdetailsviewpluginQgn_indi_qdial_two_add = 16388,
+	EMbmCcappdetailsviewpluginQgn_indi_qdial_two_add_mask = 16389,
+	EMbmCcappdetailsviewpluginQgn_indi_qdial_three_add = 16390,
+	EMbmCcappdetailsviewpluginQgn_indi_qdial_three_add_mask = 16391,
+	EMbmCcappdetailsviewpluginQgn_indi_qdial_four_add = 16392,
+	EMbmCcappdetailsviewpluginQgn_indi_qdial_four_add_mask = 16393,
+	EMbmCcappdetailsviewpluginQgn_indi_qdial_five_add = 16394,
+	EMbmCcappdetailsviewpluginQgn_indi_qdial_five_add_mask = 16395,
+	EMbmCcappdetailsviewpluginQgn_indi_qdial_six_add = 16396,
+	EMbmCcappdetailsviewpluginQgn_indi_qdial_six_add_mask = 16397,
+	EMbmCcappdetailsviewpluginQgn_indi_qdial_seven_add = 16398,
+	EMbmCcappdetailsviewpluginQgn_indi_qdial_seven_add_mask = 16399,
+	EMbmCcappdetailsviewpluginQgn_indi_qdial_eight_add = 16400,
+	EMbmCcappdetailsviewpluginQgn_indi_qdial_eight_add_mask = 16401,
+	EMbmCcappdetailsviewpluginQgn_indi_qdial_nine_add = 16402,
+	EMbmCcappdetailsviewpluginQgn_indi_qdial_nine_add_mask = 16403,
+	EMbmCcappdetailsviewpluginQgn_indi_default_conn_add = 16404,
+	EMbmCcappdetailsviewpluginQgn_indi_default_conn_add_mask = 16405,
+	EMbmCcappdetailsviewpluginLastElement
+	};

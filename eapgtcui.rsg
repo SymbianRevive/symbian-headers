@@ -1,0 +1,8 @@
+#define R_GTC_UI_SOFTKEYS_OPTIONS_BACK_CHANGE     0x1aed0003
+#define R_GTC_SETTING_DIALOG                      0x1aed0004
+#define R_GTC_USERNAME_PAGE                       0x1aed0005
+#define R_GTC_SETTING_EDWIN                       0x1aed0006
+#define R_GTC_MENUBAR                             0x1aed0007
+#define R_GTC_MENU_PANE                           0x1aed0008
+#define R_GTC_SETTINGS_TITLE                      0x1aed0009
+#define R_GTC_USERNAME_STRING                     0x1aed000a

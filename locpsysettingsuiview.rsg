@@ -1,0 +1,14 @@
+#define R_POSSETTINGSUI_CAPTION                   0x3ca4e002
+#define R_LOCATION_HOTKEYS                        0x3ca4e003
+#define R_LOCATION_HOME_VIEW                      0x3ca4e004
+#define R_LOCATION_OPTIONS_SELECTION_BACK         0x3ca4e005
+#define R_LOCATION_OPTIONS_EMPTY_BACK             0x3ca4e006
+#define R_LOCATION_MENUBAR_HOME_VIEW              0x3ca4e007
+#define R_LOCATION_CONTEXT_MENUBAR_HOME_VIEW      0x3ca4e008
+#define R_LOCATION_HOME_VIEW_MENU                 0x3ca4e009
+#define R_LOC_PSY_METHODS_LIST_EMPTY              0x3ca4e00a
+#define R_LOCATION_APP_MENU                       0x3ca4e00b
+#define R_LOC_MAIN_TITLE                          0x3ca4e00c
+#define R_LOCATION_PSY_LISTBOX                    0x3ca4e00d
+#define R_PSYQUERY_SOFTKEYS_YES_YES_NO            0x3ca4e00e
+#define R_PSYDISABLE_CONFIG_QUERY                 0x3ca4e00f

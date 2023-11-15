@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifGsvoicerecorderplugin
+	{
+	EMbmGsvoicerecorderpluginQgn_prop_set_apps_voirec = 16384,
+	EMbmGsvoicerecorderpluginQgn_prop_set_apps_voirec_mask = 16385,
+	EMbmGsvoicerecorderpluginLastElement
+	};

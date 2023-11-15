@@ -1,0 +1,4 @@
+#define R_QTN_SM_HEAD_VOIP                        1
+#define R_QTN_SM_DEFAULT_NAME_VOIP                2
+#define R_QTN_SM_PROVIDER_VOIP                    3
+#define R_QTN_SM_VOIPID_DEFAULT                   4

@@ -1,0 +1,10 @@
+#define R_AIW_BROWSER_PROVIDER_SAVE_URL_MENU      0x8ea8002
+#define R_AIW_BROWSER_PROVIDER_OPEN_URL_MENU      0x8ea8003
+#define R_BROWSER_OK_NOTE                         0x8ea8004
+#define R_BROWSER_INFO_NOTE                       0x8ea8005
+#define R_WB_SCRIPT_PROMPT_LOWERCASE              0x8ea8006
+#define R_WB_SCRIPT_PROMPT_LINES                  0x8ea8007
+#define R_AIW_BROWSER_BOOKMARKS_TEXT_BM_NOT_SAVED 0x8ea8008
+#define R_AIW_WML_NAME_ALREADY_IN_USE             0x8ea8009
+#define R_AIW_BROWSER_BOOKMARKS_TEXT_BM_SAVED     0x8ea800a
+#define R_AIW_WML_ENTER_BOOKMARK_NAME             0x8ea800b

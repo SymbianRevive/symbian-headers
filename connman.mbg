@@ -1,0 +1,10 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifConnman
+	{
+	EMbmConnmanQgn_note_csd = 16384,
+	EMbmConnmanQgn_note_csd_mask = 16385,
+	EMbmConnmanQgn_note_gprs = 16386,
+	EMbmConnmanQgn_note_gprs_mask = 16387,
+	EMbmConnmanLastElement
+	};

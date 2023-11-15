@@ -1,0 +1,9 @@
+#define R_QTN_AI_CALE_PLUGIN_NAME                 0x66d5003
+#define R_QTN_AI_CALE_NEXT_LATER                  0x66d5004
+#define R_QTN_AI_CALE_NEXT_TOMORROW               0x66d5005
+#define R_QTN_AI_CALE_NEXT_SINGLE                 0x66d5006
+#define R_QTN_AI_CALE_NEXT_MULTIPLE               0x66d5007
+#define R_QTN_AI_CALE_NO_EVE_POSITIVE             0x66d5008
+#define R_QTN_AI_CALE_NO_MORE_EV_POSITIVE         0x66d5009
+#define R_QTN_AI_CALE_NO_EVE_POSITIVE_SHORT       0x66d500a
+#define R_QTN_AI_CALE_NO_MORE_EV_POSITIVE_SHORT   0x66d500b

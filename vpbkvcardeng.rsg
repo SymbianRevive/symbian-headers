@@ -1,0 +1,4 @@
+#define R_VPBK_VCARD_VNAME_ID_NAME_MAPPINGS       2
+#define R_VPBK_VCARD_PARAM_ID_NAME_MAPPINGS       3
+#define R_VPBK_TYPE_MAPPINGS                      4
+#define R_VPBK_VCARD_MASKED_FIELDS                5

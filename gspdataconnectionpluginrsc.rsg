@@ -1,0 +1,14 @@
+#define R_GS_MENUBAR_CHANGE_EXIT                  0x4d9f5002
+#define R_GS_MENUBAR_OPEN_EXIT                    0x4d9f5003
+#define R_GS_MENU_ITEM_OPEN                       0x4d9f5004
+#define R_GS_MENU_ITEM_EXIT                       0x4d9f5005
+#define R_GS_MENU_ITEM_CHANGE                     0x4d9f5006
+#define R_GS_MENU_ITEM_HELP                       0x4d9f5007
+#define R_SETTING_LISTBOX                         0x4d9f5008
+#define R_GS_CBA_EXIT                             0x4d9f5009
+#define R_GS_PDATACONNECTION_PLUGIN_CAPTION       0x4d9f500a
+#define R_GS_PDATACONNECTION_VIEW                 0x4d9f500b
+#define R_GS_PDATACONNECTION_SETTING_PAGE         0x4d9f500c
+#define R_GS_PDATACONNECTION_SETTING_PAGE_LBX     0x4d9f500d
+#define R_GS_PDATACONN_WHEN_ENABLE_TEXT           0x4d9f500e
+#define R_GS_PDATACONN_WHEN_NEEDED_TEXT           0x4d9f500f

@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifLocsysuiview
+	{
+	EMbmLocsysuiviewQgn_prop_set_gene_loc = 16384,
+	EMbmLocsysuiviewQgn_prop_set_gene_loc_mask = 16385,
+	EMbmLocsysuiviewLastElement
+	};

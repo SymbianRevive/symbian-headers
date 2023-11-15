@@ -1,0 +1,6 @@
+#define R_NSMLDSSYNC_LOCALISABLE_APP_INFO         0x5fd87004
+#define R_SMLSYNC_HOTKEYS                         0x5fd87005
+#define R_SMLSYNC_MENUBAR                         0x5fd87006
+#define R_SMLSYNC_STATUS_PANE                     0x5fd87007
+#define R_OVERRIDDEN_SMLSYNC                      0x5fd87008
+#define R_SMLSYNC_MAINMENU                        0x5fd87009

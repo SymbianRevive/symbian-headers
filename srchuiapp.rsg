@@ -1,0 +1,3 @@
+#define R_DEFAULT_DOCUMENT_NAME                   0x276a5002
+#define R_SEARCHAPPLICATION_MENUBAR               0x276a5004
+#define R_SEARCHAPPLICATION_MENU                  0x276a5005

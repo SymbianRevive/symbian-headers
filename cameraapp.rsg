@@ -1,0 +1,2 @@
+#define R_CAMERAAPP_SOFTKEYS_OPTIONS_EXIT         0x5bf50003
+#define R_CAM_LOCALISABLE_APP_INFO                0x5bf50005

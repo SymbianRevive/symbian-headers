@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifSrchuiapp
+	{
+	EMbmSrchuiappQgn_menu_search = 16384,
+	EMbmSrchuiappQgn_menu_search_mask = 16385,
+	EMbmSrchuiappLastElement
+	};

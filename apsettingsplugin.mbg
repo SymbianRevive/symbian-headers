@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifApsettingsplugin
+	{
+	EMbmApsettingspluginQgn_prop_set_conn_accp = 16384,
+	EMbmApsettingspluginQgn_prop_set_conn_accp_mask = 16385,
+	EMbmApsettingspluginLastElement
+	};

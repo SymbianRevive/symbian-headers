@@ -1,0 +1,10 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMulsliderwidget
+	{
+	EMbmMulsliderwidgetQgn_indi_nslider_zoom_in = 16384,
+	EMbmMulsliderwidgetQgn_indi_nslider_zoom_in_mask = 16385,
+	EMbmMulsliderwidgetQgn_indi_nslider_zoom_out = 16386,
+	EMbmMulsliderwidgetQgn_indi_nslider_zoom_out_mask = 16387,
+	EMbmMulsliderwidgetLastElement
+	};

@@ -1,0 +1,4 @@
+#define R_CNV_IMAGE_TAG_DEFAULT_TEXT              0x26912002
+#define R_CNV_DEFAULT_CHARACTER_SET               0x26912003
+#define R_CNV_COLOUR_ANCHOR_TAG_HREF              0x26912004
+#define R_CNV_COLOUR_IMAGE_TAG_SRC                0x26912005

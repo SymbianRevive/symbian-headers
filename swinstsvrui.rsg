@@ -1,0 +1,4 @@
+#define R_SWINSTSVRUI_LOCALISABLE_APP_INFO        0x5f898003
+#define R_SWINSTSVRUI_NOT_SUPP                    0x5f898004
+#define R_SWINSTSVRUI_BUSY_INSTALL                0x5f898005
+#define R_SWINSTSVRUI_NO_RIGHTS                   0x5f898006

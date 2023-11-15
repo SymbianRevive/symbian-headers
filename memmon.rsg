@@ -1,0 +1,17 @@
+#define R_MEMMON_HOTKEYS                          0x3f730004
+#define R_MEMMON_MENUBAR                          0x3f730005
+#define R_MEMMON_FILE_MENU                        0x3f730006
+#define R_MEMMON_NOTIFIER_MENU                    0x3f730007
+#define R_MEMMON_PROFILER_MENU                    0x3f730008
+#define R_MEMMON_EATER_MENU                       0x3f730009
+#define R_MEMMON_EATER_MODE_MENU                  0x3f73000a
+#define R_MEMMON_EATER_EAT_SELECT_MENU            0x3f73000b
+#define R_MEMMON_EATER_LEFT_FREE_SELECT_MENU      0x3f73000c
+#define R_MEMMON_ADVANCED_MENU                    0x3f73000d
+#define R_MEMMON_PRIORITY_MENU                    0x3f73000e
+#define R_MEMMON_HEARTBEAT_DLG                    0x3f73000f
+#define R_MEMEAT_DLG                              0x3f730010
+#define R_MULTI_SELECTION_LIST_QUERY              0x3f730011
+#define R_FILE_DLG                                0x3f730012
+#define R_MEMMON_ABOUT_DIALOG                     0x3f730013
+#define R_MEMMON_LOCALISABLE_APP_INFO             0x3f730014

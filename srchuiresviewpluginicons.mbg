@@ -1,0 +1,10 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifSrchuiresviewpluginicons
+	{
+	EMbmSrchuiresviewpluginiconsQgn_indi_mmc_add = 16384,
+	EMbmSrchuiresviewpluginiconsQgn_indi_mmc_add_mask = 16385,
+	EMbmSrchuiresviewpluginiconsQgn_prop_search_indevice_title = 16386,
+	EMbmSrchuiresviewpluginiconsQgn_prop_search_indevice_title_mask = 16387,
+	EMbmSrchuiresviewpluginiconsLastElement
+	};

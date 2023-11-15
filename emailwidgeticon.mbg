@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifEmailwidgeticon
+	{
+	EMbmEmailwidgeticonQgn_menu_cmail = 16384,
+	EMbmEmailwidgeticonQgn_menu_cmail_mask = 16385,
+	EMbmEmailwidgeticonLastElement
+	};

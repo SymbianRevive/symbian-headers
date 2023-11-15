@@ -1,0 +1,10 @@
+#define R_CALENDB_LIST_MENUBAR                    0x10941002
+#define R_CALENDB_LIST_DIALOG                     0x10941003
+#define R_CALENDB_LIST_SINGLESELECT_DIALOG        0x10941004
+#define R_CALENDB_LIST_MARK_CBA                   0x10941005
+#define R_CBA                                     0x10941006
+#define R_CALEN_DB_LIST_TITLE                     0x10941007
+#define R_CALEN_DB_VISIBLE                        0x10941008
+#define R_CALEN_DB_HIDDEN                         0x10941009
+#define R_CALEN_CALDB_MENUBAR                     0x1094100a
+#define R_CALEN_CALDB_MENUPANE                    0x1094100b

@@ -1,0 +1,6 @@
+#define R_EXT_ANTENNA_CONNECTED                   0xd4b3002
+#define R_EXT_ANTENNA_DISCONNECTED                0xd4b3003
+#define R_EXT_POWER_CONNECTED                     0xd4b3004
+#define R_EXT_POWER_DISCONNECTED                  0xd4b3005
+#define R_BATTERY_LOW                             0xd4b3006
+#define R_BATTERY_FULL                            0xd4b3007

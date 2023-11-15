@@ -1,0 +1,4 @@
+#define R_DEFAULT_DOCUMENT_NAME                   0x2db64002
+#define R_GLX_DEFAULT_PANE                        0x2db64004
+#define R_OVERRIDEN_APP_NAME                      0x2db64005
+#define R_GLX_DEFAULT_CBA                         0x2db64006

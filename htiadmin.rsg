@@ -1,0 +1,17 @@
+#define R_DEFAULT_DOCUMENT_NAME                   0x2a100002
+#define R_HTIADMIN_MENUBAR                        0x2a100004
+#define R_HTIADMIN_SUBMENU_LOGS                   0x2a100005
+#define R_HTIADMIN_SUBMENU_PRIORITY               0x2a100006
+#define R_HTIADMIN_SUBMENU_WATCHDOG               0x2a100007
+#define R_HTIADMIN_SUBMENU_CONSOLE                0x2a100008
+#define R_HTIADMIN_SUBMENU_ERROR_DIALOGS          0x2a100009
+#define R_HTIADMIN_SUBMENU_AUTOSTART              0x2a10000a
+#define R_HTIADMIN_SUBMENU_SET_PARAM              0x2a10000b
+#define R_HTIADMIN_SUBMENU_OPTIONS                0x2a10000c
+#define R_HTIADMIN_MENU                           0x2a10000d
+#define R_NUMERIC_QUERY                           0x2a10000e
+#define R_TEXT_QUERY                              0x2a10000f
+#define R_QUERY_DIALOG                            0x2a100010
+#define R_SELECT_IAP_DIALOG                       0x2a100011
+#define R_HTIADMIN_ABOUT_DIALOG                   0x2a100012
+#define R_HTIADMIN_ABOUT_TEXT                     0x2a100013

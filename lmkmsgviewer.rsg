@@ -1,0 +1,7 @@
+#define R_LMKMSGVIEWER_LOCALISABLE_APP_INFO       0x3c204004
+#define R_LMK_MSGVIEWER_MENUBAR                   0x3c204005
+#define R_LMK_MSGVIEWER_MENU                      0x3c204006
+#define R_LMKMSGVIEWER_VIEW                       0x3c204007
+#define R_LMK_MSGVIEWER_WAIT                      0x3c204008
+#define R_LMK_BADPACKAGE_ERROR                    0x3c204009
+#define R_LMK_ERR_EIKON_GENERAL                   0x3c20400a

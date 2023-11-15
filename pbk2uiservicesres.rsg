@@ -1,0 +1,13 @@
+#define R_PBK2_AIW_ASSIGN                         0x4d07a002
+#define R_PBK2_AIW_ADD_TO_CONTACTS                0x4d07a003
+#define R_PBK2_AIW_ADD_TO_CONTACTS_XSP            0x4d07a004
+#define R_PBK2_AIW_PHONENUMBER_SELECTOR           0x4d07a005
+#define R_PBK2_AIW_PHONENUMBER_SELECTOR_VOIP      0x4d07a006
+#define R_PBK2_AIW_EMAIL_SELECTOR                 0x4d07a007
+#define R_PBK2_AIW_EMAIL_SELECTOR_VOIP            0x4d07a008
+#define R_PBK2_AIW_SIP_SELECTOR                   0x4d07a009
+#define R_PBK2_AIW_SIP_SELECTOR_VOIP              0x4d07a00a
+#define R_PBK2_AIW_URL_SELECTOR                   0x4d07a00b
+#define R_PBK2_AIW_IMPP_SELECTOR                  0x4d07a00c
+#define R_PBK2_AIW_THUMBNAIL_SELECTOR             0x4d07a00d
+#define R_PBK2_AIW_RINGTONE_SELECTOR              0x4d07a00e

@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifPslncallimageplugin
+	{
+	EMbmPslncallimagepluginQgn_prop_psln_cimage_sub = 16384,
+	EMbmPslncallimagepluginQgn_prop_psln_cimage_sub_mask = 16385,
+	EMbmPslncallimagepluginLastElement
+	};

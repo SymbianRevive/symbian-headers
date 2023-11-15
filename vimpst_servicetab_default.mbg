@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifVimpst_servicetab_default
+	{
+	EMbmVimpst_servicetab_defaultQgn_prop_im_imsg = 16384,
+	EMbmVimpst_servicetab_defaultQgn_prop_im_imsg_mask = 16385,
+	EMbmVimpst_servicetab_defaultLastElement
+	};

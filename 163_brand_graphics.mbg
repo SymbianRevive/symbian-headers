@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMif163_brand_graphics
+	{
+	EMbm163_brand_graphics163 = 16384,
+	EMbm163_brand_graphics163_mask = 16385,
+	EMbm163_brand_graphicsLastElement
+	};

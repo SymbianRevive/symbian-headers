@@ -1,0 +1,4 @@
+#define R_FS_ACTION_MEETING                       0x1b7fb003
+#define R_FS_QUERY_INFO_MISSING                   0x1b7fb004
+#define R_FS_MR_NOTE_SAVED                        0x1b7fb005
+#define R_FS_EMAIL_MISSING_QUERY_DIALOG           0x1b7fb006

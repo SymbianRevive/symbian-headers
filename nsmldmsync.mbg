@@ -1,0 +1,30 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifNsmldmsync
+	{
+	EMbmNsmldmsyncQgn_prop_sml_http = 16384,
+	EMbmNsmldmsyncQgn_prop_sml_http_mask = 16385,
+	EMbmNsmldmsyncQgn_prop_sml_http_off = 16386,
+	EMbmNsmldmsyncQgn_prop_sml_http_off_mask = 16387,
+	EMbmNsmldmsyncQgn_prop_sml_bt = 16388,
+	EMbmNsmldmsyncQgn_prop_sml_bt_mask = 16389,
+	EMbmNsmldmsyncQgn_prop_sml_bt_off = 16390,
+	EMbmNsmldmsyncQgn_prop_sml_bt_off_mask = 16391,
+	EMbmNsmldmsyncQgn_prop_sml_usb = 16392,
+	EMbmNsmldmsyncQgn_prop_sml_usb_mask = 16393,
+	EMbmNsmldmsyncQgn_prop_sml_usb_off = 16394,
+	EMbmNsmldmsyncQgn_prop_sml_usb_off_mask = 16395,
+	EMbmNsmldmsyncQgn_menu_dm = 16396,
+	EMbmNsmldmsyncQgn_menu_dm_mask = 16397,
+	EMbmNsmldmsyncQgn_menu_dm_disabled_cxt = 16398,
+	EMbmNsmldmsyncQgn_menu_dm_disabled_cxt_mask = 16399,
+	EMbmNsmldmsyncQgn_note_sml = 16400,
+	EMbmNsmldmsyncQgn_note_sml_mask = 16401,
+	EMbmNsmldmsyncQgn_note_sml_server = 16402,
+	EMbmNsmldmsyncQgn_note_sml_server_mask = 16403,
+	EMbmNsmldmsyncQgn_indi_sett_protected_add = 16404,
+	EMbmNsmldmsyncQgn_indi_sett_protected_add_mask = 16405,
+	EMbmNsmldmsyncQgn_prop_cp_dev_update = 16406,
+	EMbmNsmldmsyncQgn_prop_cp_dev_update_mask = 16407,
+	EMbmNsmldmsyncLastElement
+	};

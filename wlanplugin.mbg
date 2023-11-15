@@ -1,0 +1,18 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifWlanplugin
+	{
+	EMbmWlanpluginQgn_prop_set_conn_wlan = 16384,
+	EMbmWlanpluginQgn_prop_set_conn_wlan_mask = 16385,
+	EMbmWlanpluginQgn_prop_set_conn_wlan_conn = 16386,
+	EMbmWlanpluginQgn_prop_set_conn_wlan_conn_mask = 16387,
+	EMbmWlanpluginQgn_prop_set_conn_wlan_off = 16388,
+	EMbmWlanpluginQgn_prop_set_conn_wlan_off_mask = 16389,
+	EMbmWlanpluginQgn_indi_wlan_signal_low_add = 16390,
+	EMbmWlanpluginQgn_indi_wlan_signal_low_add_mask = 16391,
+	EMbmWlanpluginQgn_indi_wlan_signal_med_add = 16392,
+	EMbmWlanpluginQgn_indi_wlan_signal_med_add_mask = 16393,
+	EMbmWlanpluginQgn_indi_wlan_signal_good_add = 16394,
+	EMbmWlanpluginQgn_indi_wlan_signal_good_add_mask = 16395,
+	EMbmWlanpluginLastElement
+	};

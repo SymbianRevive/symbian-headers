@@ -1,0 +1,8 @@
+#define R_SIND_EXTENSION_MOBILE                   0x11239002
+#define R_SIND_EXTENSION_GENERAL                  0x11239003
+#define R_SIND_EXTENSION_HOME                     0x11239004
+#define R_SIND_EXTENSION_WORK                     0x11239005
+#define R_SIND_EXTENSION_VIDEO                    0x11239006
+#define R_SIND_EXTENSION_MESSAGE                  0x11239007
+#define R_SIND_EXTENSION_EMAIL                    0x11239008
+#define R_SIND_EXTENSION_VOIP                     0x11239009

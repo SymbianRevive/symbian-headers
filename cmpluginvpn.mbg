@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifCmpluginvpn
+	{
+	EMbmCmpluginvpnQgn_prop_vpn_access_point = 16384,
+	EMbmCmpluginvpnQgn_prop_vpn_access_point_mask = 16385,
+	EMbmCmpluginvpnLastElement
+	};

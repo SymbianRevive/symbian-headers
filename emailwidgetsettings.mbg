@@ -1,0 +1,10 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifEmailwidgetsettings
+	{
+	EMbmEmailwidgetsettingsQgn_indi_cmail_drop_email_account = 16384,
+	EMbmEmailwidgetsettingsQgn_indi_cmail_drop_email_account_mask = 16385,
+	EMbmEmailwidgetsettingsQgn_prop_cmail_new_mailbox = 16386,
+	EMbmEmailwidgetsettingsQgn_prop_cmail_new_mailbox_mask = 16387,
+	EMbmEmailwidgetsettingsLastElement
+	};

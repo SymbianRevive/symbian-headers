@@ -1,0 +1,2 @@
+#define R_CALEN_AIW_PROVIDER_MENU_PANE            0x101b9004
+#define R_SAVECALENDARNOTE_TEXT                   0x101b9005

@@ -1,0 +1,10 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifVoiceui
+	{
+	EMbmVoiceuiQgn_prop_profiles_small = 16384,
+	EMbmVoiceuiQgn_prop_profiles_small_mask = 16385,
+	EMbmVoiceuiQgn_prop_fmgr_file_apps = 16386,
+	EMbmVoiceuiQgn_prop_fmgr_file_apps_mask = 16387,
+	EMbmVoiceuiLastElement
+	};

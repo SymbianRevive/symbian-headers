@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMpx
+	{
+	EMbmMpxQgn_menu_mp = 16384,
+	EMbmMpxQgn_menu_mp_mask = 16385,
+	EMbmMpxLastElement
+	};

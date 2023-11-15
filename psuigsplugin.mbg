@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifPsuigsplugin
+	{
+	EMbmPsuigspluginQgn_prop_set_conn_presence = 16384,
+	EMbmPsuigspluginQgn_prop_set_conn_presence_mask = 16385,
+	EMbmPsuigspluginLastElement
+	};

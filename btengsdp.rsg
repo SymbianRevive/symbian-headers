@@ -1,0 +1,17 @@
+#define R_SERVICE_RECORD_LIST                     1
+#define R_SERVICE_RECORD_DUN                      2
+#define R_SERVICE_RECORD_OPP                      3
+#define R_SERVICE_RECORD_FTP                      4
+#define R_SERVICE_RECORD_FAX                      5
+#define R_SERVICE_RECORD_HF_GW                    6
+#define R_SERVICE_RECORD_HS_GW                    7
+#define R_SERVICE_RECORD_AUDIOSOURCE              8
+#define R_SERVICE_RECORD_BIP                      9
+#define R_SERVICE_RECORD_BPP                      10
+#define R_SERVICE_RECORD_SAP                      11
+#define R_SERVICE_RECORD_NOKIA_PC_SUITE           12
+#define R_SERVICE_RECORD_NOKIA_SYNCML_SERVER      13
+#define R_SERVICE_RECORD_SYNCML_CLIENT            14
+#define R_SERVICE_RECORD_SYNCML_DM_SERVER         15
+#define R_SERVICE_RECORD_SYNCML_DM_CLIENT         16
+#define R_SERVICE_RECORD_DI                       17

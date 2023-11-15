@@ -1,0 +1,7 @@
+#define R_BVA_LOCALISABLE_APP_INFO                0xd888004
+#define R_BVA_MENUBAR                             0xd888005
+#define R_BVA_MENU                                0xd888006
+#define R_BVA_MENU_CBA                            0xd888007
+#define R_BVA_CONTEXT_MENUBAR                     0xd888008
+#define R_BVA_CONTEXT_MENU                        0xd888009
+#define R_BVA_AIW_CALENDAR_INTEREST               0xd88800a

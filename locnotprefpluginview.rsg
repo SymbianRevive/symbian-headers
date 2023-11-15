@@ -1,0 +1,16 @@
+#define R_LOCNOTPREFPLUGIN_VIEW                   0x3c444002
+#define R_LOCNOTPREFPLUGIN_CBA                    0x3c444003
+#define R_LOCNOTPREFPLUGIN_MENUBAR_VIEW           0x3c444004
+#define R_LOCNOTPREFPLUGIN_MENU                   0x3c444005
+#define R_LOC_SETTINGS_NOTATIONS                  0x3c444006
+#define R_LOC_TITLE_NOTATIONS                     0x3c444007
+#define R_LOC_NOTATION_MEASURES                   0x3c444008
+#define R_LOC_NOTATION_COORDINATE_FORMAT          0x3c444009
+#define R_LOC_METRIC_SYSTEM                       0x3c44400a
+#define R_LOC_IMPERIAL_SYSTEM                     0x3c44400b
+#define R_LOC_FORMAT_DECIMAL_SECONDS              0x3c44400c
+#define R_LOC_FORMAT_DECIMAL_MINUTES              0x3c44400d
+#define R_LOC_FORMAT_DECIMAL_DEGREES              0x3c44400e
+#define R_LOC_SYSOFMEAS_SETTINGS                  0x3c44400f
+#define R_LOC_COORDDISPLAY_SETTINGS               0x3c444010
+#define R_LOC_NOT_SETTINGS_LISTBOX                0x3c444011

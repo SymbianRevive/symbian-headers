@@ -1,0 +1,8 @@
+#define R_GLX_MARKING_MARK                        0x23c7d003
+#define R_GLX_MARKING_UNMARK                      0x23c7d004
+#define R_GLX_MARKING_DONE                        0x23c7d005
+#define R_GLX_MARKING_MULTI_SINGLE                0x23c7d006
+#define R_GLX_MARKING_MULTI_MULTI                 0x23c7d007
+#define R_GLX_SOFTKEY_CANCEL                      0x23c7d008
+#define R_GLX_SOFTKEY_BACK                        0x23c7d009
+#define R_GLX_SOFTKEY_OPEN                        0x23c7d00a

@@ -1,0 +1,21 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifCamerasettingsplugin
+	{
+	EMbmCamerasettingspluginQgn_lcam_gen_sett_list = 16384,
+	EMbmCamerasettingspluginQgn_lcam_gen_sett_list_mask = 16385,
+	EMbmCamerasettingspluginQgn_lcam_gen_sett_camera_folder_image = 16386,
+	EMbmCamerasettingspluginQgn_lcam_gen_sett_camera_folder_image_mask = 16387,
+	EMbmCamerasettingspluginQgn_lcam_gen_sett_camera_folder_video = 16388,
+	EMbmCamerasettingspluginQgn_lcam_gen_sett_camera_folder_video_mask = 16389,
+	EMbmCamerasettingspluginQgn_lcam_gen_sett_camera_tab_image = 16390,
+	EMbmCamerasettingspluginQgn_lcam_gen_sett_camera_tab_video = 16392,
+	EMbmCamerasettingspluginQgn_prop_set_apps_cams = 16394,
+	EMbmCamerasettingspluginQgn_prop_set_apps_cams_mask = 16395,
+	EMbmCamerasettingspluginQgn_prop_set_cams_image_sub = 16396,
+	EMbmCamerasettingspluginQgn_prop_set_cams_image_sub_mask = 16397,
+	EMbmCamerasettingspluginQgn_prop_set_cams_video_sub = 16398,
+	EMbmCamerasettingspluginQgn_prop_set_cams_video_sub_mask = 16399,
+	EMbmCamerasettingspluginQgn_prop_set_mp_video_tab2 = 16400,
+	EMbmCamerasettingspluginLastElement
+	};

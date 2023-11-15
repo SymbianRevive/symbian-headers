@@ -1,0 +1,3 @@
+#define R_CMS_CONTACT_VIEW_STRUCTURE              0x343a5002
+#define R_CMS_EXAMPLE                             0x343a5003
+#define R_CMS_SORTORDER_LASTNAME_FIRSTNAME        0x343a5004

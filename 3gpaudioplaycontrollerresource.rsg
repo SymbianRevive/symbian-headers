@@ -1,0 +1,3 @@
+#define AACDECODER                                1
+#define AMRDECODER                                2
+#define AWBDECODER                                3

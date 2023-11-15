@@ -1,0 +1,10 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMulticaluidialog
+	{
+	EMbmMulticaluidialogQgn_prop_checkbox_on = 16384,
+	EMbmMulticaluidialogQgn_prop_checkbox_on_mask = 16385,
+	EMbmMulticaluidialogQgn_prop_checkbox_off = 16386,
+	EMbmMulticaluidialogQgn_prop_checkbox_off_mask = 16387,
+	EMbmMulticaluidialogLastElement
+	};

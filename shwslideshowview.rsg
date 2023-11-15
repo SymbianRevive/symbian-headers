@@ -1,0 +1,11 @@
+#define R_SHW_QTN_LGAL_NOTE_SLIDESHOW_DEFINE      0x5ce24003
+#define R_SHW_VOLUME_PERCENTAGE                   0x5ce24004
+#define R_SHW_SOFTKEYS_END_PAUSE                  0x5ce24005
+#define R_SHW_SLIDESHOW_PLAY_VIEW                 0x5ce24006
+#define R_SHW_SOFTKEYS_END_CONTINUE               0x5ce24007
+#define R_SHW_SLIDESHOW_PAUSE_VIEW                0x5ce24008
+#define R_SHW_SOFTKEY_LEFT                        0x5ce24009
+#define R_SHW_SOFTKEY_RIGHT                       0x5ce2400a
+#define R_SHW_WAIT_DLG_OPENING                    0x5ce2400b
+#define R_SHW_SOFTKEY_CANCEL                      0x5ce2400c
+#define R_SHW_WAIT_NOTE                           0x5ce2400d

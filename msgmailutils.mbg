@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMsgmailutils
+	{
+	EMbmMsgmailutilsQgn_prop_mce_email_title = 16384,
+	EMbmMsgmailutilsQgn_prop_mce_email_title_mask = 16385,
+	EMbmMsgmailutilsLastElement
+	};

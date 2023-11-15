@@ -1,0 +1,8 @@
+#define R_SVGT_SAVE_LOCATIONS                     0x5f43d003
+#define R_SVGT_MMC_FULL                           0x5f43d004
+#define R_SVGT_SAVING_WAIT_NOTE                   0x5f43d005
+#define R_SVGT_DOWNLOAD_WAIT_NOTE                 0x5f43d006
+#define R_SVGT_WAITNOTE_SOFTKEYS                  0x5f43d007
+#define R_SVGT_CLIP_SAVED                         0x5f43d008
+#define R_SVGT_FILE_NOT_FOUND                     0x5f43d009
+#define R_SVGT_DOWNLOADING_FILE                   0x5f43d00a

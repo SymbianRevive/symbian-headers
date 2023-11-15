@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMpxcommonui
+	{
+	EMbmMpxcommonuiQgn_indi_mmc_add = 16384,
+	EMbmMpxcommonuiQgn_indi_mmc_add_mask = 16385,
+	EMbmMpxcommonuiLastElement
+	};

@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifGsdasplugin
+	{
+	EMbmGsdaspluginQgn_prop_cp_dev_def = 16384,
+	EMbmGsdaspluginQgn_prop_cp_dev_def_mask = 16385,
+	EMbmGsdaspluginLastElement
+	};

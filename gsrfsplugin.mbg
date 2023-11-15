@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifGsrfsplugin
+	{
+	EMbmGsrfspluginQgn_prop_set_gene_phone = 16384,
+	EMbmGsrfspluginQgn_prop_set_gene_phone_mask = 16385,
+	EMbmGsrfspluginLastElement
+	};

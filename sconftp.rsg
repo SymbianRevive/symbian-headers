@@ -1,0 +1,5 @@
+#define R_SECON_VALUE_DEVICE                      0x5c81b002
+#define R_SECON_VALUE_MMC                         0x5c81b003
+#define R_SECON_VALUE_MASS_STORAGE                0x5c81b004
+#define R_SECON_DATA_FOLDER                       0x5c81b005
+#define R_SECON_UNKNOWN_SUPPLIER                  0x5c81b006

@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMsgeditor_ah
+	{
+	EMbmMsgeditor_ahQgn_prop_unknown = 16384,
+	EMbmMsgeditor_ahQgn_prop_unknown_mask = 16385,
+	EMbmMsgeditor_ahLastElement
+	};

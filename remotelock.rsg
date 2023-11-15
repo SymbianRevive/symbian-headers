@@ -1,0 +1,2 @@
+#define R_RLOC_TI_EVERYTHING_LOCKED               1
+#define R_RLOC_TI_PHONE_LOCKED                    2

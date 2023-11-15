@@ -1,0 +1,12 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMultimediasearchplugin
+	{
+	EMbmMultimediasearchpluginQgn_prop_file_images_sub = 16384,
+	EMbmMultimediasearchpluginQgn_prop_file_images_sub_mask = 16385,
+	EMbmMultimediasearchpluginQgn_prop_file_video = 16386,
+	EMbmMultimediasearchpluginQgn_prop_file_video_mask = 16387,
+	EMbmMultimediasearchpluginQgn_prop_file_music_sub = 16388,
+	EMbmMultimediasearchpluginQgn_prop_file_music_sub_mask = 16389,
+	EMbmMultimediasearchpluginLastElement
+	};

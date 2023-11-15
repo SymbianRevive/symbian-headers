@@ -1,0 +1,22 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifGridroot
+	{
+	EMbmGridrootQgn_prop_folder_large = 16384,
+	EMbmGridrootQgn_prop_folder_large_mask = 16385,
+	EMbmGridrootQgn_prop_folder_empty = 16386,
+	EMbmGridrootQgn_prop_folder_empty_mask = 16387,
+	EMbmGridrootQgn_prop_drm_rights_valid_super = 16388,
+	EMbmGridrootQgn_prop_drm_rights_valid_super_mask = 16389,
+	EMbmGridrootQgn_prop_drm_rights_exp_super = 16390,
+	EMbmGridrootQgn_prop_drm_rights_exp_super_mask = 16391,
+	EMbmGridrootQgn_indi_org_icon_locked = 16392,
+	EMbmGridrootQgn_indi_org_icon_locked_mask = 16393,
+	EMbmGridrootQgn_indi_app_open = 16394,
+	EMbmGridrootQgn_indi_app_open_mask = 16395,
+	EMbmGridrootQgn_prop_folder_parent = 16396,
+	EMbmGridrootQgn_prop_folder_parent_mask = 16397,
+	EMbmGridrootQgn_prop_folder_medium = 16398,
+	EMbmGridrootQgn_prop_folder_medium_mask = 16399,
+	EMbmGridrootLastElement
+	};

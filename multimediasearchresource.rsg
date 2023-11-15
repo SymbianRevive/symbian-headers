@@ -1,0 +1,3 @@
+#define R_QTN_SEARCH_TYPES_MUSIC                  0x1f13c004
+#define R_QTN_SEARCH_TYPES_VIDEOS                 0x1f13c005
+#define R_QTN_SEARCH_TYPES_IMAGES                 0x1f13c006

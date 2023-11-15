@@ -1,0 +1,5 @@
+#define R_VOIP_PROVISIONING_QUERY_INSTALL_SERVICE 0x6caf9004
+#define R_VOIP_DEFAULT_SAVE_QUERY                 0x6caf9005
+#define R_VOIP_INVALID_DATA                       0x6caf9006
+#define R_VOIP_INSTALLED                          0x6caf9007
+#define R_WAITNOTE_CONFIGURE                      0x6caf9008

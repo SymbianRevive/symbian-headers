@@ -1,0 +1,2 @@
+#define R_ROHL_INBOX_DESCRIPTION                  0x59391002
+#define R_ROHL_INBOX_DESCRIPTION_ROA              0x59391003

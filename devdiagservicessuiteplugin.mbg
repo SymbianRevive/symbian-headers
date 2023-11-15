@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifDevdiagservicessuiteplugin
+	{
+	EMbmDevdiagservicessuitepluginQgn_prop_cp_diag_service = 16384,
+	EMbmDevdiagservicessuitepluginQgn_prop_cp_diag_service_mask = 16385,
+	EMbmDevdiagservicessuitepluginLastElement
+	};

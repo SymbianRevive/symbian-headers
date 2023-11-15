@@ -1,0 +1,12 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifDevdiagapp
+	{
+	EMbmDevdiagappQgn_prop_cp_diag_not = 16384,
+	EMbmDevdiagappQgn_prop_cp_diag_not_mask = 16385,
+	EMbmDevdiagappQgn_prop_cp_diag_pass = 16386,
+	EMbmDevdiagappQgn_prop_cp_diag_pass_mask = 16387,
+	EMbmDevdiagappQgn_prop_cp_diag_fail = 16388,
+	EMbmDevdiagappQgn_prop_cp_diag_fail_mask = 16389,
+	EMbmDevdiagappLastElement
+	};

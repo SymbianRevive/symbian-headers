@@ -1,0 +1,3 @@
+#define R_PIM_TODO_LISTS                          0x4e944002
+#define R_PIM_TODO_FIELDS                         0x4e944003
+#define R_PIM_TODO_LISTNAME                       0x4e944004

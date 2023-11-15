@@ -1,0 +1,10 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifSmilplayer
+	{
+	EMbmSmilplayerQgn_indi_mms_pause = 16384,
+	EMbmSmilplayerQgn_indi_mms_pause_mask = 16385,
+	EMbmSmilplayerQgn_indi_mms_play = 16386,
+	EMbmSmilplayerQgn_indi_mms_play_mask = 16387,
+	EMbmSmilplayerLastElement
+	};

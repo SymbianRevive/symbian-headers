@@ -1,0 +1,12 @@
+#define R_UNUT_EDITOR_OBJECTS_MENU                0x678c8002
+#define R_UNUT_VIEWER_OBJECTS_MENU                0x678c8003
+#define R_UNUT_FORWARD_OBJECTS_MENU               0x678c8004
+#define R_UNUT_REMOVE_OBJECT_QUERY                0x678c8005
+#define R_UNUT_OBJECTS_TITLE                      0x678c8006
+#define R_UNUT_QUERY_COMMON_CONF_REMOVE           0x678c8007
+#define R_UNUT_INFO_INVALID_OBJECT_TEXT           0x678c8008
+#define R_UNUT_INFO_FAIL_RECIPIENT                0x678c8009
+#define R_UNUT_INFO_FAIL_RECIPIENT_NO_ALIAS       0x678c800a
+#define R_UNUT_FILE_SAVED_TO                      0x678c800b
+#define R_UNUT_EDITOR_WAIT_ANIM                   0x678c800c
+#define R_UNUT_EDITOR_WAIT_ANIM_FRAMES            0x678c800d

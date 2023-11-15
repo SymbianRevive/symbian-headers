@@ -1,0 +1,16 @@
+#define R_GS_MENUBAR_CHANGE_EXIT                  0x4b103002
+#define R_GS_MENUBAR_OPEN_EXIT                    0x4b103003
+#define R_GS_MENU_ITEM_OPEN                       0x4b103004
+#define R_GS_MENU_ITEM_EXIT                       0x4b103005
+#define R_GS_MENU_ITEM_CHANGE                     0x4b103006
+#define R_GS_MENU_ITEM_HELP                       0x4b103007
+#define R_SETTING_LISTBOX                         0x4b103008
+#define R_GS_CBA_EXIT                             0x4b103009
+#define R_GS_OPTICALJOYSTICK_VIEW_CAPTION         0x4b10300c
+#define R_GS_OPTICALJOYSTICK_VIEW_TITLE           0x4b10300d
+#define R_GS_OPTICALJOYSTICK_VIEW                 0x4b10300e
+#define R_OPTICALJOYSTICK_LBX                     0x4b10300f
+#define R_OPTICALJOYSTICK_SETTING_PAGE            0x4b103010
+#define R_OPTICALJOYSTICK_SETTING_PAGE_LBX        0x4b103011
+#define R_OPTICAL_JOYSTICK_ON                     0x4b103012
+#define R_OPTICAL_JOYSTICK_OFF                    0x4b103013

@@ -1,0 +1,2 @@
+#define R_PROENG_TEXT_DRM_PREV_RIGHTS_SET         0x4deda002
+#define R_PROFILE_TEXT_INSERT_SIM                 0x4deda003

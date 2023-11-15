@@ -1,0 +1,10 @@
+#define R_TAG_SUB_TITLE_SINGLE                    0x50746003
+#define R_TAG_SUB_TITLE_MULTI                     0x50746004
+#define R_TAG_ITEM_SUB_TITLE_SINGLE               0x50746005
+#define R_TAG_ITEM_SUB_TITLE_MULTI                0x50746006
+#define R_TAG_ITEM_SUB_TITLE_NO_IMAGE_NO_VIDEO    0x50746007
+#define R_TAG_POPUP_TITLE                         0x50746008
+#define R_TAG_ITEM_TITLE                          0x50746009
+#define R_TAG_DEFAULT_TITLE                       0x5074600a
+#define R_TAG_GENERAL_TITLE                       0x5074600b
+#define R_TAG_SUB_TITLE_NO_ITEMS                  0x5074600c

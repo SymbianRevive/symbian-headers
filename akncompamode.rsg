@@ -1,0 +1,3 @@
+#define R_COMPAMODE_NON_COMPA_APPS                0x56d8002
+#define R_COMPAMODE_COMPA_APPS                    0x56d8003
+#define R_COMPAMODE_BUTTONS                       0x56d8004

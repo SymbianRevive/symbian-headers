@@ -1,0 +1,28 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMpxaddtracksdialog
+	{
+	EMbmMpxaddtracksdialogQgn_graf_mup_adtl_chmrk_fr01 = 16384,
+	EMbmMpxaddtracksdialogQgn_graf_mup_adtl_chmrk_fr01_mask = 16385,
+	EMbmMpxaddtracksdialogQgn_graf_mup_adtl_chmrk_fr02 = 16386,
+	EMbmMpxaddtracksdialogQgn_graf_mup_adtl_chmrk_fr02_mask = 16387,
+	EMbmMpxaddtracksdialogQgn_graf_mup_adtl_chmrk_fr03 = 16388,
+	EMbmMpxaddtracksdialogQgn_graf_mup_adtl_chmrk_fr03_mask = 16389,
+	EMbmMpxaddtracksdialogQgn_graf_mup_adtl_chmrk_fr04 = 16390,
+	EMbmMpxaddtracksdialogQgn_graf_mup_adtl_chmrk_fr04_mask = 16391,
+	EMbmMpxaddtracksdialogQgn_graf_mup_lst_colpsd_artist = 16392,
+	EMbmMpxaddtracksdialogQgn_graf_mup_lst_colpsd_artist_mask = 16393,
+	EMbmMpxaddtracksdialogQgn_graf_mup_lst_colpsd_track = 16394,
+	EMbmMpxaddtracksdialogQgn_graf_mup_lst_colpsd_track_mask = 16395,
+	EMbmMpxaddtracksdialogQgn_graf_mup_lst_empty = 16396,
+	EMbmMpxaddtracksdialogQgn_graf_mup_lst_empty_mask = 16397,
+	EMbmMpxaddtracksdialogQgn_graf_mup_lst_expd_artist = 16398,
+	EMbmMpxaddtracksdialogQgn_graf_mup_lst_expd_artist_mask = 16399,
+	EMbmMpxaddtracksdialogQgn_graf_mup_lst_expd_track = 16400,
+	EMbmMpxaddtracksdialogQgn_graf_mup_lst_expd_track_mask = 16401,
+	EMbmMpxaddtracksdialogQgn_indi_mmc_add = 16402,
+	EMbmMpxaddtracksdialogQgn_indi_mmc_add_mask = 16403,
+	EMbmMpxaddtracksdialogQgn_graf_mup_ctx_addsong = 16404,
+	EMbmMpxaddtracksdialogQgn_graf_mup_ctx_addsong_mask = 16405,
+	EMbmMpxaddtracksdialogLastElement
+	};

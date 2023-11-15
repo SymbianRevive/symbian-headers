@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifGsdevdiagplugin
+	{
+	EMbmGsdevdiagpluginQgn_prop_set_conn_data = 16384,
+	EMbmGsdevdiagpluginQgn_prop_set_conn_data_mask = 16385,
+	EMbmGsdevdiagpluginLastElement
+	};

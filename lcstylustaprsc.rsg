@@ -1,0 +1,3 @@
+#define R_LCSTYLUSTAP_BT_NAME                     0x3a548002
+#define R_LCSTYLUSTAP_USB_NAME                    0x3a548003
+#define R_LCSTYLUSTAP_USB_MEM_EJECT               0x3a548004

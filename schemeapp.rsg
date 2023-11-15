@@ -1,0 +1,2 @@
+#define R_SCHEMEAPP_LOCALISABLE_APP_INFO          0x1d0c6004
+#define R_SCHEME_DIALOG                           0x1d0c6005

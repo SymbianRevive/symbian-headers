@@ -1,0 +1,24 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifConnectionuiutilities
+	{
+	EMbmConnectionuiutilitiesQgn_indi_wlan_signal_low_add = 16384,
+	EMbmConnectionuiutilitiesQgn_indi_wlan_signal_low_add_mask = 16385,
+	EMbmConnectionuiutilitiesQgn_indi_wlan_signal_med_add = 16386,
+	EMbmConnectionuiutilitiesQgn_indi_wlan_signal_med_add_mask = 16387,
+	EMbmConnectionuiutilitiesQgn_indi_wlan_signal_good_add = 16388,
+	EMbmConnectionuiutilitiesQgn_indi_wlan_signal_good_add_mask = 16389,
+	EMbmConnectionuiutilitiesQgn_indi_wlan_secure_network_add = 16390,
+	EMbmConnectionuiutilitiesQgn_indi_wlan_secure_network_add_mask = 16391,
+	EMbmConnectionuiutilitiesQgn_prop_snote_wlan_adhoc = 16392,
+	EMbmConnectionuiutilitiesQgn_prop_snote_wlan_adhoc_mask = 16393,
+	EMbmConnectionuiutilitiesQgn_prop_snote_wlan_infra = 16394,
+	EMbmConnectionuiutilitiesQgn_prop_snote_wlan_infra_mask = 16395,
+	EMbmConnectionuiutilitiesQgn_indi_wifi_protected_add = 16396,
+	EMbmConnectionuiutilitiesQgn_indi_wifi_protected_add_mask = 16397,
+	EMbmConnectionuiutilitiesQgn_prop_wlan_bearer = 16398,
+	EMbmConnectionuiutilitiesQgn_prop_wlan_bearer_mask = 16399,
+	EMbmConnectionuiutilitiesQgn_prop_wml_gprs = 16400,
+	EMbmConnectionuiutilitiesQgn_prop_wml_gprs_mask = 16401,
+	EMbmConnectionuiutilitiesLastElement
+	};

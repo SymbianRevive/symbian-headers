@@ -1,0 +1,14 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifDownloadmgruilib
+	{
+	EMbmDownloadmgruilibQgn_menu_unknown_lst = 16384,
+	EMbmDownloadmgruilibQgn_menu_unknown_lst_mask = 16385,
+	EMbmDownloadmgruilibQgn_indi_paused = 16386,
+	EMbmDownloadmgruilibQgn_indi_paused_mask = 16387,
+	EMbmDownloadmgruilibQgn_indi_browser_mmc_add = 16388,
+	EMbmDownloadmgruilibQgn_indi_browser_mmc_add_mask = 16389,
+	EMbmDownloadmgruilibQgn_prop_memc_ms_tab = 16390,
+	EMbmDownloadmgruilibQgn_prop_memc_ms_tab_mask = 16391,
+	EMbmDownloadmgruilibLastElement
+	};

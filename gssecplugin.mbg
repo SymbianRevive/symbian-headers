@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifGssecplugin
+	{
+	EMbmGssecpluginQgn_prop_set_sec_sub = 16384,
+	EMbmGssecpluginQgn_prop_set_sec_sub_mask = 16385,
+	EMbmGssecpluginLastElement
+	};

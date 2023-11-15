@@ -1,0 +1,3 @@
+#define R_GENRE_PODCAST                           0x417ac003
+#define R_GENRE_PODCAST_ENGLISH                   0x417ac004
+#define R_GENRE_UNKNOWN                           0x417ac005

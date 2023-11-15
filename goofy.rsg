@@ -1,0 +1,11 @@
+#define R_RAM_HOTKEYS                             0x8f6f004
+#define R_RAM_MENUBAR                             0x8f6f005
+#define R_RAM_MENU                                0x8f6f006
+#define R_RAM_RECORDING_MENU                      0x8f6f007
+#define R_RAM_ADVANCED_MENU                       0x8f6f008
+#define R_RAM_PRIORITY_MENU                       0x8f6f009
+#define R_DIR_DLG                                 0x8f6f00a
+#define R_FILE_DLG                                0x8f6f00b
+#define R_HEARTBEAT_DLG                           0x8f6f00c
+#define R_GOOFY_ABOUT_DIALOG                      0x8f6f00d
+#define R_GOOFY_LOCALISABLE_APP_INFO              0x8f6f00e

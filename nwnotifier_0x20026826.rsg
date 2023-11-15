@@ -1,0 +1,6 @@
+#define R_SIM_NOT_PROV_MM2                        0x47776002
+#define R_SIM_NOT_ALLOW_MM3                       0x47776003
+#define R_CALL_FAILED_MM4                         0x47776004
+#define R_PHONE_NOT_ALLOW_MM5                     0x47776005
+#define R_PHONE_NOT_ALLOW_MM6                     0x47776006
+#define R_SIM_NOT_ALLOW                           0x47776007

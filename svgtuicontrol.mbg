@@ -1,0 +1,22 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifSvgtuicontrol
+	{
+	EMbmSvgtuicontrolQgn_indi_viewer_panning_down = 16384,
+	EMbmSvgtuicontrolQgn_indi_viewer_panning_down_mask = 16385,
+	EMbmSvgtuicontrolQgn_indi_viewer_panning_left = 16386,
+	EMbmSvgtuicontrolQgn_indi_viewer_panning_left_mask = 16387,
+	EMbmSvgtuicontrolQgn_indi_viewer_panning_right = 16388,
+	EMbmSvgtuicontrolQgn_indi_viewer_panning_right_mask = 16389,
+	EMbmSvgtuicontrolQgn_indi_viewer_panning_up = 16390,
+	EMbmSvgtuicontrolQgn_indi_viewer_panning_up_mask = 16391,
+	EMbmSvgtuicontrolQgn_indi_viewer_pointer = 16392,
+	EMbmSvgtuicontrolQgn_indi_viewer_pointer_mask = 16393,
+	EMbmSvgtuicontrolQgn_indi_viewer_pointer_hand = 16394,
+	EMbmSvgtuicontrolQgn_indi_viewer_pointer_hand_mask = 16395,
+	EMbmSvgtuicontrolQgn_indi_viewer_pointer_text = 16396,
+	EMbmSvgtuicontrolQgn_indi_viewer_pointer_text_mask = 16397,
+	EMbmSvgtuicontrolQgn_indi_cams_paused = 16398,
+	EMbmSvgtuicontrolQgn_indi_cams_paused_mask = 16399,
+	EMbmSvgtuicontrolLastElement
+	};

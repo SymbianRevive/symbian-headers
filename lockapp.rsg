@@ -1,0 +1,2 @@
+#define R_DEFAULT_DOCUMENT_NAME                   0x3c5b7002
+#define R_TITLE_PANE_LOCKED                       0x3c5b7004

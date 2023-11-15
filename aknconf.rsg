@@ -1,0 +1,12 @@
+#define R_DEFAULT_DOCUMENT_NAME                   0x48d3b002
+#define R_STATUS_PANE                             0x48d3b004
+#define R_PHYSICS_VIEW                            0x48d3b005
+#define R_GESTURE_VIEW                            0x48d3b006
+#define R_NAVI_DECORATOR                          0x48d3b007
+#define R_MENUBAR                                 0x48d3b008
+#define R_MENU                                    0x48d3b009
+#define R_ABOUT_QUERY_DIALOG                      0x48d3b00a
+#define R_CAPTION_STRING                          0x48d3b00b
+#define R_ABOUT_DIALOG_TITLE                      0x48d3b00c
+#define R_ABOUT_DIALOG_TEXT                       0x48d3b00d
+#define R_LOCALISABLE_APP_INFO                    0x48d3b00e

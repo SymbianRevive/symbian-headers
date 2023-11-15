@@ -1,0 +1,8 @@
+#define R_ROUD_CAN_NOT_EDIT_FOLDERS               0x594ed002
+#define R_ROUD_ONLY_MESSAGES                      0x594ed003
+#define R_ROUD_NOT_SUPPORTED                      0x594ed004
+#define R_RONSM_ICONS                             0x594ed005
+#define R_ROMTMUI_TRIGGER_CONFIRMATION_QUERY      0x594ed006
+#define R_ROMTMUI_QUERY_RIGHTS_ACQ_MSG            0x594ed007
+#define R_ROMTMUI_QUERY_JOIN_DOMAIN_MSG           0x594ed008
+#define R_ROMTMUI_QUERY_LEAVE_DOMAIN_MSG          0x594ed009

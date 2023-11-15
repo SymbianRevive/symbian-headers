@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMpxpodcastdbplugin
+	{
+	EMbmMpxpodcastdbpluginQgn_graf_mup_dlst_podcast = 16384,
+	EMbmMpxpodcastdbpluginQgn_graf_mup_dlst_podcast_mask = 16385,
+	EMbmMpxpodcastdbpluginLastElement
+	};

@@ -1,0 +1,14 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifBtnotif
+	{
+	EMbmBtnotifQgn_note_bt_popup = 16384,
+	EMbmBtnotifQgn_note_bt_popup_mask = 16385,
+	EMbmBtnotifQgn_note_bt_popup_2 = 16386,
+	EMbmBtnotifQgn_note_bt_popup_2_mask = 16387,
+	EMbmBtnotifQgn_note_bt_popup_3 = 16388,
+	EMbmBtnotifQgn_note_bt_popup_3_mask = 16389,
+	EMbmBtnotifQgn_indi_bt_blocked = 16390,
+	EMbmBtnotifQgn_indi_bt_blocked_mask = 16391,
+	EMbmBtnotifLastElement
+	};

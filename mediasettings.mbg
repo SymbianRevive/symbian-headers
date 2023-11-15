@@ -1,0 +1,26 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMediasettings
+	{
+	EMbmMediasettingsQgn_menu_video = 16384,
+	EMbmMediasettingsQgn_menu_video_mask = 16385,
+	EMbmMediasettingsQgn_prop_set_service = 16386,
+	EMbmMediasettingsQgn_prop_set_service_mask = 16387,
+	EMbmMediasettingsQgn_prop_set_apps_mp = 16388,
+	EMbmMediasettingsQgn_prop_set_apps_mp_mask = 16389,
+	EMbmMediasettingsQgn_prop_set_mp_video_sub = 16390,
+	EMbmMediasettingsQgn_prop_set_mp_video_sub_mask = 16391,
+	EMbmMediasettingsQgn_prop_set_mp_stream_sub = 16392,
+	EMbmMediasettingsQgn_prop_set_mp_stream_sub_mask = 16393,
+	EMbmMediasettingsQgn_prop_set_mp_audio_sub = 16394,
+	EMbmMediasettingsQgn_prop_set_mp_audio_sub_mask = 16395,
+	EMbmMediasettingsQgn_prop_set_mp_video_tab2 = 16396,
+	EMbmMediasettingsQgn_prop_set_mp_video_tab2_mask = 16397,
+	EMbmMediasettingsQgn_prop_set_mp_audio_tab3 = 16398,
+	EMbmMediasettingsQgn_prop_set_mp_audio_tab3_mask = 16399,
+	EMbmMediasettingsQgn_prop_set_mp_stream_tab2 = 16400,
+	EMbmMediasettingsQgn_prop_set_mp_stream_tab2_mask = 16401,
+	EMbmMediasettingsQgn_prop_set_mp_video_tab3 = 16402,
+	EMbmMediasettingsQgn_prop_set_mp_video_tab3_mask = 16403,
+	EMbmMediasettingsLastElement
+	};

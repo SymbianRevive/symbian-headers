@@ -1,0 +1,11 @@
+#define R_PENINPUTMODE_HWR                        0x4e943001
+#define R_PENINPUTMODE_FULLHWR                    0x4e943002
+#define R_PENINPUTMODE_VKB                        0x4e943003
+#define R_PENINPUTMODE_FINGERITUT                 0x4e943004
+#define R_PENINPUTMODE_FULLQWERTY                 0x4e943005
+#define R_PENINPUT_SELECTION_LIST_PAGE_NUM        0x4e943006
+#define R_PENINPUT_SELECTION_LIST_SPELL           0x4e943007
+#define R_PENINPUT_SPELLING_PROMPT                0x4e943008
+#define R_PENINPUT_PROMPT_COLON                   0x4e943009
+#define R_PENINPUTMODE_NAMES                      0x4e94300a
+#define PENINPUTMODE_SWITCH_CHOICELIST            0x4e94300b

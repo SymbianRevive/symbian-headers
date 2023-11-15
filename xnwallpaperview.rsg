@@ -1,0 +1,6 @@
+#define R_WALLPAPER_VIEW                          0x75fa3002
+#define R_QTN_HS_CORRUPTED_IMAGE_NOTE             0x75fa3003
+#define R_QTN_HS_TOO_BIG_IMAGE_NOTE               0x75fa3004
+#define R_QTN_HS_DRM_PROTECTED_IMAGE_NOTE         0x75fa3005
+#define R_QTN_HS_PROCESSING_NOTE                  0x75fa3006
+#define R_CHANGE_WALLPAPER_WAIT_DIALOG            0x75fa3007

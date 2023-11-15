@@ -1,0 +1,26 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifAudiomessage
+	{
+	EMbmAudiomessageQgn_prop_mce_audio_title = 16384,
+	EMbmAudiomessageQgn_prop_mce_audio_title_mask = 16385,
+	EMbmAudiomessageQgn_indi_mms_audio_record = 16386,
+	EMbmAudiomessageQgn_indi_mms_audio_record_mask = 16387,
+	EMbmAudiomessageQgn_indi_mms_audio_pause = 16388,
+	EMbmAudiomessageQgn_indi_mms_audio_pause_mask = 16389,
+	EMbmAudiomessageQgn_indi_mms_audio_play = 16390,
+	EMbmAudiomessageQgn_indi_mms_audio_play_mask = 16391,
+	EMbmAudiomessageQgn_graf_mms_audio_insert = 16392,
+	EMbmAudiomessageQgn_graf_mms_audio_insert_mask = 16393,
+	EMbmAudiomessageQgn_graf_mms_audio_inserted = 16394,
+	EMbmAudiomessageQgn_graf_mms_audio_inserted_mask = 16395,
+	EMbmAudiomessageQgn_graf_mms_audio_corrupted = 16396,
+	EMbmAudiomessageQgn_graf_mms_audio_corrupted_mask = 16397,
+	EMbmAudiomessageQgn_indi_mce_priority_high = 16398,
+	EMbmAudiomessageQgn_indi_mce_priority_high_mask = 16399,
+	EMbmAudiomessageQgn_indi_mce_priority_low = 16400,
+	EMbmAudiomessageQgn_indi_mce_priority_low_mask = 16401,
+	EMbmAudiomessageQgn_indi_cams_tb_rec = 16402,
+	EMbmAudiomessageQgn_indi_cams_tb_rec_mask = 16403,
+	EMbmAudiomessageLastElement
+	};

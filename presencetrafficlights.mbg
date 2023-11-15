@@ -1,0 +1,10 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifPresencetrafficlights
+	{
+	EMbmPresencetrafficlightsQgn_prop_im_friend_on = 16384,
+	EMbmPresencetrafficlightsQgn_prop_im_friend_on_mask = 16385,
+	EMbmPresencetrafficlightsQgn_prop_im_friend_off = 16386,
+	EMbmPresencetrafficlightsQgn_prop_im_friend_off_mask = 16387,
+	EMbmPresencetrafficlightsLastElement
+	};

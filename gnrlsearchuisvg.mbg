@@ -1,0 +1,12 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifGnrlsearchuisvg
+	{
+	EMbmGnrlsearchuisvgQgn_prop_checkbox_off = 16384,
+	EMbmGnrlsearchuisvgQgn_prop_checkbox_off_mask = 16385,
+	EMbmGnrlsearchuisvgQgn_prop_checkbox_on = 16386,
+	EMbmGnrlsearchuisvgQgn_prop_checkbox_on_mask = 16387,
+	EMbmGnrlsearchuisvgQgn_prop_search_indevice_title = 16388,
+	EMbmGnrlsearchuisvgQgn_prop_search_indevice_title_mask = 16389,
+	EMbmGnrlsearchuisvgLastElement
+	};

@@ -1,0 +1,9 @@
+#define R_USSD_LOCALISABLE_APP_INFO               0x686bf004
+#define R_USSD_MENUBAR                            0x686bf005
+#define R_USSD_MENU                               0x686bf006
+#define R_USSD_SOFTKEYS_OPTIONS_EXIT_OPTIONS      0x686bf007
+#define R_USSD_SOFTKEYS_SEND_EXIT                 0x686bf008
+#define R_STATUS_PANE                             0x686bf009
+#define R_OVERRIDDEN_APP_EDITOR_NAME              0x686bf00a
+#define R_USSD_EDWIN_EDITOR_ELAF                  0x686bf00b
+#define R_USSD_EDWIN_EDITOR_APAC                  0x686bf00c

@@ -1,0 +1,14 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifPbk2rclcallplugin
+	{
+	EMbmPbk2rclcallpluginQgn_prop_cmail_action_call = 16384,
+	EMbmPbk2rclcallpluginQgn_prop_cmail_action_call_mask = 16385,
+	EMbmPbk2rclcallpluginQgn_prop_cmail_action_call_video = 16386,
+	EMbmPbk2rclcallpluginQgn_prop_cmail_action_call_video_mask = 16387,
+	EMbmPbk2rclcallpluginQgn_prop_cmail_action_voip = 16388,
+	EMbmPbk2rclcallpluginQgn_prop_cmail_action_voip_mask = 16389,
+	EMbmPbk2rclcallpluginQgn_prop_cmail_action_conf_service = 16390,
+	EMbmPbk2rclcallpluginQgn_prop_cmail_action_conf_service_mask = 16391,
+	EMbmPbk2rclcallpluginLastElement
+	};

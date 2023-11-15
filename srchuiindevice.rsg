@@ -1,0 +1,3 @@
+#define R_QTN_TITLE_INDEVICE                      0x2dc4a004
+#define R_QTN_SEARCH_MAIN_INDEVICE                0x2dc4a005
+#define R_QTN_TITLE_SEARCH_SERVICE                0x2dc4a006

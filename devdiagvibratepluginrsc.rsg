@@ -1,0 +1,16 @@
+#define R_DIAG_LST_VIBRATE                        0x6b56b003
+#define R_DIAG_MSG_VIBRATING                      0x6b56b004
+#define R_DIAG_LST_TEST_VIBRATE                   0x6b56b005
+#define R_DIAG_MSG_INFO_VIBRATE                   0x6b56b006
+#define R_DIAG_TITLE_TEST_VIBRATE                 0x6b56b007
+#define R_DIAG_MSG_TITLE_VIBRATE                  0x6b56b008
+#define R_VIBRATE_SOFTKEYS_OK__CANCEL             0x6b56b009
+#define R_VIBRATE_SOFTKEYS_OK_SKIP                0x6b56b00a
+#define R_VIBRATE_SOFTKEYS_STOP__CANCEL           0x6b56b00b
+#define R_VIBRATE_SOFTKEYS_STOP_CANCEL            0x6b56b00c
+#define R_VIBRATE_SOFTKEYS_YES_NO                 0x6b56b00d
+#define R_VIBRATEPLUGIN_CONFQUERY_DLG             0x6b56b00e
+#define R_VIBRATEPLUGIN_DISCONNECT_CHARGER_DLG    0x6b56b00f
+#define R_VIBRATEPLUGIN_STARTQUERY                0x6b56b010
+#define R_VIBRATEPLUGIN_PROGRESS_NOTE_VIBRATING   0x6b56b011
+#define R_VIBRATEPLUGIN_VIBRATE_ACTIVATE_DLG      0x6b56b012

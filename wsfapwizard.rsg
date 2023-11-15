@@ -1,0 +1,15 @@
+#define R_QTN_ENTER_NETWORK_SSID                  0x70d18003
+#define R_QTN_CMON_QUEST_CREATE_WLAN_IAP          0x70d18004
+#define R_QTN_NETW_CONSET_INFO_EAP_SETTINGS_DEFAULT 0x70d18005
+#define R_QTN_WLAN_INFO_NO_NETWORKS_FOUND         0x70d18006
+#define R_QTN_WIZARD_QUERY_GENERAL                0x70d18007
+#define R_QTN_WIZARD_AUTH_MODES                   0x70d18008
+#define R_QTN_WIZARD_AUTH_MODE                    0x70d18009
+#define R_QTN_WIZARD_AUTH_MODES_AD_HOC            0x70d1800a
+#define R_QTN_WIZARD_AUTH_MODE_AD_HOC             0x70d1800b
+#define R_QTN_WIZARD_NETWORK_MODES                0x70d1800c
+#define R_QTN_WIZARD_NETWORK_MODE                 0x70d1800d
+#define R_QTN_WIZARD_WPA_MODES                    0x70d1800e
+#define R_QTN_WIZARD_WPA_MODE                     0x70d1800f
+#define R_QTN_WIZARD_CONFIRMATION_QUERY           0x70d18010
+#define R_SEARCHING_WLAN_WAIT_NOTE                0x70d18011

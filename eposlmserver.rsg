@@ -1,0 +1,2 @@
+#define R_POS_LM_SERVER_SHUTDOWN_DELAY            2
+#define R_POS_LM_SERVER_DB_PATH_FULL              3

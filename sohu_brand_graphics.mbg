@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifSohu_brand_graphics
+	{
+	EMbmSohu_brand_graphicsSohu = 16384,
+	EMbmSohu_brand_graphicsSohu_mask = 16385,
+	EMbmSohu_brand_graphicsLastElement
+	};

@@ -1,0 +1,28 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifImgprintbitmaps
+	{
+	EMbmImgprintbitmapsQgn_prop_print_slider_bar = 16384,
+	EMbmImgprintbitmapsQgn_prop_print_slider_bar_mask = 16385,
+	EMbmImgprintbitmapsQgn_prop_print_slider_bar_short = 16386,
+	EMbmImgprintbitmapsQgn_prop_print_slider_bar_short_mask = 16387,
+	EMbmImgprintbitmapsQgn_prop_print_slider_handle = 16388,
+	EMbmImgprintbitmapsQgn_prop_print_slider_handle_mask = 16389,
+	EMbmImgprintbitmapsQgn_prop_print_slider_left = 16390,
+	EMbmImgprintbitmapsQgn_prop_print_slider_left_mask = 16391,
+	EMbmImgprintbitmapsQgn_prop_print_slider_right = 16392,
+	EMbmImgprintbitmapsQgn_prop_print_slider_right_mask = 16393,
+	EMbmImgprintbitmapsQgn_indi_print_cached = 16394,
+	EMbmImgprintbitmapsQgn_indi_print_cached_mask = 16395,
+	EMbmImgprintbitmapsQgn_prop_print_bt = 16396,
+	EMbmImgprintbitmapsQgn_prop_print_bt_mask = 16397,
+	EMbmImgprintbitmapsQgn_prop_print_kiosk = 16398,
+	EMbmImgprintbitmapsQgn_prop_print_kiosk_mask = 16399,
+	EMbmImgprintbitmapsQgn_prop_print_mmc = 16400,
+	EMbmImgprintbitmapsQgn_prop_print_mmc_mask = 16401,
+	EMbmImgprintbitmapsQgn_prop_print_usb = 16402,
+	EMbmImgprintbitmapsQgn_prop_print_usb_mask = 16403,
+	EMbmImgprintbitmapsQgn_prop_print_wlan = 16404,
+	EMbmImgprintbitmapsQgn_prop_print_wlan_mask = 16405,
+	EMbmImgprintbitmapsLastElement
+	};

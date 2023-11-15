@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifAboutgsplugin
+	{
+	EMbmAboutgspluginQgn_prop_cp_dev_about = 16384,
+	EMbmAboutgspluginQgn_prop_cp_dev_about_mask = 16385,
+	EMbmAboutgspluginLastElement
+	};

@@ -1,0 +1,14 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifEqualizer
+	{
+	EMbmEqualizerEmpty13x13 = 16384,
+	EMbmEqualizerEmpty13x13_mask = 16385,
+	EMbmEqualizerQgn_prop_psln_active = 16386,
+	EMbmEqualizerQgn_prop_psln_active_mask = 16387,
+	EMbmEqualizerQgn_indi_mup2_eq_bg = 16388,
+	EMbmEqualizerQgn_indi_mup2_eq_bg_mask = 16389,
+	EMbmEqualizerQgn_indi_mup_eq_slider = 16390,
+	EMbmEqualizerQgn_indi_mup_eq_slider_mask = 16391,
+	EMbmEqualizerLastElement
+	};

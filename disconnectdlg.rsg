@@ -1,0 +1,14 @@
+#define R_QTN_NETW_INFO_DISCONNECT_FAILED         0x1d0c6004
+#define R_QTN_CMON_ITEM_CONN_NAME_MODEM           0x1d0c6005
+#define R_QTN_NETW_HEAD_CONN_TO_CLOSE             0x1d0c6006
+#define R_QTN_NETW_DDLG_APP_RSS_SERVER            0x1d0c6007
+#define R_QTN_NETW_DDLG_APP_DL_MGR                0x1d0c6008
+#define R_QTN_NETW_DDLG_APP_MSG_SERVER            0x1d0c6009
+#define R_QTN_NETW_DDLG_APP_JAVA_MIDLET           0x1d0c600a
+#define R_QTN_NETW_DDLG_APP_UNKNOWN               0x1d0c600b
+#define R_QTN_NETW_DDLG_APP_SUPL                  0x1d0c600c
+#define R_DISCONNECTDLG_DISCON_CANCEL__SELECT     0x1d0c600d
+#define R_DISCONNECTDLG_DIALOG                    0x1d0c600e
+#define R_DISCONNECTDLG_INFO_NOTE                 0x1d0c600f
+#define R_DISCONNECTDLG_CONFIRM_NOTE              0x1d0c6010
+#define R_DISCONNECTDLG_PROCEED                   0x1d0c6011

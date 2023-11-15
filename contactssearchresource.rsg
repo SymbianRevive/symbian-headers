@@ -1,0 +1,3 @@
+#define R_QTN_SEARCH_TYPES_CONTACTS               0x1f13c004
+#define R_QTN_SEARCH_SUBFOLDERS_PHONE             0x1f13c005
+#define R_QTN_SEARCH_SUBFOLDERS_SIM               0x1f13c006

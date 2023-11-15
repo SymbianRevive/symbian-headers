@@ -1,0 +1,2 @@
+#define R_LOWLIMIT_DISKSPACE_HOLDER               1
+#define R_HIGHLIMIT_DISKSPACE_HOLDER              2

@@ -1,0 +1,12 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifActiveidle2
+	{
+	EMbmActiveidle2Qgn_indi_tb_appsgrid = 16384,
+	EMbmActiveidle2Qgn_indi_tb_appsgrid_mask = 16385,
+	EMbmActiveidle2Qgn_indi_tb_dialler = 16386,
+	EMbmActiveidle2Qgn_indi_tb_dialler_mask = 16387,
+	EMbmActiveidle2Qgn_indi_tb_profiles = 16388,
+	EMbmActiveidle2Qgn_indi_tb_profiles_mask = 16389,
+	EMbmActiveidle2LastElement
+	};

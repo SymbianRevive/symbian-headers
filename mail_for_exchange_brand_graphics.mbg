@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMail_for_exchange_brand_graphics
+	{
+	EMbmMail_for_exchange_brand_graphicsMail_for_exchange = 16384,
+	EMbmMail_for_exchange_brand_graphicsMail_for_exchange_mask = 16385,
+	EMbmMail_for_exchange_brand_graphicsLastElement
+	};

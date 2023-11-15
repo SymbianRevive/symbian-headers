@@ -1,0 +1,16 @@
+#define R_DEFAULT_DOCUMENT_NAME                   0x27d2f002
+#define R_TS_CBA_NONTOUCH                         0x27d2f004
+#define R_TS_CBA_TOUCH                            0x27d2f005
+#define R_TS_MENUBAR                              0x27d2f006
+#define R_TS_MENU                                 0x27d2f007
+#define R_TS_PANEL_NAME                           0x27d2f008
+#define R_TS_MESSAGE_DIALOG_OKCANCEL              0x27d2f009
+#define R_TS_MESSAGE_DIALOG_YESNO                 0x27d2f00a
+#define R_TS_MESSAGE_DIALOG_OK                    0x27d2f00b
+#define R_TS_FSW_CONFIRM_CLOSE_QUERY              0x27d2f00c
+#define R_LOCALISABLE_APP_INFO                    0x27d2f00d
+#define R_TS_TITLE                                0x27d2f00e
+#define R_TS_FSW_CLOSE                            0x27d2f00f
+#define R_TS_FSW_CLOSE_ALL                        0x27d2f010
+#define R_TS_FSW_NO_APPS                          0x27d2f011
+#define R_TASK_SWITCHER_HEADING_APPLICATIONS      0x27d2f012

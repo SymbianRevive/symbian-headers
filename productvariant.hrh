@@ -1,0 +1,37 @@
+/*
+* ==============================================================================
+*  Name        : ProductVariant.hrh
+*  Part of     : Series 60 release 5.01 / Variability management
+*  Interface   : Open OEM, Features
+*  Description :
+*
+*  The file is included by any code (cpp and resource) that needs to
+*  have static (compilation time, link time, image build time) or
+*  dynamic (run time) variation support for variant specific features.
+*
+*  This file is meant for licensees to customize the default variability
+*  settings configured for the release. The existing values can overridden
+*  in this file by defining/undefining feature flags.
+*
+*
+*  Version     : 1.0
+*
+*  Copyright © 2002-2005 Nokia Corporation.
+*  This material, including documentation and any related 
+*  computer programs, is protected by copyright controlled by 
+*  Nokia Corporation. All rights are reserved. Copying, 
+*  including reproducing, storing, adapting or translating, any 
+*  or all of this material requires the prior written consent of 
+*  Nokia Corporation. This material also contains confidential 
+*  information which may not be disclosed to others without the 
+*  prior written consent of Nokia Corporation.
+* ==============================================================================
+*/
+
+
+#ifndef PRODUCTVARIANT_HRH
+#define PRODUCTVARIANT_HRH
+
+// Add changes to the default values here.
+
+#endif

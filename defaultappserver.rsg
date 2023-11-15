@@ -1,0 +1,12 @@
+#define R_DAS_MENUBAR                             0x144cd004
+#define R_DAS_MENU                                0x144cd005
+#define R_DAS_MENU_ORIGINAL_SETTINGS              0x144cd006
+#define R_DAS_SERVICESMIMES_LISTBOX               0x144cd007
+#define R_DA_TITLE_APP                            0x144cd008
+#define R_DA_TITLE_MAIN                           0x144cd009
+#define R_DA_TITLE_ADVANCED                       0x144cd00a
+#define R_DA_TASKS                                0x144cd00b
+#define R_DEFAULTAPPSERVER_LOCALISABLE_APP_INFO   0x144cd00c
+#define R_DAS_SOFTKEYS_OPTIONS_BACK__CHANGE       0x144cd00d
+#define R_DAS_DLG                                 0x144cd00e
+#define R_DA_SERVICE_MIME                         0x144cd00f

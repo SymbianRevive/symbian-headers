@@ -1,0 +1,2 @@
+#define R_MUSICHOMESCREEN_GO_TO_MUSIC             0x41df9003
+#define R_MUSICHOMESCREEN_OPENING                 0x41df9004

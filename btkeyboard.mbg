@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifBtkeyboard
+	{
+	EMbmBtkeyboardQgn_wka_cxt = 16384,
+	EMbmBtkeyboardQgn_wka_cxt_mask = 16385,
+	EMbmBtkeyboardLastElement
+	};

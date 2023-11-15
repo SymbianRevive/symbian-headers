@@ -1,0 +1,14 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifFsccallplugin
+	{
+	EMbmFsccallpluginQgn_prop_cmail_action_call = 16384,
+	EMbmFsccallpluginQgn_prop_cmail_action_call_mask = 16385,
+	EMbmFsccallpluginQgn_prop_cmail_action_call_video = 16386,
+	EMbmFsccallpluginQgn_prop_cmail_action_call_video_mask = 16387,
+	EMbmFsccallpluginQgn_prop_cmail_action_voip = 16388,
+	EMbmFsccallpluginQgn_prop_cmail_action_voip_mask = 16389,
+	EMbmFsccallpluginQgn_prop_cmail_action_conf_service = 16390,
+	EMbmFsccallpluginQgn_prop_cmail_action_conf_service_mask = 16391,
+	EMbmFsccallpluginLastElement
+	};

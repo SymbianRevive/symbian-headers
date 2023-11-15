@@ -1,0 +1,13 @@
+#define R_MSG_TYPE_STATUS_REPORT                  0x5da5a002
+#define R_MSG_INDICATION_VOICEMAIL_ONE            0x5da5a003
+#define R_MSG_INDICATION_VOICEMAIL_MANY           0x5da5a004
+#define R_MSG_INDICATION_EMAIL_ONE                0x5da5a005
+#define R_MSG_INDICATION_EMAIL_MANY               0x5da5a006
+#define R_MSG_INDICATION_FAX_ONE                  0x5da5a007
+#define R_MSG_INDICATION_FAX_MANY                 0x5da5a008
+#define R_MSG_INDICATION_OTHER_ONE                0x5da5a009
+#define R_MSG_INDICATION_OTHER_MANY               0x5da5a00a
+#define R_MSG_INDICATION_VIDEOMESSAGE_ONE         0x5da5a00b
+#define R_MSG_INDICATION_VIDEOMESSAGE_MANY        0x5da5a00c
+#define R_MSG_INDICATION_ENHANCED_VOICEMAIL_ONE   0x5da5a00d
+#define R_MSG_INDICATION_ENHANCED_VOICEMAIL_MANY  0x5da5a00e

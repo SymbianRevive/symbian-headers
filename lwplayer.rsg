@@ -1,0 +1,4 @@
+#define R_LWP_LOCALISABLE_APP_INFO                0x8f6f004
+#define R_LWPLAYER_STATUS_PANE                    0x8f6f005
+#define R_LWP_CLIP_MISSING                        0x8f6f006
+#define R_LWP_INVALID_CLIP                        0x8f6f007

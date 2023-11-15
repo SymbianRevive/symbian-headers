@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMpxpodcastplaybackview
+	{
+	EMbmMpxpodcastplaybackviewQgn_indi_mup_default_album_pcast = 16384,
+	EMbmMpxpodcastplaybackviewQgn_indi_mup_default_album_pcast_mask = 16385,
+	EMbmMpxpodcastplaybackviewLastElement
+	};

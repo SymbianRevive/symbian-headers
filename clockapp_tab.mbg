@@ -1,0 +1,10 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifClockapp_tab
+	{
+	EMbmClockapp_tabQgn_prop_clk_clock_tab4 = 16384,
+	EMbmClockapp_tabQgn_prop_clk_clock_tab4_mask = 16385,
+	EMbmClockapp_tabQgn_prop_clk_wrld_clk_tab4 = 16386,
+	EMbmClockapp_tabQgn_prop_clk_wrld_clk_tab4_mask = 16387,
+	EMbmClockapp_tabLastElement
+	};

@@ -1,0 +1,16 @@
+#define R_APPMNGR2_SETTINGS_VIEW                  0x72b8002
+#define R_APPMNGR2_SETTIGS_MENUBAR                0x72b8003
+#define R_APPMNGR2_SETTINGS_MENU                  0x72b8004
+#define R_APPMNGR2_CBA_OPTIONS_BACK_CHANGE        0x72b8005
+#define R_APPMNGR2_SETTING_ARRAY                  0x72b8006
+#define R_APPMNGR2_ALLOW_UNTRUSTED_VALUE_ARRAY    0x72b8007
+#define R_APPMNGR2_SET_PAGE_ALLOW_UNTRUSTED       0x72b8008
+#define R_APPMNGR2_OCSP_CHECK_VALUE_ARRAY         0x72b8009
+#define R_APPMNGR2_OCSP_CHECK_PAGE                0x72b800a
+#define R_APPMNGR2_OCSP_EDITOR                    0x72b800b
+#define R_APPMNGR2_OCSP_URL_SETTING_PAGE          0x72b800c
+#define R_APPMNGR2_URL_EDITOR                     0x72b800d
+#define R_SET_FOLDER_APPLICATION_MANAGER          0x72b800e
+#define R_AM_INSTALLATION_SETTINGS_TITLE          0x72b800f
+#define R_AM_NOTE_LOCKED_SETTIGS                  0x72b8010
+#define R_AM_SET_OCSP_NONE                        0x72b8011

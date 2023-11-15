@@ -1,0 +1,20 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifApsettings
+	{
+	EMbmApsettingsQgn_prop_wml_gprs = 16384,
+	EMbmApsettingsQgn_prop_wml_gprs_mask = 16385,
+	EMbmApsettingsQgn_prop_wml_csd = 16386,
+	EMbmApsettingsQgn_prop_wml_csd_mask = 16387,
+	EMbmApsettingsQgn_prop_wml_hscsd = 16388,
+	EMbmApsettingsQgn_prop_wml_hscsd_mask = 16389,
+	EMbmApsettingsQgn_prop_wml_sms = 16390,
+	EMbmApsettingsQgn_prop_wml_sms_mask = 16391,
+	EMbmApsettingsQgn_prop_wlan_bearer = 16392,
+	EMbmApsettingsQgn_prop_wlan_bearer_mask = 16393,
+	EMbmApsettingsQgn_prop_wlan_easy = 16394,
+	EMbmApsettingsQgn_prop_wlan_easy_mask = 16395,
+	EMbmApsettingsQgn_indi_sett_protected_add = 16396,
+	EMbmApsettingsQgn_indi_sett_protected_add_mask = 16397,
+	EMbmApsettingsLastElement
+	};

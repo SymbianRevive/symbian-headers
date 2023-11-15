@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifPbk2rclsendbusinesscardplugin
+	{
+	EMbmPbk2rclsendbusinesscardpluginQgn_prop_cmail_action_save = 16384,
+	EMbmPbk2rclsendbusinesscardpluginQgn_prop_cmail_action_save_mask = 16385,
+	EMbmPbk2rclsendbusinesscardpluginLastElement
+	};

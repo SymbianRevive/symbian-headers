@@ -1,0 +1,13 @@
+#define R_TAGSBROWSER_VIEW                        0x23e7f002
+#define R_TAGSBROWSER_MENUBAR                     0x23e7f003
+#define R_TAGSBROWSER_MENU                        0x23e7f004
+#define R_TILE_SHW_MENU                           0x23e7f005
+#define R_TAGSBROWSER_SOFTKEYS_OPTIONS_BACK_SELECT 0x23e7f006
+#define R_TAGSBROWSER_SOFTKEYS_MSK_DISABLED       0x23e7f007
+#define R_TAGSBROWSER_EMPTY_TEXT                  0x23e7f008
+#define R_TAGSBROWSER_SUBTITLE_SINGLE             0x23e7f009
+#define R_TAGSBROWSER_SUBTITLE_MULTIPLE           0x23e7f00a
+#define R_TAGSBROWSER_TOOLBAR                     0x23e7f00b
+#define R_GLX_TAGS_RENAME_TITLE                   0x23e7f00c
+#define R_GLX_TAGS_SLIDESHOW_TITLE                0x23e7f00d
+#define R_GLX_TAGS_DELETE_TITLE                   0x23e7f00e

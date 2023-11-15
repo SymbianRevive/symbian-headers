@@ -1,0 +1,10 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifPiprofilerui_extraicons
+	{
+	EMbmPiprofilerui_extraiconsQgn_prob_piprofilerui_status_disabled = 16384,
+	EMbmPiprofilerui_extraiconsQgn_prob_piprofilerui_status_disabled_mask = 16385,
+	EMbmPiprofilerui_extraiconsQgn_prob_piprofilerui_status_enabled = 16386,
+	EMbmPiprofilerui_extraiconsQgn_prob_piprofilerui_status_enabled_mask = 16387,
+	EMbmPiprofilerui_extraiconsLastElement
+	};

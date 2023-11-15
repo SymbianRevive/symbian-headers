@@ -1,0 +1,12 @@
+#define R_VOIP_NEW_VOICE_MESSAGE                  0x2e3ea003
+#define R_VOIP_NEW_AND_OLD_VOICE_MSG              0x2e3ea004
+#define R_VOIP_NEW_VOICE_MESSAGES                 0x2e3ea005
+#define R_VOIP_VM_MSG_ACCOUNT                     0x2e3ea006
+#define R_VOIP_VM_HEADER_COUNT                    0x2e3ea007
+#define R_VOIP_VM_TO                              0x2e3ea008
+#define R_VOIP_VM_FROM                            0x2e3ea009
+#define R_VOIP_VM_SUBJECT                         0x2e3ea00a
+#define R_VOIP_VM_DATE                            0x2e3ea00b
+#define R_VOIP_VM_PRIORITY                        0x2e3ea00c
+#define R_VOIP_VM_MSG_ID                          0x2e3ea00d
+#define R_VOIP_VM_MSG_SUM_UNKNOWN                 0x2e3ea00e

@@ -1,0 +1,2 @@
+#define R_QTN_CP_FOLDER_CONNECTION_MANAGEMENT     0x10d67002
+#define R_QTN_ERR_OS_GENERAL                      0x10d67003

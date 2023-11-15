@@ -1,0 +1,5 @@
+#define R_LOC_STYLUS_TITLE_GPS                    0x3b056002
+#define R_LOC_STYLUS_GPS_INFO                     0x3b056003
+#define R_LOC_STYLUS_MORE_INFO                    0x3b056004
+#define R_LOC_STYLUS_GPS_DETAILS                  0x3b056005
+#define R_LOCGPSINDICATOR_MESSAGE_QUERY           0x3b056006

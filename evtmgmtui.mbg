@@ -1,0 +1,18 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifEvtmgmtui
+	{
+	EMbmEvtmgmtuiQgn_prop_locev_new = 16384,
+	EMbmEvtmgmtuiQgn_prop_locev_new_mask = 16385,
+	EMbmEvtmgmtuiQgn_prop_locev_draft = 16386,
+	EMbmEvtmgmtuiQgn_prop_locev_draft_mask = 16387,
+	EMbmEvtmgmtuiQgn_prop_locev_invalid = 16388,
+	EMbmEvtmgmtuiQgn_prop_locev_invalid_mask = 16389,
+	EMbmEvtmgmtuiQgn_prop_locev_completed = 16390,
+	EMbmEvtmgmtuiQgn_prop_locev_completed_mask = 16391,
+	EMbmEvtmgmtuiQgn_prop_locev_trigger = 16392,
+	EMbmEvtmgmtuiQgn_prop_locev_trigger_mask = 16393,
+	EMbmEvtmgmtuiQgn_indi_repeat_add = 16394,
+	EMbmEvtmgmtuiQgn_indi_repeat_add_mask = 16395,
+	EMbmEvtmgmtuiLastElement
+	};

@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifServicehelpplugin
+	{
+	EMbmServicehelppluginQgn_prop_set_apps_wml = 16384,
+	EMbmServicehelppluginQgn_prop_set_apps_wml_mask = 16385,
+	EMbmServicehelppluginLastElement
+	};

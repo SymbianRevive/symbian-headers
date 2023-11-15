@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifWsfwlaninfosorting
+	{
+	EMbmWsfwlaninfosortingQgn_prop_wlan_bearer = 16384,
+	EMbmWsfwlaninfosortingQgn_prop_wlan_bearer_mask = 16385,
+	EMbmWsfwlaninfosortingLastElement
+	};

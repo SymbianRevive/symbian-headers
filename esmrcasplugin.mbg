@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifEsmrcasplugin
+	{
+	EMbmEsmrcaspluginQgn_prop_cmail_action_meeting = 16384,
+	EMbmEsmrcaspluginQgn_prop_cmail_action_meeting_mask = 16385,
+	EMbmEsmrcaspluginLastElement
+	};

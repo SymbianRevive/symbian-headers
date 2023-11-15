@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifGslangplugin
+	{
+	EMbmGslangpluginQgn_prop_cp_perso_lang = 16384,
+	EMbmGslangpluginQgn_prop_cp_perso_lang_mask = 16385,
+	EMbmGslangpluginLastElement
+	};

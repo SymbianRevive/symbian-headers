@@ -1,0 +1,9 @@
+#define R_ALWAYS_ASK_ALWAYS_ASK                   0x57ba003
+#define R_ALWAYS_ASK_USER_DEFINED                 0x57ba004
+#define R_ALWAYS_ASK_PAGE                         0x57ba005
+#define R_ALWAYS_ASK_PAGE_LISTBOX                 0x57ba006
+#define R_CHANGE_CONN_LIST_QUERY                  0x57ba007
+#define R_WLAN_SEARCH_FOR_NETWORKS                0x57ba008
+#define R_CONN_CHANGED                            0x57ba009
+#define R_CHANGE_CONNECTION_DESC                  0x57ba00a
+#define R_SEARCHING_WAIT_NOTE                     0x57ba00b

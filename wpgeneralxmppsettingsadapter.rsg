@@ -1,0 +1,2 @@
+#define R_QTN_IPCOMM_MSG_TEXT                     0x7388e002
+#define R_QTN_IPCOMM_MSG_TITLE                    0x7388e003

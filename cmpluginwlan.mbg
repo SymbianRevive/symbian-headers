@@ -1,0 +1,12 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifCmpluginwlan
+	{
+	EMbmCmpluginwlanQgn_prop_wlan_bearer = 16384,
+	EMbmCmpluginwlanQgn_prop_wlan_bearer_mask = 16385,
+	EMbmCmpluginwlanQgn_prop_set_conn_bearer_avail_wlan = 16386,
+	EMbmCmpluginwlanQgn_prop_set_conn_bearer_avail_wlan_mask = 16387,
+	EMbmCmpluginwlanQgn_prop_set_conn_wlan_easy = 16388,
+	EMbmCmpluginwlanQgn_prop_set_conn_wlan_easy_mask = 16389,
+	EMbmCmpluginwlanLastElement
+	};

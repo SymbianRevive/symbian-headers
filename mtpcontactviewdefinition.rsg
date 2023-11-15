@@ -1,0 +1,2 @@
+#define R_CONTACT_VIEW                            1
+#define R_GROUP_VIEW                              2

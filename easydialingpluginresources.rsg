@@ -1,0 +1,7 @@
+#define R_EASYDIALING_CBA                         0x18d8f002
+#define R_EASYDIALING_MENUBAR                     0x18d8f003
+#define R_EASYDIALING_MENU                        0x18d8f004
+#define R_EASYDIALING_OPTIONS_CALL_MENU           0x18d8f005
+#define R_EASYDIALING_OPTIONS_ON_OFF_MENU_ITEM    0x18d8f006
+#define R_EASYDIALING_OPTIONS_ON_OFF_CASCADE_MENU 0x18d8f007
+#define R_QTN_EASYDIAL_ENTER_NUMBER               0x18d8f008

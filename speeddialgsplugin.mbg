@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifSpeeddialgsplugin
+	{
+	EMbmSpeeddialgspluginQgn_prop_cp_tele_speed = 16384,
+	EMbmSpeeddialgspluginQgn_prop_cp_tele_speed_mask = 16385,
+	EMbmSpeeddialgspluginLastElement
+	};

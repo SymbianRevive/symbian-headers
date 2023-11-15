@@ -1,0 +1,15 @@
+#define R_GS_MENUBAR_CHANGE_EXIT                  0x29ee4002
+#define R_GS_MENUBAR_OPEN_EXIT                    0x29ee4003
+#define R_GS_MENU_ITEM_OPEN                       0x29ee4004
+#define R_GS_MENU_ITEM_EXIT                       0x29ee4005
+#define R_GS_MENU_ITEM_CHANGE                     0x29ee4006
+#define R_GS_MENU_ITEM_HELP                       0x29ee4007
+#define R_SETTING_LISTBOX                         0x29ee4008
+#define R_GS_CBA_EXIT                             0x29ee4009
+#define R_GS_PDATAHSDPA_PLUGIN_CAPTION            0x29ee400a
+#define R_GS_PDATAHSDPA_VIEW                      0x29ee400b
+#define R_GS_PDATAHSDPA_SETTING_PAGE              0x29ee400c
+#define R_GS_PDATAHSDPA_SETTING_PAGE_LBX          0x29ee400d
+#define R_GS_HSDPA_ENABLE_TEXT                    0x29ee400e
+#define R_GS_HSDPA_DISABLE_TEXT                   0x29ee400f
+#define R_CONFIRM_NW_RESET_HSDPA                  0x29ee4010

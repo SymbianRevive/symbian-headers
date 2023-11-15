@@ -1,0 +1,36 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifEposlmglcategories
+	{
+	EMbmEposlmglcategoriesQgn_prop_lm_hotel = 16384,
+	EMbmEposlmglcategoriesQgn_prop_lm_hotel_mask = 16385,
+	EMbmEposlmglcategoriesQgn_prop_lm_business = 16386,
+	EMbmEposlmglcategoriesQgn_prop_lm_business_mask = 16387,
+	EMbmEposlmglcategoriesQgn_prop_lm_communication = 16388,
+	EMbmEposlmglcategoriesQgn_prop_lm_communication_mask = 16389,
+	EMbmEposlmglcategoriesQgn_prop_lm_education = 16390,
+	EMbmEposlmglcategoriesQgn_prop_lm_education_mask = 16391,
+	EMbmEposlmglcategoriesQgn_prop_lm_fun = 16392,
+	EMbmEposlmglcategoriesQgn_prop_lm_fun_mask = 16393,
+	EMbmEposlmglcategoriesQgn_prop_lm_restaurant = 16394,
+	EMbmEposlmglcategoriesQgn_prop_lm_restaurant_mask = 16395,
+	EMbmEposlmglcategoriesQgn_prop_lm_area = 16396,
+	EMbmEposlmglcategoriesQgn_prop_lm_area_mask = 16397,
+	EMbmEposlmglcategoriesQgn_prop_lm_outdoor = 16398,
+	EMbmEposlmglcategoriesQgn_prop_lm_outdoor_mask = 16399,
+	EMbmEposlmglcategoriesQgn_prop_lm_people = 16400,
+	EMbmEposlmglcategoriesQgn_prop_lm_people_mask = 16401,
+	EMbmEposlmglcategoriesQgn_prop_lm_public = 16402,
+	EMbmEposlmglcategoriesQgn_prop_lm_public_mask = 16403,
+	EMbmEposlmglcategoriesQgn_prop_lm_church = 16404,
+	EMbmEposlmglcategoriesQgn_prop_lm_church_mask = 16405,
+	EMbmEposlmglcategoriesQgn_prop_lm_shopping = 16406,
+	EMbmEposlmglcategoriesQgn_prop_lm_shopping_mask = 16407,
+	EMbmEposlmglcategoriesQgn_prop_lm_sightseeing = 16408,
+	EMbmEposlmglcategoriesQgn_prop_lm_sightseeing_mask = 16409,
+	EMbmEposlmglcategoriesQgn_prop_lm_sport = 16410,
+	EMbmEposlmglcategoriesQgn_prop_lm_sport_mask = 16411,
+	EMbmEposlmglcategoriesQgn_prop_lm_transport = 16412,
+	EMbmEposlmglcategoriesQgn_prop_lm_transport_mask = 16413,
+	EMbmEposlmglcategoriesLastElement
+	};

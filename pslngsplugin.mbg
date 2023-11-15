@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifPslngsplugin
+	{
+	EMbmPslngspluginQgn_prop_cp_perso_theme = 16384,
+	EMbmPslngspluginQgn_prop_cp_perso_theme_mask = 16385,
+	EMbmPslngspluginLastElement
+	};

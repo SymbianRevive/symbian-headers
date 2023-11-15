@@ -1,0 +1,30 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifVoicerecorder
+	{
+	EMbmVoicerecorderQgn_indi_vorec_button_forw = 16384,
+	EMbmVoicerecorderQgn_indi_vorec_button_forw_mask = 16385,
+	EMbmVoicerecorderQgn_indi_vorec_button_forw_inactive = 16386,
+	EMbmVoicerecorderQgn_indi_vorec_button_forw_inactive_mask = 16387,
+	EMbmVoicerecorderQgn_indi_vorec_button_pause = 16388,
+	EMbmVoicerecorderQgn_indi_vorec_button_pause_mask = 16389,
+	EMbmVoicerecorderQgn_indi_vorec_button_pause_inactive = 16390,
+	EMbmVoicerecorderQgn_indi_vorec_button_pause_inactive_mask = 16391,
+	EMbmVoicerecorderQgn_indi_vorec_button_play = 16392,
+	EMbmVoicerecorderQgn_indi_vorec_button_play_mask = 16393,
+	EMbmVoicerecorderQgn_indi_vorec_button_play_inactive = 16394,
+	EMbmVoicerecorderQgn_indi_vorec_button_play_inactive_mask = 16395,
+	EMbmVoicerecorderQgn_indi_vorec_button_rec = 16396,
+	EMbmVoicerecorderQgn_indi_vorec_button_rec_mask = 16397,
+	EMbmVoicerecorderQgn_indi_vorec_button_rec_inactive = 16398,
+	EMbmVoicerecorderQgn_indi_vorec_button_rec_inactive_mask = 16399,
+	EMbmVoicerecorderQgn_indi_vorec_button_rew = 16400,
+	EMbmVoicerecorderQgn_indi_vorec_button_rew_mask = 16401,
+	EMbmVoicerecorderQgn_indi_vorec_button_rew_inactive = 16402,
+	EMbmVoicerecorderQgn_indi_vorec_button_rew_inactive_mask = 16403,
+	EMbmVoicerecorderQgn_indi_vorec_button_stop = 16404,
+	EMbmVoicerecorderQgn_indi_vorec_button_stop_mask = 16405,
+	EMbmVoicerecorderQgn_indi_vorec_button_stop_inactive = 16406,
+	EMbmVoicerecorderQgn_indi_vorec_button_stop_inactive_mask = 16407,
+	EMbmVoicerecorderLastElement
+	};

@@ -1,0 +1,2 @@
+#define R_APNG_DEFAULT_AP_NAME                    0x7bf4003
+#define R_APNG_DEFAULT_VPN_AP_NAME                0x7bf4004

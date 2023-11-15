@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifNotespluginicons
+	{
+	EMbmNotespluginiconsQgn_prop_nrtyp_note = 16384,
+	EMbmNotespluginiconsQgn_prop_nrtyp_note_mask = 16385,
+	EMbmNotespluginiconsLastElement
+	};

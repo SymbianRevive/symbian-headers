@@ -1,0 +1,36 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifPostcard
+	{
+	EMbmPostcardQgn_graf_mms_postcard_back = 16384,
+	EMbmPostcardQgn_graf_mms_postcard_back_mask = 16385,
+	EMbmPostcardQgn_graf_mms_postcard_front = 16386,
+	EMbmPostcardQgn_graf_mms_postcard_front_mask = 16387,
+	EMbmPostcardQgn_graf_mms_postcard_insert_image_bg = 16388,
+	EMbmPostcardQgn_graf_mms_postcard_insert_image_bg_mask = 16389,
+	EMbmPostcardQgn_indi_mms_postcard_down = 16390,
+	EMbmPostcardQgn_indi_mms_postcard_down_mask = 16391,
+	EMbmPostcardQgn_indi_mms_postcard_image = 16392,
+	EMbmPostcardQgn_indi_mms_postcard_image_mask = 16393,
+	EMbmPostcardQgn_indi_mms_postcard_stamp = 16394,
+	EMbmPostcardQgn_indi_mms_postcard_stamp_mask = 16395,
+	EMbmPostcardQgn_indi_mms_postcard_text = 16396,
+	EMbmPostcardQgn_indi_mms_postcard_text_mask = 16397,
+	EMbmPostcardQgn_indi_mms_postcard_up = 16398,
+	EMbmPostcardQgn_indi_mms_postcard_up_mask = 16399,
+	EMbmPostcardQgn_prop_mce_postcard = 16400,
+	EMbmPostcardQgn_prop_mce_postcard_mask = 16401,
+	EMbmPostcardQgn_prop_mce_postcard_title = 16402,
+	EMbmPostcardQgn_prop_mce_postcard_title_mask = 16403,
+	EMbmPostcardQgn_prop_mms_postcard_address_active = 16404,
+	EMbmPostcardQgn_prop_mms_postcard_address_active_mask = 16405,
+	EMbmPostcardQgn_prop_mms_postcard_address_inactive = 16406,
+	EMbmPostcardQgn_prop_mms_postcard_address_inactive_mask = 16407,
+	EMbmPostcardQgn_prop_mms_postcard_greeting_active = 16408,
+	EMbmPostcardQgn_prop_mms_postcard_greeting_active_mask = 16409,
+	EMbmPostcardQgn_prop_mms_postcard_greeting_inactive = 16410,
+	EMbmPostcardQgn_prop_mms_postcard_greeting_inactive_mask = 16411,
+	EMbmPostcardQgn_graf_mms_insert_image = 16412,
+	EMbmPostcardQgn_graf_mms_insert_image_mask = 16413,
+	EMbmPostcardLastElement
+	};

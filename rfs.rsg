@@ -1,0 +1,5 @@
+#define R_ACTIVE_CALLS                            0x33f7003
+#define R_DEVICE_RESTART                          0x33f7004
+#define R_CONFIRM_RFS                             0x33f7005
+#define R_CONFIRM_DEEP_RFS                        0x33f7006
+#define R_CLOSING_CONNECTIONS                     0x33f7007

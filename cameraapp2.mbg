@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifCameraapp2
+	{
+	EMbmCameraapp2Qgn_indi_lcam_cont_cam_xenon_charging = 16384,
+	EMbmCameraapp2Qgn_indi_lcam_cont_cam_xenon_charging_mask = 16385,
+	EMbmCameraapp2LastElement
+	};

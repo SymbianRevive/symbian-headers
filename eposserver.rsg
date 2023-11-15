@@ -1,0 +1,3 @@
+#define R_POS_SERVER_SHUTDOWN_DELAY               2
+#define R_LAST_KNOWN_POSITION_FILENAME            3
+#define R_POS_SERVER_DUMP_INTERVAL                4

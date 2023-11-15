@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifPaintcursor
+	{
+	EMbmPaintcursorQgn_prop_bt_mouse = 16384,
+	EMbmPaintcursorQgn_prop_bt_mouse_mask = 16385,
+	EMbmPaintcursorLastElement
+	};

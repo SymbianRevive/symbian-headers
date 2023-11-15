@@ -1,0 +1,7 @@
+#define R_NFC_SOFTKEYS_OPEN_CANCEL                0x445d9001
+#define R_QTN_NFC_INBOX_MESS_SENDER               0x445d9002
+#define R_QTN_NFC_INBOX_MESS_INFO_PB              0x445d9003
+#define R_QTN_NFC_INBOX_MESS_INFO_CAL             0x445d9004
+#define R_QTN_NFC_INBOX_MESS_INFO_NOTE            0x445d9005
+#define R_QTN_NFC_INBOX_MESS_INFO_SMS             0x445d9006
+#define R_QTN_NFC_INBOX_MESS_INFO_URL             0x445d9007

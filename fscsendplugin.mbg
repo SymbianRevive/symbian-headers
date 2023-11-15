@@ -1,0 +1,14 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifFscsendplugin
+	{
+	EMbmFscsendpluginQgn_prop_cmail_action_msg = 16384,
+	EMbmFscsendpluginQgn_prop_cmail_action_msg_mask = 16385,
+	EMbmFscsendpluginQgn_prop_cmail_action_audio = 16386,
+	EMbmFscsendpluginQgn_prop_cmail_action_audio_mask = 16387,
+	EMbmFscsendpluginQgn_prop_cmail_action_postcard = 16388,
+	EMbmFscsendpluginQgn_prop_cmail_action_postcard_mask = 16389,
+	EMbmFscsendpluginQgn_prop_cmail_action_email = 16390,
+	EMbmFscsendpluginQgn_prop_cmail_action_email_mask = 16391,
+	EMbmFscsendpluginLastElement
+	};

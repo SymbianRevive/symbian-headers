@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifGsinstallationsplugin
+	{
+	EMbmGsinstallationspluginQgn_prop_cp_inst = 16384,
+	EMbmGsinstallationspluginQgn_prop_cp_inst_mask = 16385,
+	EMbmGsinstallationspluginLastElement
+	};

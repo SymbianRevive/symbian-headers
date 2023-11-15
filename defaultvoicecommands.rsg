@@ -1,0 +1,2 @@
+#define VOICECOMMANDS                             1
+#define VCOMMANDINTEGERS                          2

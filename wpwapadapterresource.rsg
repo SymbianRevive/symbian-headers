@@ -1,0 +1,5 @@
+#define R_QTN_OP_HEAD_BROWSER                     1
+#define R_QTN_SM_MMS_ACCESSPOINTS                 2
+#define R_QTN_SM_WAPAP_NAME                       3
+#define R_QTN_SM_BOOKMARK_NAME                    4
+#define R_QTN_SM_BOOKMARKS                        5

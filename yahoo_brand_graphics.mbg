@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifYahoo_brand_graphics
+	{
+	EMbmYahoo_brand_graphicsYahoo = 16384,
+	EMbmYahoo_brand_graphicsYahoo_mask = 16385,
+	EMbmYahoo_brand_graphicsLastElement
+	};

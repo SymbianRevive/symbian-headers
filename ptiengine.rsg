@@ -1,0 +1,4 @@
+#define R_PTI_LANGUAGE_TRANSLATIONS               0x5081c003
+#define R_PTI_PRC_INDICES                         0x5081c004
+#define R_PTI_TW_INDICES                          0x5081c005
+#define R_PTI_HK_INDICES                          0x5081c006

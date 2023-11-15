@@ -1,0 +1,2 @@
+#define R_QTN_SM_HEAD_CONNECTION                  1
+#define R_QTN_XDM_PROVISIONING_NAME               2

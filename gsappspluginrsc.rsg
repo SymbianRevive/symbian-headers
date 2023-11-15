@@ -1,0 +1,11 @@
+#define R_GS_MENUBAR_CHANGE_EXIT                  0x2507b002
+#define R_GS_MENUBAR_OPEN_EXIT                    0x2507b003
+#define R_GS_MENU_ITEM_OPEN                       0x2507b004
+#define R_GS_MENU_ITEM_EXIT                       0x2507b005
+#define R_GS_MENU_ITEM_CHANGE                     0x2507b006
+#define R_GS_MENU_ITEM_HELP                       0x2507b007
+#define R_SETTING_LISTBOX                         0x2507b008
+#define R_GS_CBA_EXIT                             0x2507b009
+#define R_GS_APPLICATIONS_VIEW                    0x2507b00a
+#define R_GS_APPS_VIEW_TITLE                      0x2507b00b
+#define R_GS_APPS_VIEW_CAPTION                    0x2507b00c

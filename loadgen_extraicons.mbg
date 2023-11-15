@@ -1,0 +1,10 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifLoadgen_extraicons
+	{
+	EMbmLoadgen_extraiconsQgn_prob_status_red = 16384,
+	EMbmLoadgen_extraiconsQgn_prob_status_red_mask = 16385,
+	EMbmLoadgen_extraiconsQgn_prob_status_green = 16386,
+	EMbmLoadgen_extraiconsQgn_prob_status_green_mask = 16387,
+	EMbmLoadgen_extraiconsLastElement
+	};

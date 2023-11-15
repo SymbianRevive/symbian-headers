@@ -1,0 +1,4 @@
+#define R_PIM_CNT_LISTS                           0x4e933002
+#define R_PIM_CNT_FIELDS                          0x4e933003
+#define R_PIM_CNT_ATTRIBUTES                      0x4e933004
+#define R_PIM_CNT_LISTNAME                        0x4e933005

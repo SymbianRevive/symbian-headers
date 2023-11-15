@@ -1,0 +1,17 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifCshelp
+	{
+	EMbmCshelpQgn_prop_folder_tab2 = 16384,
+	EMbmCshelpQgn_prop_folder_tab2_mask = 16385,
+	EMbmCshelpQgn_prop_list_keyword_tab2 = 16386,
+	EMbmCshelpQgn_prop_list_keyword_tab2_mask = 16387,
+	EMbmCshelpQgn_prop_help_open_tab1 = 16388,
+	EMbmCshelpQgn_prop_help_open_tab1_mask = 16389,
+	EMbmCshelpQgn_prop_folder_help_tab1 = 16390,
+	EMbmCshelpQgn_prop_folder_help_tab1_mask = 16391,
+	EMbmCshelpQgn_prop_keyword_find_tab1 = 16392,
+	EMbmCshelpQgn_prop_keyword_find_tab1_mask = 16393,
+	EMbmCshelpEmpty13x13 = 16394,
+	EMbmCshelpLastElement
+	};

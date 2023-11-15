@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifContactssearchplugin
+	{
+	EMbmContactssearchpluginQgn_prop_search_contacts = 16384,
+	EMbmContactssearchpluginQgn_prop_search_contacts_mask = 16385,
+	EMbmContactssearchpluginLastElement
+	};

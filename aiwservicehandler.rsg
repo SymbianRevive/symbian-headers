@@ -1,0 +1,16 @@
+#define R_AIW_EMPTY_MENU_0                        0x6903002
+#define R_AIW_EMPTY_MENU_1                        0x6903003
+#define R_AIW_EMPTY_MENU_2                        0x6903004
+#define R_AIW_EMPTY_MENU_3                        0x6903005
+#define R_AIW_EMPTY_MENU_4                        0x6903006
+#define R_AIW_EMPTY_MENU_5                        0x6903007
+#define R_AIW_EMPTY_MENU_6                        0x6903008
+#define R_AIW_EMPTY_MENU_7                        0x6903009
+#define R_AIW_EMPTY_MENU_8                        0x690300a
+#define R_AIW_EMPTY_MENU_9                        0x690300b
+#define R_AIW_EMPTY_MENU_10                       0x690300c
+#define R_AIW_EMPTY_MENU_11                       0x690300d
+#define R_AIW_EMPTY_MENU_12                       0x690300e
+#define R_AIW_EMPTY_MENU_13                       0x690300f
+#define R_AIW_EMPTY_MENU_14                       0x6903010
+#define R_AIW_EMPTY_MENU_15                       0x6903011

@@ -1,0 +1,2 @@
+#define R_QTN_NETW_CONSET_NETWORK_CONNECTIONS     0x4d2cc002
+#define R_QTN_ERR_OS_GENERAL                      0x4d2cc003

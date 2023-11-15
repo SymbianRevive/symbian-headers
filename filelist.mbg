@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifFilelist
+	{
+	EMbmFilelistQgn_indi_fmgr_ms_add = 16384,
+	EMbmFilelistQgn_indi_fmgr_ms_add_mask = 16385,
+	EMbmFilelistLastElement
+	};

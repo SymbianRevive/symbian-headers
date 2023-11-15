@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifFscpocplugin
+	{
+	EMbmFscpocpluginQgn_prop_cmail_action_ptt = 16384,
+	EMbmFscpocpluginQgn_prop_cmail_action_ptt_mask = 16385,
+	EMbmFscpocpluginLastElement
+	};

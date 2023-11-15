@@ -1,0 +1,13 @@
+#define R_PUSHVIEWER_LOCALISABLE_APP_INFO         0x50539004
+#define R_PUSHVIEWER_STATUS_PANE                  0x50539005
+#define R_PUSHVIEWER_TITLE_PANE                   0x50539006
+#define R_PUSHVIEWER_NAVI_IMAGE                   0x50539007
+#define R_PUSHVIEWER_SOFTKEYS                     0x50539008
+#define R_PUSHVIEWER_SOFTKEYS_OPEN                0x50539009
+#define R_PUSHVIEWER_MENU                         0x5053900a
+#define R_PUSHVIEWER_OPTIONS_MENU_PANE            0x5053900b
+#define R_PUSHVIEWER_MAINPANE_TEXT                0x5053900c
+#define R_PUSHVIEWER_ENTRY_DELETE_CONFIRM         0x5053900d
+#define R_PUSHVIEWER_EXPIRED_NOTE                 0x5053900e
+#define R_PUSHVIEWER_INFO_DELETED                 0x5053900f
+#define R_PUSHVIEWER_INFO_REPLACED                0x50539010

@@ -1,0 +1,6 @@
+#define R_PDC_ERROR_RESERVE_ERROR                 2
+#define R_CONTACT_DELETION_ERROR                  3
+#define R_FILELOCATION_ERROR                      4
+#define R_VCARD_ERROR                             5
+#define R_XML_ERROR                               6
+#define R_STORE_ERROR                             7

@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifGsvmbxplugin
+	{
+	EMbmGsvmbxpluginQgn_prop_cp_tele_vmail = 16384,
+	EMbmGsvmbxpluginQgn_prop_cp_tele_vmail_mask = 16385,
+	EMbmGsvmbxpluginLastElement
+	};

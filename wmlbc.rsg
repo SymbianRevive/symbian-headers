@@ -1,0 +1,8 @@
+#define R_QTN_SM_TITLE_ONE_BOOKMARK               0x70eb0003
+#define R_QTN_SM_NOTE_BOOKMARK_COPIED             0x70eb0004
+#define R_QTN_SM_ADD_BOOKMARKS                    0x70eb0005
+#define R_QTN_SM_BM_TITLE                         0x70eb0006
+#define R_QTN_SM_BM_ADDRESS                       0x70eb0007
+#define R_QTN_SM_BOOKMARK_NAME                    0x70eb0008
+#define R_QTN_FLDR_RENAME_QUERY                   0x70eb0009
+#define R_WMLBC_QUERY_BM_NAME                     0x70eb000a

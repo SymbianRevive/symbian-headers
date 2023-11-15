@@ -1,0 +1,18 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifVcommand
+	{
+	EMbmVcommandQgn_prop_folder_vc_general = 16384,
+	EMbmVcommandQgn_prop_folder_vc_general_mask = 16385,
+	EMbmVcommandQgn_prop_folder_vc_tools = 16386,
+	EMbmVcommandQgn_prop_folder_vc_tools_mask = 16387,
+	EMbmVcommandQgn_prop_folder_vc_organiser = 16388,
+	EMbmVcommandQgn_prop_folder_vc_organiser_mask = 16389,
+	EMbmVcommandQgn_prop_folder_vc_message = 16390,
+	EMbmVcommandQgn_prop_folder_vc_message_mask = 16391,
+	EMbmVcommandQgn_prop_folder_vc_media = 16392,
+	EMbmVcommandQgn_prop_folder_vc_media_mask = 16393,
+	EMbmVcommandQgn_prop_folder_vc_profiles = 16394,
+	EMbmVcommandQgn_prop_folder_vc_profiles_mask = 16395,
+	EMbmVcommandLastElement
+	};

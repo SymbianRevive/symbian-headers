@@ -1,0 +1,14 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifNfcapplication
+	{
+	EMbmNfcapplicationQgn_prop_nfc_read_tag = 16384,
+	EMbmNfcapplicationQgn_prop_nfc_read_tag_mask = 16385,
+	EMbmNfcapplicationQgn_prop_nfc_create_tag = 16386,
+	EMbmNfcapplicationQgn_prop_nfc_create_tag_mask = 16387,
+	EMbmNfcapplicationQgn_prop_set_apps_nfc_on = 16388,
+	EMbmNfcapplicationQgn_prop_set_apps_nfc_on_mask = 16389,
+	EMbmNfcapplicationQgn_prop_set_apps_nfc_off = 16390,
+	EMbmNfcapplicationQgn_prop_set_apps_nfc_off_mask = 16391,
+	EMbmNfcapplicationLastElement
+	};

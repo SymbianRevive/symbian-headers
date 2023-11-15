@@ -1,0 +1,16 @@
+#define R_LIW_EMPTY_MENU_0                        0x3b6c4002
+#define R_LIW_EMPTY_MENU_1                        0x3b6c4003
+#define R_LIW_EMPTY_MENU_2                        0x3b6c4004
+#define R_LIW_EMPTY_MENU_3                        0x3b6c4005
+#define R_LIW_EMPTY_MENU_4                        0x3b6c4006
+#define R_LIW_EMPTY_MENU_5                        0x3b6c4007
+#define R_LIW_EMPTY_MENU_6                        0x3b6c4008
+#define R_LIW_EMPTY_MENU_7                        0x3b6c4009
+#define R_LIW_EMPTY_MENU_8                        0x3b6c400a
+#define R_LIW_EMPTY_MENU_9                        0x3b6c400b
+#define R_LIW_EMPTY_MENU_10                       0x3b6c400c
+#define R_LIW_EMPTY_MENU_11                       0x3b6c400d
+#define R_LIW_EMPTY_MENU_12                       0x3b6c400e
+#define R_LIW_EMPTY_MENU_13                       0x3b6c400f
+#define R_LIW_EMPTY_MENU_14                       0x3b6c4010
+#define R_LIW_EMPTY_MENU_15                       0x3b6c4011

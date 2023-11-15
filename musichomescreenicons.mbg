@@ -1,0 +1,24 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMusichomescreenicons
+	{
+	EMbmMusichomescreeniconsQgn_prop_image_tb_prev = 16384,
+	EMbmMusichomescreeniconsQgn_prop_image_tb_prev_mask = 16385,
+	EMbmMusichomescreeniconsQgn_prop_image_tb_next = 16386,
+	EMbmMusichomescreeniconsQgn_prop_image_tb_next_mask = 16387,
+	EMbmMusichomescreeniconsQgn_prop_image_tb_pause = 16388,
+	EMbmMusichomescreeniconsQgn_prop_image_tb_pause_mask = 16389,
+	EMbmMusichomescreeniconsQgn_prop_image_tb_play2 = 16390,
+	EMbmMusichomescreeniconsQgn_prop_image_tb_play2_mask = 16391,
+	EMbmMusichomescreeniconsQgn_prop_image_tb_prev_dimmed = 16392,
+	EMbmMusichomescreeniconsQgn_prop_image_tb_prev_dimmed_mask = 16393,
+	EMbmMusichomescreeniconsQgn_prop_image_tb_next_dimmed = 16394,
+	EMbmMusichomescreeniconsQgn_prop_image_tb_next_dimmed_mask = 16395,
+	EMbmMusichomescreeniconsQgn_prop_image_tb_pause_dimmed = 16396,
+	EMbmMusichomescreeniconsQgn_prop_image_tb_pause_dimmed_mask = 16397,
+	EMbmMusichomescreeniconsQgn_prop_image_tb_play2_dimmed = 16398,
+	EMbmMusichomescreeniconsQgn_prop_image_tb_play2_dimmed_mask = 16399,
+	EMbmMusichomescreeniconsQgn_indi_mup_default_album = 16400,
+	EMbmMusichomescreeniconsQgn_indi_mup_default_album_mask = 16401,
+	EMbmMusichomescreeniconsLastElement
+	};

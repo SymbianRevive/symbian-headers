@@ -1,0 +1,34 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifBtui
+	{
+	EMbmBtuiQgn_prop_bt_devices_tab3 = 16384,
+	EMbmBtuiQgn_prop_bt_devices_tab3_mask = 16385,
+	EMbmBtuiQgn_prop_bt_set_tab3 = 16386,
+	EMbmBtuiQgn_prop_bt_set_tab3_mask = 16387,
+	EMbmBtuiQgn_prop_set_apps_bt = 16388,
+	EMbmBtuiQgn_prop_set_apps_bt_mask = 16389,
+	EMbmBtuiQgn_prop_bt_blocked_tab3 = 16390,
+	EMbmBtuiQgn_prop_bt_blocked_tab3_mask = 16391,
+	EMbmBtuiQgn_prop_set_apps_bt_off = 16392,
+	EMbmBtuiQgn_prop_set_apps_bt_off_mask = 16393,
+	EMbmBtuiQgn_prop_set_apps_bt_on_shown = 16394,
+	EMbmBtuiQgn_prop_set_apps_bt_on_shown_mask = 16395,
+	EMbmBtuiQgn_prop_set_apps_bt_on_hidden = 16396,
+	EMbmBtuiQgn_prop_set_apps_bt_on_hidden_mask = 16397,
+	EMbmBtuiQgn_prop_set_apps_bt_conn_shown = 16398,
+	EMbmBtuiQgn_prop_set_apps_bt_conn_shown_mask = 16399,
+	EMbmBtuiQgn_prop_set_apps_bt_conn_hidden = 16400,
+	EMbmBtuiQgn_prop_set_apps_bt_conn_hidden_mask = 16401,
+	EMbmBtuiQgn_prop_bt_audio_connect = 16402,
+	EMbmBtuiQgn_prop_bt_audio_connect_mask = 16403,
+	EMbmBtuiQgn_prop_bt_computer_connect = 16404,
+	EMbmBtuiQgn_prop_bt_computer_connect_mask = 16405,
+	EMbmBtuiQgn_prop_bt_car_kit_connect = 16406,
+	EMbmBtuiQgn_prop_bt_car_kit_connect_mask = 16407,
+	EMbmBtuiQgn_prop_bt_keyboard_connect = 16408,
+	EMbmBtuiQgn_prop_bt_keyboard_connect_mask = 16409,
+	EMbmBtuiQgn_prop_bt_mouse_connect = 16410,
+	EMbmBtuiQgn_prop_bt_mouse_connect_mask = 16411,
+	EMbmBtuiLastElement
+	};

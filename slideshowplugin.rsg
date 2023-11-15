@@ -1,0 +1,6 @@
+#define R_SLIDESHOW_SCREENSAVER_NAME              0x5ed08003
+#define R_SANIM_NOT_SUPPORTED                     0x5ed08004
+#define R_SANIM_ERROR_WRONG_FORMAT                0x5ed08005
+#define R_SANIM_FILE_NOT_SELECTED                 0x5ed08006
+#define R_SANIM_ERR_FAILURE                       0x5ed08007
+#define R_DRM_PREV_RIGHTS_SET                     0x5ed08008

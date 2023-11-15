@@ -1,0 +1,9 @@
+#define R_DEFAULT_DOCUMENT_NAME                   0x44517002
+#define R_MENUBAR                                 0x44517004
+#define R_ABOUT_QUERY_DIALOG                      0x44517005
+#define R_CAPTION_STRING                          0x44517006
+#define R_ABOUT_DIALOG_TITLE                      0x44517007
+#define R_ABOUT_DIALOG_TEXT                       0x44517008
+#define R_COMMAND1_TEXT                           0x44517009
+#define R_LOCALISABLE_APP_INFO                    0x4451700a
+#define R_AIWASSIGNMENT_INTEREST                  0x4451700b

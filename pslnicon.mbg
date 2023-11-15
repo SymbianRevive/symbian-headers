@@ -1,0 +1,22 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifPslnicon
+	{
+	EMbmPslniconQgn_prop_psln_active = 16384,
+	EMbmPslniconQgn_prop_psln_active_mask = 16385,
+	EMbmPslniconQgn_indi_mmc_add = 16386,
+	EMbmPslniconQgn_indi_mmc_add_mask = 16387,
+	EMbmPslniconQgn_indi_drm_rights_add = 16388,
+	EMbmPslniconQgn_indi_drm_rights_add_mask = 16389,
+	EMbmPslniconQgn_indi_drm_rights_exp_add = 16390,
+	EMbmPslniconQgn_indi_drm_rights_exp_add_mask = 16391,
+	EMbmPslniconQgn_prop_psln_general_sub = 16392,
+	EMbmPslniconQgn_prop_psln_general_sub_mask = 16393,
+	EMbmPslniconQgn_prop_psln_ssaver_sub = 16394,
+	EMbmPslniconQgn_prop_psln_ssaver_sub_mask = 16395,
+	EMbmPslniconQgn_prop_psln_wpaper_sub = 16396,
+	EMbmPslniconQgn_prop_psln_wpaper_sub_mask = 16397,
+	EMbmPslniconQgn_indi_fmgr_ms_add = 16398,
+	EMbmPslniconQgn_indi_fmgr_ms_add_mask = 16399,
+	EMbmPslniconLastElement
+	};

@@ -1,0 +1,3 @@
+#define R_SET_SEC_CODE_INFO_CHECK                 0x5be45003
+#define R_SET_SEC_CODE_INFO_PREVIOUS              0x5be45004
+#define R_SET_SEC_CODE_PERSONAL                   0x5be45005

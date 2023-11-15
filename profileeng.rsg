@@ -1,0 +1,6 @@
+#define R_DEFAULT_PROFILES                        0x4dfcd002
+#define R_PROFILE_SETTINGS                        0x4dfcd003
+#define R_NEW_PROFILE                             0x4dfcd004
+#define R_NEW_PROFILE_SHORT                       0x4dfcd005
+#define R_NEW_PROFILE_NAVI                        0x4dfcd006
+#define R_NEW_PROFILE_TITLE                       0x4dfcd007

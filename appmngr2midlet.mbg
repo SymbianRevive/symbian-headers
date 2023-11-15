@@ -1,0 +1,10 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifAppmngr2midlet
+	{
+	EMbmAppmngr2midletQgn_menu_am_midlet = 16384,
+	EMbmAppmngr2midletQgn_menu_am_midlet_mask = 16385,
+	EMbmAppmngr2midletQgn_prop_drm_exp_large = 16386,
+	EMbmAppmngr2midletQgn_prop_drm_exp_large_mask = 16387,
+	EMbmAppmngr2midletLastElement
+	};

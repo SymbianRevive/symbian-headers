@@ -1,0 +1,2 @@
+#define R_FS_FUNCTION_ARRAY                       0x205a8002
+#define R_FS_NOT_SUPPORTED                        0x205a8003

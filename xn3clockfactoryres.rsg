@@ -1,0 +1,1 @@
+#define R_ACTIVEIDLE_TIME_FORMAT                  0x66db003

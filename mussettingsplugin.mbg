@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMussettingsplugin
+	{
+	EMbmMussettingspluginQgn_prop_set_video_sharing = 16384,
+	EMbmMussettingspluginQgn_prop_set_video_sharing_mask = 16385,
+	EMbmMussettingspluginLastElement
+	};

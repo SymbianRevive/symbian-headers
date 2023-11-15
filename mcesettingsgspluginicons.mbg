@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMcesettingsgspluginicons
+	{
+	EMbmMcesettingsgspluginiconsQgn_prop_set_apps_mce = 16384,
+	EMbmMcesettingsgspluginiconsQgn_prop_set_apps_mce_mask = 16385,
+	EMbmMcesettingsgspluginiconsLastElement
+	};

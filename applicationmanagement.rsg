@@ -1,0 +1,6 @@
+#define R_PROGRESS_DOWNLOADING                    0x5d0cd004
+#define R_DOWNLOAD_CANCELLED                      0x5d0cd005
+#define R_APPLICATIONMANAGEMENT_LOCALISABLE_APP_INFO 0x5d0cd006
+#define R_PROGRESS_NOTE                           0x5d0cd007
+#define R_DOWNLOADFAILED_CONNECTION               0x5d0cd008
+#define R_DOWNLOADFAILED_GENERAL                  0x5d0cd009

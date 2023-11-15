@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifBatterypopupcontrol
+	{
+	EMbmBatterypopupcontrolQgn_prop_battery_ps_deactivate = 16384,
+	EMbmBatterypopupcontrolQgn_prop_battery_ps_deactivate_mask = 16385,
+	EMbmBatterypopupcontrolLastElement
+	};

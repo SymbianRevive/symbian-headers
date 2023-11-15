@@ -1,0 +1,10 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifAbout
+	{
+	EMbmAboutQgn_menu_about_cxt = 16384,
+	EMbmAboutQgn_menu_about_cxt_mask = 16385,
+	EMbmAboutQgn_graf_java_logo = 16386,
+	EMbmAboutQgn_graf_java_logo_mask = 16387,
+	EMbmAboutLastElement
+	};

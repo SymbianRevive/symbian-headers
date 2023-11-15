@@ -1,0 +1,14 @@
+#define R_PBK2_COMMONUI_CONFIRMATION_QUERY        0x4ce96002
+#define R_QTN_PHOB_UNNAMED                        0x4ce96003
+#define R_QTN_PHOB_TITLE                          0x4ce96004
+#define R_QTN_PHOB_NOTE_STORE_FULL                0x4ce96005
+#define R_PBK2_NOTE_DATABASE_CORRUPTED            0x4ce96006
+#define R_PBK2_ICON_INFO_ARRAY                    0x4ce96007
+#define R_PBK2_EMPTY_ICON_INFO_ARRAY              0x4ce96008
+#define R_PBK2_QTN_DRM_NOT_ALLOWED                0x4ce96009
+#define R_QTN_PHOB_UNPROTECTED_TONE               0x4ce9600a
+#define R_QTN_PHOB_DRM_PREV_RIGHTS_SET            0x4ce9600b
+#define R_QTN_PHOB_PROTECTED_TONE                 0x4ce9600c
+#define R_QTN_FDN_READING_MEMORY_WAIT_NOTE        0x4ce9600d
+#define R_QTN_TC_POPUP_HEADING                    0x4ce9600e
+#define R_QTN_PHOP_SELI_DEFAULT_RTONE             0x4ce9600f

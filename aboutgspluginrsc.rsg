@@ -1,0 +1,7 @@
+#define R_ABOUT_GS_VIEW_CAPTION                   0x54e0002
+#define R_ABOUT_GS_VIEW_TITLE                     0x54e0003
+#define R_ABOUT_GS_VIEW                           0x54e0004
+#define R_ABOUT_GS_MENUBAR_VIEW                   0x54e0005
+#define R_ABOUT_GS_MENU_ITEM_EXIT                 0x54e0006
+#define R_ABOUT_GS_VIEW_MENU                      0x54e0007
+#define R_ABOUT_GS_SOFTKEYS                       0x54e0008

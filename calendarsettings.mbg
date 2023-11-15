@@ -1,0 +1,14 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifCalendarsettings
+	{
+	EMbmCalendarsettingsQgn_prop_set_apps_cale = 16384,
+	EMbmCalendarsettingsQgn_prop_set_apps_cale_mask = 16385,
+	EMbmCalendarsettingsQgn_prop_set_cams_image_sub = 16386,
+	EMbmCalendarsettingsQgn_prop_set_cams_image_sub_mask = 16387,
+	EMbmCalendarsettingsQgn_prop_set_cams_video_sub = 16388,
+	EMbmCalendarsettingsQgn_prop_set_cams_video_sub_mask = 16389,
+	EMbmCalendarsettingsQgn_prop_cams_set_image_tab2 = 16390,
+	EMbmCalendarsettingsQgn_prop_cams_set_video_tab2 = 16392,
+	EMbmCalendarsettingsLastElement
+	};

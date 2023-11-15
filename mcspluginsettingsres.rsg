@@ -1,0 +1,13 @@
+#define R_AI_MCS_SETTINGS_MENUBAR                 0x3f1d5004
+#define R_AI_MCS_SETTINGS_MENUPANE                0x3f1d5005
+#define R_AI_MCS_SETTINGS_VIEW                    0x3f1d5006
+#define R_AI_MCS_SETTING_LISTBOX                  0x3f1d5007
+#define R_AI_MCS_SETTINGS_APPLIST_PAGE            0x3f1d5008
+#define R_AI_MCS_CHANGE_TO_PAGE_LBX               0x3f1d5009
+#define R_AI_MCS_LISTQUERY_CHANGE_TO_PAGE         0x3f1d500a
+#define R_AI_MCS_SETTINGS_VIEW_CAPTION            0x3f1d500b
+#define R_AI_MCS_SETTINGS_VIEW_TITLE              0x3f1d500c
+#define R_AI_MCS_SETTINGS_TXT_FIXED_ITEM          0x3f1d500d
+#define R_AI_MCS_SETTINGS_TXT_ALL_FIXED           0x3f1d500e
+#define R_AI_MCS_SETTINGS_TXT_LINKN               0x3f1d500f
+#define R_SCUT_SOFTKEYS_OPTIONS_BACK_CHANGE       0x3f1d5010

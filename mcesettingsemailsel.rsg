@@ -1,0 +1,4 @@
+#define R_DEFAULT_DOCUMENT_NAME                   0x41e3c002
+#define R_MAIL_MAILBOXLIST_CHOOSE                 0x41e3c004
+#define R_MCE_POPUP_DEFAULT_EMAIL                 0x41e3c005
+#define R_SEND_EMAIL_LIST_QUERY                   0x41e3c006

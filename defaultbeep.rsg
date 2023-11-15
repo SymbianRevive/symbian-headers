@@ -1,0 +1,12 @@
+#define RINGTONE                                  1
+#define R_NET_BUSY                                2
+#define R_NET_REORDER                             3
+#define R_NET_CONGESTION                          4
+#define R_NET_SPECIAL_INFORMATION                 5
+#define R_NET_RADIO_NOT_AVAILABLE                 6
+#define R_NET_RING_GOING                          7
+#define R_NET_CALL_WAITING                        8
+#define R_NET_CALL_WAITING_ALTERNATIVE_TONE       9
+#define R_DATA_CALL_TONE                          10
+#define R_NO_SOUND_SEQUENCE                       11
+#define R_BEEP_SEQUENCE                           12

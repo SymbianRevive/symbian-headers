@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifGoogle_brand_graphics
+	{
+	EMbmGoogle_brand_graphicsGmail44svgtest4 = 16384,
+	EMbmGoogle_brand_graphicsGmail44svgtest4_mask = 16385,
+	EMbmGoogle_brand_graphicsLastElement
+	};

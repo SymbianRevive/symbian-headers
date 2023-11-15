@@ -1,0 +1,6 @@
+#define R_TEXT_UNSUPP_ACCESSORY_CONNECTED         0x55cd002
+#define R_TEXT_DEFAULT_ENHANC                     0x55cd003
+#define R_TEXT_HEADPHONES_MIC                     0x55cd004
+#define R_SELECTION_DIALOG_LIST_QUERY             0x55cd005
+#define R_ACCFWUINOTIFIER_INFORMATION_NOTE        0x55cd006
+#define R_SELECTION_DIALOG_LITERALS               0x55cd007

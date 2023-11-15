@@ -1,0 +1,10 @@
+#define R_GS_MENUBAR_CHANGE_EXIT                  0x56d4002
+#define R_GS_MENU_ITEM_EXIT                       0x56d4003
+#define R_GS_MENU_ITEM_CHANGE                     0x56d4004
+#define R_GS_MENU_ITEM_HELP                       0x56d4005
+#define R_GS_SOFTKEYS_OPTIONS_BACK_CHANGE         0x56d4006
+#define R_AKNCOMPAGS_LIST_CAPTION                 0x56d4007
+#define R_AKNCOMPAGS_VIEW                         0x56d4008
+#define R_AKNCOMPAGS_VIEW_TITLE                   0x56d4009
+#define R_AKNCOMPAGS_LBX                          0x56d400a
+#define R_AKNCOMPAGS_STATE_SETTING_PAGE_LBX       0x56d400b

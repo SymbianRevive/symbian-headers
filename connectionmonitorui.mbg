@@ -1,0 +1,32 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifConnectionmonitorui
+	{
+	EMbmConnectionmonitoruiQgn_prop_wml_gprs = 16384,
+	EMbmConnectionmonitoruiQgn_prop_wml_gprs_mask = 16385,
+	EMbmConnectionmonitoruiQgn_prop_wml_csd = 16386,
+	EMbmConnectionmonitoruiQgn_prop_wml_csd_mask = 16387,
+	EMbmConnectionmonitoruiQgn_prop_wml_hscsd = 16388,
+	EMbmConnectionmonitoruiQgn_prop_wml_hscsd_mask = 16389,
+	EMbmConnectionmonitoruiQgn_prop_empty = 16390,
+	EMbmConnectionmonitoruiQgn_prop_empty_mask = 16391,
+	EMbmConnectionmonitoruiQgn_prop_cmon_gprs_suspended = 16392,
+	EMbmConnectionmonitoruiQgn_prop_cmon_gprs_suspended_mask = 16393,
+	EMbmConnectionmonitoruiQgn_prop_cmon_conn_active = 16394,
+	EMbmConnectionmonitoruiQgn_prop_cmon_conn_active_mask = 16395,
+	EMbmConnectionmonitoruiQgn_prop_cmon_wlan_avail = 16396,
+	EMbmConnectionmonitoruiQgn_prop_cmon_wlan_avail_mask = 16397,
+	EMbmConnectionmonitoruiQgn_prop_wlan_bearer = 16398,
+	EMbmConnectionmonitoruiQgn_prop_wlan_bearer_mask = 16399,
+	EMbmConnectionmonitoruiQgn_prop_cmon_wlan_conn = 16400,
+	EMbmConnectionmonitoruiQgn_prop_cmon_wlan_conn_mask = 16401,
+	EMbmConnectionmonitoruiQgn_indi_wlan_signal_low_add = 16402,
+	EMbmConnectionmonitoruiQgn_indi_wlan_signal_low_add_mask = 16403,
+	EMbmConnectionmonitoruiQgn_indi_wlan_signal_med_add = 16404,
+	EMbmConnectionmonitoruiQgn_indi_wlan_signal_med_add_mask = 16405,
+	EMbmConnectionmonitoruiQgn_indi_wlan_signal_good_add = 16406,
+	EMbmConnectionmonitoruiQgn_indi_wlan_signal_good_add_mask = 16407,
+	EMbmConnectionmonitoruiQgn_indi_wlan_secure_network_add = 16408,
+	EMbmConnectionmonitoruiQgn_indi_wlan_secure_network_add_mask = 16409,
+	EMbmConnectionmonitoruiLastElement
+	};

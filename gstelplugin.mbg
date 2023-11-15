@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifGstelplugin
+	{
+	EMbmGstelpluginQgn_prop_cp_tele = 16384,
+	EMbmGstelpluginQgn_prop_cp_tele_mask = 16385,
+	EMbmGstelpluginLastElement
+	};

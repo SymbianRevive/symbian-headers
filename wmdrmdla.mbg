@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifWmdrmdla
+	{
+	EMbmWmdrmdlaQgn_prop_drm_valid_large = 16384,
+	EMbmWmdrmdlaQgn_prop_drm_valid_large_mask = 16385,
+	EMbmWmdrmdlaLastElement
+	};

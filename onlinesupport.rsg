@@ -1,0 +1,6 @@
+#define R_CONFMANAGER_HOTKEYS                     0x112c0004
+#define R_CONFMANAGER_CONFIRMATION                0x112c0005
+#define R_CONFMANAGER_ERRORNOTE                   0x112c0006
+#define R_CONFMANAGER_WAITNOTE                    0x112c0007
+#define R_ONLINESUPPORT_LOCALISABLE_APP_INFO      0x112c0008
+#define R_OFFLINE_MODE                            0x112c0009

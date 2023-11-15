@@ -1,0 +1,3 @@
+#define R_SERVICE_VIEW_IMAP                       2
+#define R_SERVICE_VIEW_POP                        3
+#define R_SERVICE_VIEW_SMTP                       4

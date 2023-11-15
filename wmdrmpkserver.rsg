@@ -1,0 +1,8 @@
+#define R_DRM_NOTE_MEMORY_LOW                     0x6f5bc003
+#define R_DRM_HEADER_LICENSE_STORE_FULL           0x6f5bc004
+#define R_DRM_LICENSE_STORE_FULL                  0x6f5bc005
+#define R_DRM_CONF_NOT_OUT_OF_SPACE               0x6f5bc006
+#define R_DRM_CONF_LICENSE_DELETION               0x6f5bc007
+#define R_DRM_LICENSES_DELETED                    0x6f5bc008
+#define R_DRM_LICENSE_DELETION_PREPARE            0x6f5bc009
+#define R_DRM_LICENSE_DELETION_WAIT               0x6f5bc00a

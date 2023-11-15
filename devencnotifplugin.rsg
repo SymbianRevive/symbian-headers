@@ -1,0 +1,2 @@
+#define R_DEVENC_PASSWD_QUERY                     0x14353003
+#define R_DEVENC_INVALID_PASSWD_STRING            0x14353004

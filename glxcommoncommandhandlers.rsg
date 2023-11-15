@@ -1,0 +1,2 @@
+#define R_GLX_ALBUM_SELECTION_ICONS               0x23eed003
+#define R_GLX_SOFTKEYS_OK_CANCEL                  0x23eed004

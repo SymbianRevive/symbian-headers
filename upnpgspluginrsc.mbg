@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifUpnpgspluginrsc
+	{
+	EMbmUpnpgspluginrscQgn_menu_upnp_homemedia = 16384,
+	EMbmUpnpgspluginrscQgn_menu_upnp_homemedia_mask = 16385,
+	EMbmUpnpgspluginrscLastElement
+	};

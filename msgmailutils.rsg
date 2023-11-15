@@ -1,0 +1,13 @@
+#define R_TEXT_MAIL_UTILS_REPLYATTA_BEGIN         0xeaf6002
+#define R_TEXT_MAIL_UTILS_REPLYATTA_END           0xeaf6003
+#define R_TEXT_MAIL_UTILS_REPLYATTA_ATTACH        0xeaf6004
+#define R_TEXT_MAIL_OUT_OF_MEMORY                 0xeaf6005
+#define R_MAIL_REPLYATTA                          0xeaf6006
+#define R_MAIL_ADDRESS_FORMAT_STRING              0xeaf6007
+#define R_MAIL_BANNED_CHARS                       0xeaf6008
+#define R_MAIL_QUEST_LARGE_ATTA_FWD               0xeaf6009
+#define R_MAIL_YES_NO_QUERY_DLG                   0xeaf600a
+#define R_MAIL_QUEST_FETCH_ATTA_FWD               0xeaf600b
+#define R_MAIL_QUEST_FETCH_ATTACHMENT             0xeaf600c
+#define R_MAIL_LARGE_ATTA_QUERY                   0xeaf600d
+#define R_QTN_MAIL_INFO_HTML_ATTACH               0xeaf600e

@@ -1,0 +1,9 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifDrmencryptor
+	{
+	EMbmDrmencryptorQgn_menu_drmencryptor_cxt = 16384,
+	EMbmDrmencryptorQgn_menu_drmencryptor_cxt_mask = 16385,
+	EMbmDrmencryptorIcon = 16386,
+	EMbmDrmencryptorLastElement
+	};

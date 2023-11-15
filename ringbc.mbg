@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifRingbc
+	{
+	EMbmRingbcQgn_prop_ota_tone = 16384,
+	EMbmRingbcQgn_prop_ota_tone_mask = 16385,
+	EMbmRingbcLastElement
+	};

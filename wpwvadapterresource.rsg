@@ -1,0 +1,2 @@
+#define R_QTN_SM_IM_SERVER_DNAME                  1
+#define R_QTN_OP_HEAD_IMSETTINGS                  2

@@ -1,0 +1,39 @@
+/*
+* ==============================================================================
+*  Name        : PlatformStaticFeatures.hrh
+*  Part of     : Series 60 release / Variability management
+*  Interface   : Open OEM, Features
+*  Description : Defines Series 60 specific feature constants for common
+*                Feature Manager component. This file is included by
+*                Feature Manager component when building it.
+*                The counterpart for this file is the generic SpdStaticFeatures.hrh.
+*
+*  Copyright © 2002-2005 Nokia Corporation.
+*  This material, including documentation and any related 
+*  computer programs, is protected by copyright controlled by 
+*  Nokia Corporation. All rights are reserved. Copying, 
+*  including reproducing, storing, adapting or translating, any 
+*  or all of this material requires the prior written consent of 
+*  Nokia Corporation. This material also contains confidential 
+*  information which may not be disclosed to others without the 
+*  prior written consent of Nokia Corporation.
+* ==============================================================================
+*/
+
+
+/* 
+*
+Usage of the file in the FeatMgr/featmgrstaticfeatures.hrh:
+-----------------------------------------------------------
+#include <bldvariant.hrh>
+const TInt KFeatMgrStaticFeatures[] =
+    {
+#include "SPDStaticFeatures.hrh"
+#include "PlatformStaticFeatures.hrh"
+    KFeatMgrFeatureArrayEndMark // End mark, don't remove!
+    };
+*/
+
+//includes domain specific Carbon generated files
+#include <PrivateStaticFeatures.hrh>
+#include <PublicStaticFeatures.hrh>

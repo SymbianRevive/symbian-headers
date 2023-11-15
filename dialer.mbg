@@ -1,0 +1,10 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifDialer
+	{
+	EMbmDialerQgn_indi_dialer_voicemail = 16384,
+	EMbmDialerQgn_indi_dialer_voicemail_mask = 16385,
+	EMbmDialerQgn_indi_dialer_internet = 16386,
+	EMbmDialerQgn_indi_dialer_internet_mask = 16387,
+	EMbmDialerLastElement
+	};

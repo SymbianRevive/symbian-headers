@@ -1,0 +1,6 @@
+#define R_CONFIRM_QUERY                           0x3f217003
+#define R_CONFIRM_UNKNOWN_APP                     0x3f217004
+#define R_CONFIRM_UNKNOWN_MTM                     0x3f217005
+#define R_CONFIRM_SEND_ONE                        0x3f217006
+#define R_CONFIRM_SEND_MANY_RECIP                 0x3f217007
+#define R_CONFIRM_SEND_MANY_MSG                   0x3f217008

@@ -1,0 +1,13 @@
+#define R_REMOTEFE_MEMORY_SELECTION_DIALOG        0x59eb8003
+#define R_WAIT_NOTE_CONNECTING                    0x59eb8004
+#define R_WAIT_NOTE_TRANSFERRING                  0x59eb8005
+#define R_SAVE_QUERY_CONFIRM                      0x59eb8006
+#define R_WAIT_NOTE_RETRIEVING                    0x59eb8007
+#define R_NOTE_ADDRESS_NOT_AVAILABLE              0x59eb8008
+#define R_CONFIRM_DRIVE_UNAVAILABLE               0x59eb8009
+#define R_CONFIRM_FILE_SAVED_TO                   0x59eb800a
+#define R_SAVING_FAILED                           0x59eb800b
+#define R_WAIT_NOTE_DISC_WARNING                  0x59eb800c
+#define R_NO_NETWORK_COVERAGE                     0x59eb800d
+#define R_OFFLINE_NOT_POSSIBLE                    0x59eb800e
+#define R_RAM_OUT_OF_MEMORY                       0x59eb800f

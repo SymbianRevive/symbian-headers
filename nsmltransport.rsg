@@ -1,0 +1,4 @@
+#define R_QTN_NSML_TRANSPORT_HTTP                 1
+#define R_QTN_NSML_TRANSPORT_BLUETOOTH            2
+#define R_QTN_NSML_TRANSPORT_IRDA                 3
+#define R_QTN_NSML_TRANSPORT_USB                  4

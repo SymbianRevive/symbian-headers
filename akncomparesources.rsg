@@ -1,0 +1,12 @@
+#define R_AKNCOMPAMODE_TEXT_1KEY                  0x56e1002
+#define R_AKNCOMPAMODE_TEXT_2KEY                  0x56e1003
+#define R_AKNCOMPAMODE_TEXT_3KEY                  0x56e1004
+#define R_AKNCOMPAMODE_TEXT_4KEY                  0x56e1005
+#define R_AKNCOMPAMODE_TEXT_5KEY                  0x56e1006
+#define R_AKNCOMPAMODE_TEXT_6KEY                  0x56e1007
+#define R_AKNCOMPAMODE_TEXT_7KEY                  0x56e1008
+#define R_AKNCOMPAMODE_TEXT_8KEY                  0x56e1009
+#define R_AKNCOMPAMODE_TEXT_9KEY                  0x56e100a
+#define R_AKNCOMPAMODE_TEXT_QKEY                  0x56e100b
+#define R_AKNCOMPAMODE_TEXT_PLUSKEY               0x56e100c
+#define R_AKNCOMPAMODE_TEXT_HASHKEY               0x56e100d

@@ -1,0 +1,2 @@
+#define R_EXT_MIME_PAIRS                          0x21044002
+#define R_REMOTE_EXT_MIME_PAIRS                   0x21044003

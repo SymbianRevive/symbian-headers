@@ -1,0 +1,5 @@
+#define R_RADIO_REGIONS_ALL                       0x1f2ec002
+#define R_RADIO_REGIONS_WITHOUT_JAPAN             0x1f2ec003
+#define R_RADIO_REGION_JAPAN                      0x1f2ec004
+#define R_RADIO_REGION_AMERICA                    0x1f2ec005
+#define R_RADIO_REGION_DEFAULT                    0x1f2ec006

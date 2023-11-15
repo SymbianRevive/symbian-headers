@@ -1,0 +1,7 @@
+#define R_ASPSYNCPROVIDER_MENU                    0x84be002
+#define R_ASPSYNCPROVIDER_MENU_2                  0x84be003
+#define R_ASPSYNCPROVIDER_MENU_3                  0x84be004
+#define R_ASPSYNCPROVIDER_MENU_4                  0x84be005
+#define R_ASPSYNCPROVIDER_SUBMENU                 0x84be006
+#define R_ASPSYNCPROVIDER_SUBMENU_2               0x84be007
+#define R_ASPSYNCPROVIDER_SUBMENU_3               0x84be008

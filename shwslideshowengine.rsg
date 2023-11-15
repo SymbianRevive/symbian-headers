@@ -1,0 +1,2 @@
+#define R_SHW_EFFECT_CROSS_FADE                   0x5ce13003
+#define R_SHW_EFFECT_ZOOM_AND_PAN                 0x5ce13004

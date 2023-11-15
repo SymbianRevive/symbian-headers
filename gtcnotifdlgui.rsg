@@ -1,0 +1,7 @@
+#define R_GTCNOTIF_SOFTKEYS_OK_CANCEL_SELECT      0x1967d002
+#define R_GTC_PASSWORD_QUERY                      0x1967d003
+#define R_GTCNOTIF_SOFTKEYS_OK___SELECT           0x1967d004
+#define R_MESSAGE_QUERY                           0x1967d005
+#define R_GTC_RESPONSE                            0x1967d006
+#define R_GTC_MESSAGE                             0x1967d007
+#define R_GTC_USERNAME                            0x1967d008

@@ -1,0 +1,6 @@
+#define R_MMDU_DEFAULT_FILE_NAME                  0x65d55002
+#define R_MMDU_EMPTY_SLIDE                        0x65d55003
+#define R_COMPOSE_PARAMS                          0x65d55004
+#define R_IMAGE_REGION_ATTRIBUTES                 0x65d55005
+#define R_TEXT_REGION_ATTRIBUTES                  0x65d55006
+#define R_SLIDE_PARAMS                            0x65d55007

@@ -1,0 +1,24 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifAppmngr2
+	{
+	EMbmAppmngr2Qgn_prop_cp_inst_installs = 16384,
+	EMbmAppmngr2Qgn_prop_cp_inst_installs_mask = 16385,
+	EMbmAppmngr2Qgn_prop_cp_inst_files = 16386,
+	EMbmAppmngr2Qgn_prop_cp_inst_files_mask = 16387,
+	EMbmAppmngr2Qgn_prop_cp_inst_settings = 16388,
+	EMbmAppmngr2Qgn_prop_cp_inst_settings_mask = 16389,
+	EMbmAppmngr2Qgn_prop_drm_exp_large = 16390,
+	EMbmAppmngr2Qgn_prop_drm_exp_large_mask = 16391,
+	EMbmAppmngr2Qgn_indi_sett_protected_add = 16392,
+	EMbmAppmngr2Qgn_indi_sett_protected_add_mask = 16393,
+	EMbmAppmngr2Qgn_indi_am_inst_mmc_add = 16394,
+	EMbmAppmngr2Qgn_indi_am_inst_mmc_add_mask = 16395,
+	EMbmAppmngr2Qgn_indi_mmc_add = 16396,
+	EMbmAppmngr2Qgn_indi_mmc_add_mask = 16397,
+	EMbmAppmngr2Qgn_indi_fmgr_ms_add = 16398,
+	EMbmAppmngr2Qgn_indi_fmgr_ms_add_mask = 16399,
+	EMbmAppmngr2Qgn_prop_unknown = 16400,
+	EMbmAppmngr2Qgn_prop_unknown_mask = 16401,
+	EMbmAppmngr2LastElement
+	};

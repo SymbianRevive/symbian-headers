@@ -1,0 +1,8 @@
+#define R_COMMON_YES_NO_QUERY                     0x6287d003
+#define R_CUSTOM_USERNAMEPASSWD_DIALOG            0x6287d004
+#define R_SENNOTDLG_AUTH_TITLE                    0x6287d005
+#define R_SENNOTDLG_AUTH_USERNAME                 0x6287d006
+#define R_SENNOTDLG_AUTH_PASSWORD                 0x6287d007
+#define R_SENNOTDLG_ASK_SAVE_QUERY                0x6287d008
+#define R_SENNOTDLG_ALLOW_REGISTER_QUERY          0x6287d009
+#define R_SENNOTDLG_ALLOW_UNREGISTER_QUERY        0x6287d00a

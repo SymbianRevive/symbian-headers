@@ -1,0 +1,7 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifSplashscreen
+	{
+	EMbmSplashscreenQgn_startup_screen = 16384,
+	EMbmSplashscreenLastElement
+	};

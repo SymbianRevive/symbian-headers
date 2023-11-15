@@ -1,0 +1,22 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifEvteditor
+	{
+	EMbmEvteditorQgn_prop_locev_current_location = 16384,
+	EMbmEvteditorQgn_prop_locev_current_location_mask = 16385,
+	EMbmEvteditorQgn_prop_locev_landmark = 16386,
+	EMbmEvteditorQgn_prop_locev_landmark_mask = 16387,
+	EMbmEvteditorQgn_prop_locev_map = 16388,
+	EMbmEvteditorQgn_prop_locev_map_mask = 16389,
+	EMbmEvteditorQgn_prop_locev_active_small = 16390,
+	EMbmEvteditorQgn_prop_locev_active_small_mask = 16391,
+	EMbmEvteditorQgn_prop_locev_draft_small = 16392,
+	EMbmEvteditorQgn_prop_locev_draft_small_mask = 16393,
+	EMbmEvteditorQgn_prop_locev_delete_small = 16394,
+	EMbmEvteditorQgn_prop_locev_delete_small_mask = 16395,
+	EMbmEvteditorQgn_prop_fmgr_file_sound = 16396,
+	EMbmEvteditorQgn_prop_fmgr_file_sound_mask = 16397,
+	EMbmEvteditorQgn_prop_fmgr_file_voicerec = 16398,
+	EMbmEvteditorQgn_prop_fmgr_file_voicerec_mask = 16399,
+	EMbmEvteditorLastElement
+	};

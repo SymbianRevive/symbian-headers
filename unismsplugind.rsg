@@ -1,0 +1,3 @@
+#define R_ADDSC_QUERY                             0x67783003
+#define R_QTN_INFO_INVALID_NUMBER                 0x67783004
+#define R_ADDEMAILSC_QUERY                        0x67783005

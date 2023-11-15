@@ -1,0 +1,26 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifSatellite
+	{
+	EMbmSatelliteQgn_prop_blid_active = 16384,
+	EMbmSatelliteQgn_prop_blid_active_mask = 16385,
+	EMbmSatelliteQgn_prop_blid_bg = 16386,
+	EMbmSatelliteQgn_prop_blid_bg_mask = 16387,
+	EMbmSatelliteQgn_prop_blid_inactive = 16388,
+	EMbmSatelliteQgn_prop_blid_inactive_mask = 16389,
+	EMbmSatelliteQgn_prop_blid_sat_firma = 16390,
+	EMbmSatelliteQgn_prop_blid_sat_firma_mask = 16391,
+	EMbmSatelliteQgn_prop_blid_sat_firma_active = 16392,
+	EMbmSatelliteQgn_prop_blid_sat_firma_active_mask = 16393,
+	EMbmSatelliteQgn_prop_blid_sat_firma_inact = 16394,
+	EMbmSatelliteQgn_prop_blid_sat_firma_inact_mask = 16395,
+	EMbmSatelliteQgn_prop_blid_sat_firma_moon = 16396,
+	EMbmSatelliteQgn_prop_blid_sat_firma_moon_mask = 16397,
+	EMbmSatelliteQgn_prop_blid_sat_firma_sun = 16398,
+	EMbmSatelliteQgn_prop_blid_sat_firma_sun_mask = 16399,
+	EMbmSatelliteQgn_graf_blid = 16400,
+	EMbmSatelliteQgn_graf_blid_mask = 16401,
+	EMbmSatelliteQgn_graf_blid_ringfix = 16402,
+	EMbmSatelliteQgn_graf_blid_ringfix_mask = 16403,
+	EMbmSatelliteLastElement
+	};

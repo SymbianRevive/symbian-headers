@@ -1,0 +1,10 @@
+#define R_MISSED_ALARM_SOFT_NOTIFICATION          0x10a35003
+#define R_MISSED_ALARM_GROUP_SINGULAR             0x10a35004
+#define R_MISSED_ALARM_GROUP_PLURAL               0x10a35005
+#define R_MISSED_ALARM_UI_GROUPED                 0x10a35006
+#define R_MISSED_ALARM_UNGROUP_SINGULAR           0x10a35007
+#define R_MISSED_ALARM_UNGROUP_PLURAL             0x10a35008
+#define R_MISSED_ALARM_UI_UNGROUPED               0x10a35009
+#define R_CALE_DB_PERSONAL                        0x10a3500a
+#define R_CALE_DB_FAMILY                          0x10a3500b
+#define R_CALE_DB_FRIENDS                         0x10a3500c

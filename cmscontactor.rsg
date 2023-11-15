@@ -1,0 +1,14 @@
+#define R_QTN_CCA_POPUP_CALL                      0x10db2002
+#define R_QTN_CCA_POPUP_MESSAGE                   0x10db2003
+#define R_QTN_CCA_POPUP_EMAIL                     0x10db2004
+#define R_QTN_CCA_POPUP_VOIP_CALL                 0x10db2005
+#define R_QTN_CCA_POPUP_CHAT                      0x10db2006
+#define R_QTN_CCA_POPUP_URL                       0x10db2007
+#define R_QTN_CCA_POPUP_VIDEO_CALL                0x10db2008
+#define R_QTN_PHOB_LBL_NUMBER_STANDARD            0x10db2009
+#define R_QTN_PHOB_LBL_NUMBER_MOBILE              0x10db200a
+#define R_QTN_PHOB_LBL_EMAIL                      0x10db200b
+#define R_QTN_PHOB_LBL_VOIP                       0x10db200c
+#define R_QTN_PHOB_LBL_URL                        0x10db200d
+#define R_QTN_PHOB_LBL_UNKNOWN                    0x10db200e
+#define R_QTN_PHOB_LBL_VIDEO                      0x10db200f

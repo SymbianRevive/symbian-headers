@@ -1,0 +1,34 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMediafilelist
+	{
+	EMbmMediafilelistQgn_indi_ai_nt_music = 16384,
+	EMbmMediafilelistQgn_indi_ai_nt_music_mask = 16385,
+	EMbmMediafilelistQgn_prop_mup_audio = 16386,
+	EMbmMediafilelistQgn_prop_mup_audio_mask = 16387,
+	EMbmMediafilelistQgn_prop_fmgr_file_video = 16388,
+	EMbmMediafilelistQgn_prop_fmgr_file_video_mask = 16389,
+	EMbmMediafilelistQgn_prop_fmgr_file_voicerec = 16390,
+	EMbmMediafilelistQgn_prop_fmgr_file_voicerec_mask = 16391,
+	EMbmMediafilelistQgn_prop_mup_artist = 16392,
+	EMbmMediafilelistQgn_prop_mup_artist_mask = 16393,
+	EMbmMediafilelistQgn_prop_mup_album = 16394,
+	EMbmMediafilelistQgn_prop_mup_album_mask = 16395,
+	EMbmMediafilelistQgn_prop_mup_genre = 16396,
+	EMbmMediafilelistQgn_prop_mup_genre_mask = 16397,
+	EMbmMediafilelistQgn_prop_mup_composer = 16398,
+	EMbmMediafilelistQgn_prop_mup_composer_mask = 16399,
+	EMbmMediafilelistQgn_prop_link_embd_small = 16400,
+	EMbmMediafilelistQgn_prop_link_embd_small_mask = 16401,
+	EMbmMediafilelistQgn_prop_folder_small = 16402,
+	EMbmMediafilelistQgn_prop_folder_small_mask = 16403,
+	EMbmMediafilelistQgn_prop_sml_sync_off = 16404,
+	EMbmMediafilelistQgn_prop_sml_sync_off_mask = 16405,
+	EMbmMediafilelistQgn_indi_fmgr_ms_add = 16406,
+	EMbmMediafilelistQgn_indi_fmgr_ms_add_mask = 16407,
+	EMbmMediafilelistQgn_indi_mmc_add = 16408,
+	EMbmMediafilelistQgn_indi_mmc_add_mask = 16409,
+	EMbmMediafilelistQgn_prop_mce_unknown_read = 16410,
+	EMbmMediafilelistQgn_prop_mce_unknown_read_mask = 16411,
+	EMbmMediafilelistLastElement
+	};

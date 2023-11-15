@@ -1,0 +1,5 @@
+#define R_FS_ACTION_PTT                           0x1fc7a003
+#define R_FS_NOTE_NUMBER_MISSING                  0x1fc7a004
+#define R_POC_AIW_INTEREST                        0x1fc7a005
+#define R_FS_NUMBER_MISSING_QUERY_DIALOG          0x1fc7a006
+#define R_POCPLUGIN_LOCALISABLE_APP_INFO          0x1fc7a007

@@ -1,0 +1,10 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifCmpluginpacketdata
+	{
+	EMbmCmpluginpacketdataQgn_prop_wml_gprs = 16384,
+	EMbmCmpluginpacketdataQgn_prop_wml_gprs_mask = 16385,
+	EMbmCmpluginpacketdataQgn_prop_set_conn_bearer_avail_packetdata = 16386,
+	EMbmCmpluginpacketdataQgn_prop_set_conn_bearer_avail_packetdata_mask = 16387,
+	EMbmCmpluginpacketdataLastElement
+	};

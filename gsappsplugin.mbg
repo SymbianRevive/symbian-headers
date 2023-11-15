@@ -1,0 +1,10 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifGsappsplugin
+	{
+	EMbmGsappspluginQgn_prop_set_apps_sub = 16384,
+	EMbmGsappspluginQgn_prop_set_apps_sub_mask = 16385,
+	EMbmGsappspluginQgn_prop_set_apps_tab4 = 16386,
+	EMbmGsappspluginQgn_prop_set_apps_tab4_mask = 16387,
+	EMbmGsappspluginLastElement
+	};

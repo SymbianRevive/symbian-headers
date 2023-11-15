@@ -1,0 +1,12 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifVariatedbitmaps
+	{
+	EMbmVariatedbitmapsQgn_prop_link_embd_large = 16384,
+	EMbmVariatedbitmapsQgn_prop_link_embd_large_mask = 16385,
+	EMbmVariatedbitmapsQgn_prop_link_embd_medium = 16386,
+	EMbmVariatedbitmapsQgn_prop_link_embd_medium_mask = 16387,
+	EMbmVariatedbitmapsQgn_prop_link_embd_small = 16388,
+	EMbmVariatedbitmapsQgn_prop_link_embd_small_mask = 16389,
+	EMbmVariatedbitmapsLastElement
+	};

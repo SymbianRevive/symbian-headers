@@ -1,0 +1,15 @@
+#define R_ROOTSUITE_MENU_TITLE                    0x1effc003
+#define R_MENU_FOLDER_EMPTY_TEXT                  0x1effc004
+#define R_MENU_FOLDER_EDIT                        0x1effc005
+#define R_MENU_FOLDER_EDIT_NON_TOUCH              0x1effc006
+#define R_SKINS_LIST_APPSHELL_LIST                0x1effc007
+#define R_SKINS_LIST_APPSHELL_GRID                0x1effc008
+#define R_OPTIONS_HELP                            0x1effc009
+#define R_MENU_OPEN                               0x1effc00a
+#define R_OPTIONS_ORG_NEW_FOLDER                  0x1effc00b
+#define R_OPTIONS_ORG_MOVE                        0x1effc00c
+#define R_OPTIONS_ORG_MOVE_TO_FOLDER              0x1effc00d
+#define R_OPTIONS_SUB_RENAME                      0x1effc00e
+#define R_OPTIONS_SUB_DELETE                      0x1effc00f
+#define R_FLDR_DELETE                             0x1effc010
+#define R_FLDR_RENAME                             0x1effc011

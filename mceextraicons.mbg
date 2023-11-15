@@ -1,0 +1,16 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMceextraicons
+	{
+	EMbmMceextraiconsQgn_menu_mce = 16384,
+	EMbmMceextraiconsQgn_menu_mce_mask = 16385,
+	EMbmMceextraiconsQgn_menu_smsvo = 16386,
+	EMbmMceextraiconsQgn_menu_smsvo_mask = 16387,
+	EMbmMceextraiconsQgn_menu_wml = 16388,
+	EMbmMceextraiconsQgn_menu_wml_mask = 16389,
+	EMbmMceextraiconsQgn_prop_im_ibox = 16390,
+	EMbmMceextraiconsQgn_prop_im_ibox_mask = 16391,
+	EMbmMceextraiconsQgn_prop_im_ibox_new = 16392,
+	EMbmMceextraiconsQgn_prop_im_ibox_new_mask = 16393,
+	EMbmMceextraiconsLastElement
+	};

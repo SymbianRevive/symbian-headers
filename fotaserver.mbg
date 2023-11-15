@@ -1,0 +1,26 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifFotaserver
+	{
+	EMbmFotaserverQgn_prop_sml_http = 16384,
+	EMbmFotaserverQgn_prop_sml_http_mask = 16385,
+	EMbmFotaserverQgn_prop_sml_http_off = 16386,
+	EMbmFotaserverQgn_prop_sml_http_off_mask = 16387,
+	EMbmFotaserverQgn_prop_sml_bt = 16388,
+	EMbmFotaserverQgn_prop_sml_bt_mask = 16389,
+	EMbmFotaserverQgn_prop_sml_bt_off = 16390,
+	EMbmFotaserverQgn_prop_sml_bt_off_mask = 16391,
+	EMbmFotaserverQgn_prop_sml_usb = 16392,
+	EMbmFotaserverQgn_prop_sml_usb_mask = 16393,
+	EMbmFotaserverQgn_prop_sml_usb_off = 16394,
+	EMbmFotaserverQgn_prop_sml_usb_off_mask = 16395,
+	EMbmFotaserverQgn_menu_dm_cxt = 16396,
+	EMbmFotaserverQgn_menu_dm_cxt_mask = 16397,
+	EMbmFotaserverQgn_menu_dm_disabled_cxt = 16398,
+	EMbmFotaserverQgn_menu_dm_disabled_cxt_mask = 16399,
+	EMbmFotaserverQgn_note_sml = 16400,
+	EMbmFotaserverQgn_note_sml_mask = 16401,
+	EMbmFotaserverQgn_note_sml_server = 16402,
+	EMbmFotaserverQgn_note_sml_server_mask = 16403,
+	EMbmFotaserverLastElement
+	};

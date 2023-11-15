@@ -1,0 +1,14 @@
+#define R_GS_MENUBAR_CHANGE_EXIT                  0x24e2c002
+#define R_GS_MENUBAR_OPEN_EXIT                    0x24e2c003
+#define R_GS_MENU_ITEM_OPEN                       0x24e2c004
+#define R_GS_MENU_ITEM_EXIT                       0x24e2c005
+#define R_GS_MENU_ITEM_CHANGE                     0x24e2c006
+#define R_GS_MENU_ITEM_HELP                       0x24e2c007
+#define R_SETTING_LISTBOX                         0x24e2c008
+#define R_GS_CBA_EXIT                             0x24e2c009
+#define R_RFS_FACTORY_SETTINGS                    0x24e2c00c
+#define R_RFS_FACTORY_SETTINGS_TITLE              0x24e2c00d
+#define R_GS_MENUBAR_EXIT_HELP                    0x24e2c00e
+#define R_GS_RFS_SOFTKEYS_OPTIONS_BACK__EXIT      0x24e2c00f
+#define R_RFS_FACTORY_SETTINGS_VIEW               0x24e2c010
+#define R_RFS_FACTORY_SETTINGS_LBX                0x24e2c011

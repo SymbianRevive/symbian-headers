@@ -1,0 +1,16 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifGsnetworkplugin
+	{
+	EMbmGsnetworkpluginQgn_prop_set_network_sub = 16384,
+	EMbmGsnetworkpluginQgn_prop_set_network_sub_mask = 16385,
+	EMbmGsnetworkpluginQgn_prop_set_network_sub_offline = 16386,
+	EMbmGsnetworkpluginQgn_prop_set_network_sub_offline_mask = 16387,
+	EMbmGsnetworkpluginQgn_prop_set_network_tab4 = 16388,
+	EMbmGsnetworkpluginQgn_prop_set_network_tab4_mask = 16389,
+	EMbmGsnetworkpluginQgn_prop_network_3g = 16390,
+	EMbmGsnetworkpluginQgn_prop_network_3g_mask = 16391,
+	EMbmGsnetworkpluginQgn_prop_network_2g = 16392,
+	EMbmGsnetworkpluginQgn_prop_network_2g_mask = 16393,
+	EMbmGsnetworkpluginLastElement
+	};

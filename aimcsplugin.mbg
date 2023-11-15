@@ -1,0 +1,30 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifAimcsplugin
+	{
+	EMbmAimcspluginQgn_prop_ai_shortcut = 16384,
+	EMbmAimcspluginQgn_prop_ai_shortcut_mask = 16385,
+	EMbmAimcspluginQgn_menu_url = 16386,
+	EMbmAimcspluginQgn_menu_url_mask = 16387,
+	EMbmAimcspluginQgn_menu_mce_sel_mes = 16388,
+	EMbmAimcspluginQgn_menu_mce_sel_mes_mask = 16389,
+	EMbmAimcspluginQgn_menu_mce_syncmail = 16390,
+	EMbmAimcspluginQgn_menu_mce_syncmail_mask = 16391,
+	EMbmAimcspluginQgn_menu_am = 16392,
+	EMbmAimcspluginQgn_menu_am_mask = 16393,
+	EMbmAimcspluginQgn_prop_cp_conn_shortcut = 16394,
+	EMbmAimcspluginQgn_prop_cp_conn_shortcut_mask = 16395,
+	EMbmAimcspluginQgn_prop_psln_ai_sub = 16396,
+	EMbmAimcspluginQgn_prop_psln_ai_sub_mask = 16397,
+	EMbmAimcspluginQgn_prop_log_calls_sub = 16398,
+	EMbmAimcspluginQgn_prop_log_calls_sub_mask = 16399,
+	EMbmAimcspluginQgn_menu_mce_postcard = 16400,
+	EMbmAimcspluginQgn_menu_mce_postcard_mask = 16401,
+	EMbmAimcspluginQgn_menu_mce_email = 16402,
+	EMbmAimcspluginQgn_menu_mce_email_mask = 16403,
+	EMbmAimcspluginQgn_menu_mce_audio = 16404,
+	EMbmAimcspluginQgn_menu_mce_audio_mask = 16405,
+	EMbmAimcspluginQgn_menu_mce_gene = 16406,
+	EMbmAimcspluginQgn_menu_mce_gene_mask = 16407,
+	EMbmAimcspluginLastElement
+	};

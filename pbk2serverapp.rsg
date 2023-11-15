@@ -1,0 +1,16 @@
+#define R_FSC_STATUS_PANE                         0x4ce5e004
+#define R_SERVERAPP_TITLE_PANE                    0x4ce5e005
+#define R_PBK2SERVERAPP_LOCALISABLE_APP_INFO      0x4ce5e006
+#define R_QTN_PHOB_QTL_ENTRY_CREATE               0x4ce5e007
+#define R_QTN_PHOB_QTL_ENTRY_ADD_TO               0x4ce5e008
+#define R_QTN_PHOB_QUERY_CREATE_NEW_TO_STORE      0x4ce5e009
+#define R_QTN_PHOB_NOTE_CONTACT_CREATED           0x4ce5e00a
+#define R_QTN_PHOB_NOTE_CONTACT_HIDDEN            0x4ce5e00b
+#define R_QTN_PHOB_NOTE_CONTACTS_HIDDEN           0x4ce5e00c
+#define R_QTN_PHOB_NOTE_CONTACT_UPDATED           0x4ce5e00d
+#define R_QTN_PHOB_NOTE_REPLACE_DETAIL            0x4ce5e00e
+#define R_QTN_PHOB_NOTE_CANNOT_ADD_DETAIL         0x4ce5e00f
+#define R_QTN_PHOB_NOTE_DETAIL_ADDED              0x4ce5e010
+#define R_QTN_PHOB_NOTE_DETAIL_ADDED_TO_N         0x4ce5e011
+#define R_QTN_PHOB_NOTE_DETAIL_NOT_ADDED          0x4ce5e012
+#define R_PROFILE_TEXT_TONE_MAXSIZE_ERROR         0x4ce5e013

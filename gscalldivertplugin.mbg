@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifGscalldivertplugin
+	{
+	EMbmGscalldivertpluginQgn_prop_set_div_sub = 16384,
+	EMbmGscalldivertpluginQgn_prop_set_div_sub_mask = 16385,
+	EMbmGscalldivertpluginLastElement
+	};

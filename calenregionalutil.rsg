@@ -1,0 +1,11 @@
+#define R_CALE_LUNAR_SEPARATOR                    0x10ad0002
+#define R_CALE_EXTRA_ROW_LUNAR                    0x10ad0003
+#define R_CALE_LUNAR_YEAR                         0x10ad0004
+#define R_CALE_LUNAR_FULL_DATE                    0x10ad0005
+#define R_CALE_LUNAR_LEAP_DATE                    0x10ad0006
+#define R_CALE_LUNAR_DATE                         0x10ad0007
+#define R_CALEN_CHI_FESTIVALS                     0x10ad0008
+#define R_CALEN_CHI_SOLAR_ITEMS                   0x10ad0009
+#define R_CALEN_CHI_HEAV_STEMS                    0x10ad000a
+#define R_CALEN_CHI_TERR_BRANCHES                 0x10ad000b
+#define R_CALEN_CHI_ANIMAL_YEARS                  0x10ad000c

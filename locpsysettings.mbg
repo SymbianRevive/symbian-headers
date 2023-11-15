@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifLocpsysettings
+	{
+	EMbmLocpsysettingsQgn_prop_psln_active = 16384,
+	EMbmLocpsysettingsQgn_prop_psln_active_mask = 16385,
+	EMbmLocpsysettingsLastElement
+	};

@@ -1,0 +1,8 @@
+#define R_SET_CONF_MSG_AUTHENTICATION_CP          0x26bea002
+#define R_QTN_SET_CONF_AUTH_METHOD                0x26bea003
+#define R_QTN_CONF_AUTH_NETWORK_PIN               0x26bea004
+#define R_QTN_CONF_AUTH_NETWORK_OR_USER_PIN       0x26bea005
+#define R_QTN_CONF_AUTH_ALL_AUTH                  0x26bea006
+#define R_QTN_CONF_AUTH_ALL_AUTH_NOTE             0x26bea007
+#define R_QTN_CONF_AUTH_NETWORK_OR_USER_PIN_NOTE  0x26bea008
+#define R_AUTHTYPEUI_INFORMATION_QUERY            0x26bea009

@@ -1,0 +1,8 @@
+#define R_FS_ACTION_MESSAGE                       0x204eb003
+#define R_FS_ACTION_AUDIO                         0x204eb004
+#define R_FS_ACTION_POSTCARD                      0x204eb005
+#define R_FS_ACTION_EMAIL                         0x204eb006
+#define R_FS_NOTE_NUMBER_MISSING                  0x204eb007
+#define R_FS_POSTCARD_WRITE_ATTACHMENT_TAG        0x204eb008
+#define R_FS_NUMBER_MISSING_QUERY_DIALOG          0x204eb009
+#define R_SENDPLUGIN_LOCALISABLE_APP_INFO         0x204eb00a

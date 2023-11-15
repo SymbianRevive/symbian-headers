@@ -1,0 +1,6 @@
+#define R_FS_ACTION_CALL                          0x203ca003
+#define R_FS_ACTION_VIDCALL                       0x203ca004
+#define R_FS_ACTION_VOIP                          0x203ca005
+#define R_FS_ACTION_CONF_SERVICE                  0x203ca006
+#define R_CALLPLUGIN_INTEREST                     0x203ca007
+#define R_CALLPLUGIN_LOCALISABLE_APP_INFO         0x203ca008

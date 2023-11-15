@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMusicwidgeticon
+	{
+	EMbmMusicwidgeticonQgn_indi_mup_home_no_music = 16384,
+	EMbmMusicwidgeticonQgn_indi_mup_home_no_music_mask = 16385,
+	EMbmMusicwidgeticonLastElement
+	};

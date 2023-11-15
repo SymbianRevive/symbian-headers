@@ -1,0 +1,2 @@
+#define R_COUTL_CONFIRM_ONE_CONNECTION            0x113ab002
+#define R_COUTL_CONFIRM_CONNECTIONS               0x113ab003

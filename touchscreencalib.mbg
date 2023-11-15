@@ -1,0 +1,18 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifTouchscreencalib
+	{
+	EMbmTouchscreencalibQgn_graf_screencalib = 16384,
+	EMbmTouchscreencalibQgn_graf_screencalib_mask = 16385,
+	EMbmTouchscreencalibQgn_graf_screencalib_1 = 16386,
+	EMbmTouchscreencalibQgn_graf_screencalib_1_mask = 16387,
+	EMbmTouchscreencalibQgn_graf_screencalib_2 = 16388,
+	EMbmTouchscreencalibQgn_graf_screencalib_2_mask = 16389,
+	EMbmTouchscreencalibQgn_graf_screencalib_3 = 16390,
+	EMbmTouchscreencalibQgn_graf_screencalib_3_mask = 16391,
+	EMbmTouchscreencalibQgn_graf_screencalib_4 = 16392,
+	EMbmTouchscreencalibQgn_graf_screencalib_4_mask = 16393,
+	EMbmTouchscreencalibQgn_graf_screencalib_5 = 16394,
+	EMbmTouchscreencalibQgn_graf_screencalib_5_mask = 16395,
+	EMbmTouchscreencalibLastElement
+	};

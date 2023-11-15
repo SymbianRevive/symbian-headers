@@ -1,0 +1,32 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifWsficons
+	{
+	EMbmWsficonsQgn_indi_wlan_secure_network_add = 16384,
+	EMbmWsficonsQgn_indi_wlan_secure_network_add_mask = 16385,
+	EMbmWsficonsEmpty13x13 = 16386,
+	EMbmWsficonsEmpty13x13_mask = 16387,
+	EMbmWsficonsQgn_indi_wlan_signal_low_add = 16388,
+	EMbmWsficonsQgn_indi_wlan_signal_low_add_mask = 16389,
+	EMbmWsficonsQgn_indi_wlan_signal_med_add = 16390,
+	EMbmWsficonsQgn_indi_wlan_signal_med_add_mask = 16391,
+	EMbmWsficonsQgn_indi_wlan_signal_good_add = 16392,
+	EMbmWsficonsQgn_indi_wlan_signal_good_add_mask = 16393,
+	EMbmWsficonsQgn_prop_cmon_wlan_conn = 16394,
+	EMbmWsficonsQgn_prop_cmon_wlan_conn_mask = 16395,
+	EMbmWsficonsQgn_prop_wlan_bearer = 16396,
+	EMbmWsficonsQgn_prop_wlan_bearer_mask = 16397,
+	EMbmWsficonsQgn_prop_empty = 16398,
+	EMbmWsficonsQgn_prop_empty_mask = 16399,
+	EMbmWsficonsQgn_indi_wlan_sniffer_plugin_off = 16400,
+	EMbmWsficonsQgn_indi_wlan_sniffer_plugin_off_mask = 16401,
+	EMbmWsficonsQgn_indi_wlan_sniffer_plugin_on = 16402,
+	EMbmWsficonsQgn_indi_wlan_sniffer_plugin_on_mask = 16403,
+	EMbmWsficonsQgn_indi_wlan_sniffer_plugin_on_0 = 16404,
+	EMbmWsficonsQgn_indi_wlan_sniffer_plugin_on_0_mask = 16405,
+	EMbmWsficonsQgn_indi_wlan_sniffer_plugin_on_1 = 16406,
+	EMbmWsficonsQgn_indi_wlan_sniffer_plugin_on_1_mask = 16407,
+	EMbmWsficonsQgn_menu_wlan_sniffer = 16408,
+	EMbmWsficonsQgn_menu_wlan_sniffer_mask = 16409,
+	EMbmWsficonsLastElement
+	};

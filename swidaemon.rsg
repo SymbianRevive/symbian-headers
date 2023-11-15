@@ -1,0 +1,4 @@
+#define R_DAEMON_UNTRUSTED_FOUND                  0x5d0ba002
+#define R_DAEMON_INSTALLATION_ERROR               0x5d0ba003
+#define R_DAEMON_INSTALLING                       0x5d0ba004
+#define R_UNINSTALLER_INSTALL                     0x5d0ba005

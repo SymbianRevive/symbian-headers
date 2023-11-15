@@ -1,0 +1,4 @@
+#define R_FS_ACTION_SAVE_AS_CONTACT               0x2038b003
+#define R_FS_ACTION_SAVED_NOTE                    0x2038b004
+#define R_SAVEASCONTACTPLUGIN_LOCALISABLE_APP_INFO 0x2038b005
+#define R_FS_WAIT_NOTE                            0x2038b006

@@ -1,0 +1,6 @@
+#define R_TEXT_INDEX_TOPIC                        2
+#define R_TEXT_SIM_TOPIC                          3
+#define R_TEXT_STANDARD_TOPIC_LIST                4
+#define R_FILE_SETTINGS                           5
+#define R_FILE_TOPICS                             6
+#define R_FILE_UNSAVED_WINS                       7

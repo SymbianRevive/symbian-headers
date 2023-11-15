@@ -1,0 +1,17 @@
+#define R_MPX_LOCALISABLE_APP_INFO                0x417a0004
+#define R_MPX_STATUS_PANE                         0x417a0005
+#define R_MPX_SAVE_SONG_CONFIRMATION_QUERY        0x417a0006
+#define R_MPX_VIDEO_CALL_ONGOING                  0x417a0007
+#define R_MPX_OVERRIDEN_APP_NAME                  0x417a0008
+#define R_MPX_TARGETFOLDER_ATTACHMENT             0x417a0009
+#define R_MPX_TARGETFOLDER_DOWNLOADS              0x417a000a
+#define R_MPX_TARGETFOLDER_RINGTONES              0x417a000b
+#define R_MPX_SAVE_ONE_ITEM_WAIT_NOTE             0x417a000c
+#define R_MPX_SAVED_TO_COLLECTION_NOTE            0x417a000d
+#define R_MPX_SAVED_NOTE                          0x417a000e
+#define R_MPX_QUERY_CONF_SAVE_DOWNLOADED          0x417a000f
+#define R_MPX_REFRESH_AFTER_SYNC                  0x417a0010
+#define R_MPX_NO_MEMORY_INFO                      0x417a0011
+#define R_MPX_QUERY_YES_NO                        0x417a0012
+#define R_MPX_CANNOT_PROCEED_WITH_OPERATION       0x417a0013
+#define R_MUS_NOTE_CANCELLED_DUE_TO_MTP           0x417a0014

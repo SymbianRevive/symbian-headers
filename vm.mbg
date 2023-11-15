@@ -1,0 +1,18 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifVm
+	{
+	EMbmVmQgn_menu_smsvo_cxt = 16384,
+	EMbmVmQgn_menu_smsvo_cxt_mask = 16385,
+	EMbmVmQgn_prop_nrtyp_sim_contact = 16386,
+	EMbmVmQgn_prop_nrtyp_sim_contact_mask = 16387,
+	EMbmVmQgn_prop_empty = 16388,
+	EMbmVmQgn_prop_empty_mask = 16389,
+	EMbmVmQgn_prop_nrtyp_mobile = 16390,
+	EMbmVmQgn_prop_nrtyp_mobile_mask = 16391,
+	EMbmVmQgn_prop_nrtyp_video = 16392,
+	EMbmVmQgn_prop_nrtyp_video_mask = 16393,
+	EMbmVmQgn_prop_nrtyp_voip = 16394,
+	EMbmVmQgn_prop_nrtyp_voip_mask = 16395,
+	EMbmVmLastElement
+	};

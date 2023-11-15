@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifDevdiagconnectivitysuiteplugin
+	{
+	EMbmDevdiagconnectivitysuitepluginQgn_prop_cp_diag_conn = 16384,
+	EMbmDevdiagconnectivitysuitepluginQgn_prop_cp_diag_conn_mask = 16385,
+	EMbmDevdiagconnectivitysuitepluginLastElement
+	};

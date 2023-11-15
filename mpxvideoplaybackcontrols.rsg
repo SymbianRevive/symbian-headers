@@ -1,0 +1,15 @@
+#define R_MPX_VIDEO_PLAYBACK_CONTROLS_ICONS_MBM_FILE 0x427e0003
+#define R_MPX_VIDEO_PLAYBACK_CONTROLS_ICONS_MIF_FILE 0x427e0004
+#define R_MPX_VIDEO_PLAYBACK_CONTROLS_FAKE_SK_DETAILS 0x427e0005
+#define R_MPX_VIDEO_PLAYBACK_CONTROLS_FAKE_SK_BACK 0x427e0006
+#define R_MPX_LOADING                             0x427e0007
+#define R_MPX_LIVE_STREAMING                      0x427e0008
+#define R_MPX_FILENAME_HEADING                    0x427e0009
+#define R_MPX_TITLE_HEADING                       0x427e000a
+#define R_MPX_ARTIST_HEADING                      0x427e000b
+#define R_MPX_FORMAT_HEADING                      0x427e000c
+#define R_MPX_RESOLUTION_HEADING                  0x427e000d
+#define R_MPX_DURATION_HEADING                    0x427e000e
+#define R_MPX_BITRATE_HEADING                     0x427e000f
+#define R_MPX_BITRATE_UNITS                       0x427e0010
+#define R_MPX_LICENSE_HEADING                     0x427e0011

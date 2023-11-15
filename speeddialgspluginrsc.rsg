@@ -1,0 +1,6 @@
+#define R_GS_SPEEDDIAL_VIEW_CAPTION               0x5e2f4002
+#define R_GS_SPEEDDIAL_VIEW_TITLE                 0x5e2f4003
+#define R_GS_SPEEDDIAL_VIEW                       0x5e2f4004
+#define R_GS_MENUBAR_SPEEDDIAL_VIEW               0x5e2f4005
+#define R_GS_SPEEDDIAL_VIEW_MENU                  0x5e2f4006
+#define R_GS_MENU_ITEM_EXIT                       0x5e2f4007

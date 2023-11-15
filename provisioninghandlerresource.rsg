@@ -1,0 +1,4 @@
+#define R_FROM_SERVICEPROVIDER                    1
+#define R_TEXT_BOOTSTRAPPED                       2
+#define R_TEXT_AUTHENTICATION_FAILED              3
+#define R_TEXT_BOOTSTRAP_EXISTS                   4

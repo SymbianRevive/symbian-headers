@@ -1,0 +1,6 @@
+#define R_SET_SEC_CODE_WARNING_ATTEMPTS_LEFT      0x5bf89003
+#define R_SET_SEC_CODE_AGING                      0x5bf89004
+#define R_SET_SEC_CODE_CHANGE_DAY                 0x5bf89005
+#define R_SET_SEC_CODE_CHANGE_HOURS               0x5bf89006
+#define R_SET_SEC_CODE_CHANGE_TIMES               0x5bf89007
+#define R_SET_SEC_CODE_CHANGE_ONES                0x5bf89008

@@ -1,0 +1,6 @@
+#define R_WPA_EAP_PLUGIN_MENUBAR                  0x1ae57003
+#define R_WPA_EAP_PLUGIN_MENU                     0x1ae57004
+#define R_WPA_EAP_CONFIG_SOFTKEYS_OPTIONS_BACK_CONFIGURE 0x1ae57005
+#define R_WPA_EAP_CONFIG_SOFTKEYS_OPTIONS_BACK_ENABLE 0x1ae57006
+#define R_WPA_EAP_CONFIG_DIALOG                   0x1ae57007
+#define R_INFO_CANNOT_DISABLE                     0x1ae57008

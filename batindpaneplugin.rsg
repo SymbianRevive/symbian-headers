@@ -1,0 +1,5 @@
+#define R_QTN_DEACTIVATE_POWER_SAVING             0xb527002
+#define R_QTN_ACTIVATE_POWER_SAVING               0xb527003
+#define R_QTN_BATTERY_LOW_PREVIEW_POPUP           0xb527004
+#define R_QTN_BATTERY_STATUS_POPUP                0xb527005
+#define R_QTN_BATTERY_CHARGING_POPUP              0xb527006

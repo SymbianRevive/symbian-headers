@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifGsdevicemanagementplugin
+	{
+	EMbmGsdevicemanagementpluginQgn_prop_cp_dev_man = 16384,
+	EMbmGsdevicemanagementpluginQgn_prop_cp_dev_man_mask = 16385,
+	EMbmGsdevicemanagementpluginLastElement
+	};

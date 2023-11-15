@@ -1,0 +1,30 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMpxscreensaverplugin
+	{
+	EMbmMpxscreensaverpluginQgn_graf_mup_npv_icon_pause = 16384,
+	EMbmMpxscreensaverpluginQgn_graf_mup_npv_icon_pause_mask = 16385,
+	EMbmMpxscreensaverpluginQgn_graf_mup_npv_icon_play = 16386,
+	EMbmMpxscreensaverpluginQgn_graf_mup_npv_icon_play_mask = 16387,
+	EMbmMpxscreensaverpluginQgn_stat_im_uni = 16388,
+	EMbmMpxscreensaverpluginQgn_stat_im_uni_mask = 16389,
+	EMbmMpxscreensaverpluginQgn_stat_keyguard = 16390,
+	EMbmMpxscreensaverpluginQgn_stat_keyguard_mask = 16391,
+	EMbmMpxscreensaverpluginQgn_stat_message = 16392,
+	EMbmMpxscreensaverpluginQgn_stat_message_mask = 16393,
+	EMbmMpxscreensaverpluginQgn_stat_message_mail = 16394,
+	EMbmMpxscreensaverpluginQgn_stat_message_mail_mask = 16395,
+	EMbmMpxscreensaverpluginQgn_stat_missed_calls_uni = 16396,
+	EMbmMpxscreensaverpluginQgn_stat_missed_calls_uni_mask = 16397,
+	EMbmMpxscreensaverpluginQgn_stat_vm0 = 16398,
+	EMbmMpxscreensaverpluginQgn_stat_vm0_mask = 16399,
+	EMbmMpxscreensaverpluginQgn_graf_mup_ss_bgnd_01 = 16400,
+	EMbmMpxscreensaverpluginQgn_graf_mup_ss_bgnd_01_mask = 16401,
+	EMbmMpxscreensaverpluginQgn_graf_mup_ss_bgnd_02 = 16402,
+	EMbmMpxscreensaverpluginQgn_graf_mup_ss_bgnd_02_mask = 16403,
+	EMbmMpxscreensaverpluginQgn_graf_mup_ss_bgnd_03 = 16404,
+	EMbmMpxscreensaverpluginQgn_graf_mup_ss_bgnd_03_mask = 16405,
+	EMbmMpxscreensaverpluginQgn_graf_mup_ss_bgnd_04 = 16406,
+	EMbmMpxscreensaverpluginQgn_graf_mup_ss_bgnd_04_mask = 16407,
+	EMbmMpxscreensaverpluginLastElement
+	};

@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifWifiprot
+	{
+	EMbmWifiprotQgn_prop_wlan_bearer = 16384,
+	EMbmWifiprotQgn_prop_wlan_bearer_mask = 16385,
+	EMbmWifiprotLastElement
+	};

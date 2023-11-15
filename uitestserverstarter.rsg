@@ -1,0 +1,5 @@
+#define R_DEFAULT_DOCUMENT_NAME                   0x66a61002
+#define R_MENUBAR                                 0x66a61004
+#define R_MENU                                    0x66a61005
+#define R_CAPTION_STRING                          0x66a61006
+#define R_LOCALISABLE_APP_INFO                    0x66a61007

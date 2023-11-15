@@ -1,0 +1,2 @@
+#define R_NOTEPAD_DATAFILE_NAME                   1
+#define NSML_NOTEPAD_DATA_STORE_FORMAT            2

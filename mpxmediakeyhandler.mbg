@@ -1,0 +1,18 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMpxmediakeyhandler
+	{
+	EMbmMpxmediakeyhandlerQgn_graf_mup_status_pop_pause = 16384,
+	EMbmMpxmediakeyhandlerQgn_graf_mup_status_pop_pause_mask = 16385,
+	EMbmMpxmediakeyhandlerQgn_graf_mup_status_pop_play = 16386,
+	EMbmMpxmediakeyhandlerQgn_graf_mup_status_pop_play_mask = 16387,
+	EMbmMpxmediakeyhandlerQgn_indi_mup_forw = 16388,
+	EMbmMpxmediakeyhandlerQgn_indi_mup_forw_mask = 16389,
+	EMbmMpxmediakeyhandlerQgn_indi_mup_rew = 16390,
+	EMbmMpxmediakeyhandlerQgn_indi_mup_rew_mask = 16391,
+	EMbmMpxmediakeyhandlerQgn_indi_mup_pause = 16392,
+	EMbmMpxmediakeyhandlerQgn_indi_mup_pause_mask = 16393,
+	EMbmMpxmediakeyhandlerQgn_indi_mup_play = 16394,
+	EMbmMpxmediakeyhandlerQgn_indi_mup_play_mask = 16395,
+	EMbmMpxmediakeyhandlerLastElement
+	};

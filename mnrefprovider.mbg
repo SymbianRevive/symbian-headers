@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMnrefprovider
+	{
+	EMbmMnrefproviderDefault_lm = 16384,
+	EMbmMnrefproviderDefault_lm_mask = 16385,
+	EMbmMnrefproviderLastElement
+	};

@@ -1,0 +1,12 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifNsmldssync
+	{
+	EMbmNsmldssyncQgn_prop_sml_http = 16384,
+	EMbmNsmldssyncQgn_prop_sml_http_mask = 16385,
+	EMbmNsmldssyncQgn_prop_sml_http_off = 16386,
+	EMbmNsmldssyncQgn_prop_sml_http_off_mask = 16387,
+	EMbmNsmldssyncQgn_prop_cp_conn_datasync = 16388,
+	EMbmNsmldssyncQgn_prop_cp_conn_datasync_mask = 16389,
+	EMbmNsmldssyncLastElement
+	};

@@ -1,0 +1,10 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifGscallplugin
+	{
+	EMbmGscallpluginQgn_prop_set_call_sub = 16384,
+	EMbmGscallpluginQgn_prop_set_call_sub_mask = 16385,
+	EMbmGscallpluginQgn_prop_set_call_tab4 = 16386,
+	EMbmGscallpluginQgn_prop_set_call_tab4_mask = 16387,
+	EMbmGscallpluginLastElement
+	};

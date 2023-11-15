@@ -1,0 +1,6 @@
+#define R_SCP_CODE_QUERY                          0x5bf22004
+#define R_SCPDIALOG_OK_TEXT                       0x5bf22005
+#define R_SCPDIALOG_EMERGENCYCALLS_ONLY           0x5bf22006
+#define R_SET_SEC_CODE                            0x5bf22007
+#define R_SET_SEC_CODE_SETTING_QUERY_SERVER       0x5bf22008
+#define R_DIALOG_WARNING                          0x5bf22009

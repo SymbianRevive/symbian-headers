@@ -1,0 +1,10 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifAutolock
+	{
+	EMbmAutolockQgn_graf_phone_locked = 16384,
+	EMbmAutolockQgn_graf_phone_locked_mask = 16385,
+	EMbmAutolockQgn_indi_button_end_call = 16386,
+	EMbmAutolockQgn_indi_button_end_call_mask = 16387,
+	EMbmAutolockLastElement
+	};

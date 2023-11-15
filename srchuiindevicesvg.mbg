@@ -1,0 +1,12 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifSrchuiindevicesvg
+	{
+	EMbmSrchuiindevicesvgQgn_indi_find_glass_advanced = 16384,
+	EMbmSrchuiindevicesvgQgn_indi_find_glass_advanced_mask = 16385,
+	EMbmSrchuiindevicesvgQgn_indi_find_glass = 16386,
+	EMbmSrchuiindevicesvgQgn_indi_find_glass_mask = 16387,
+	EMbmSrchuiindevicesvgQgn_prop_search_indevice = 16388,
+	EMbmSrchuiindevicesvgQgn_prop_search_indevice_mask = 16389,
+	EMbmSrchuiindevicesvgLastElement
+	};

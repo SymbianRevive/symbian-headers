@@ -1,0 +1,9 @@
+#define R_PNPPROVISIONING_LOCALISABLE_APP_INFO    0x4f7ce004
+#define R_PNPPROVISIONING_HOTKEYS                 0x4f7ce005
+#define R_TEXT_QUERY                              0x4f7ce006
+#define R_TEXT_SET_DEFAULT                        0x4f7ce007
+#define R_TEXT_WAIT_SAVING                        0x4f7ce008
+#define R_TEXT_SAVED                              0x4f7ce009
+#define R_TEXT_CANNOT_SAVE                        0x4f7ce00a
+#define R_TEXT_PLUGIN_CAPTION                     0x4f7ce00b
+#define R_TEXT_EMAIL_SERVICE_NOTE                 0x4f7ce00c

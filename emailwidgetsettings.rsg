@@ -1,0 +1,4 @@
+#define R_DEFAULT_DOCUMENT_NAME                   0x1a7f4002
+#define R_CAPTION_STRING                          0x1a7f4004
+#define R_EMAILWIDGETSETTINGS_LOC_APP_INFO        0x1a7f4005
+#define R_EMAILWIDGETSETTINGS_CREATE_NEW_MAILBOX  0x1a7f4006

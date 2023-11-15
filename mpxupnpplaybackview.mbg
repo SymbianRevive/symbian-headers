@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMpxupnpplaybackview
+	{
+	EMbmMpxupnpplaybackviewQgn_graf_mup_icon_upnp_remote = 16384,
+	EMbmMpxupnpplaybackviewQgn_graf_mup_icon_upnp_remote_mask = 16385,
+	EMbmMpxupnpplaybackviewLastElement
+	};

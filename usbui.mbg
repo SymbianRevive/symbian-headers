@@ -1,0 +1,20 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifUsbui
+	{
+	EMbmUsbuiQgn_prop_set_apps_usb = 16384,
+	EMbmUsbuiQgn_prop_set_apps_usb_mask = 16385,
+	EMbmUsbuiQgn_prop_set_apps_usb_off = 16386,
+	EMbmUsbuiQgn_prop_set_apps_usb_off_mask = 16387,
+	EMbmUsbuiQgn_prop_usb_memc_large = 16388,
+	EMbmUsbuiQgn_prop_usb_memc_large_mask = 16389,
+	EMbmUsbuiQgn_prop_usb_mtp = 16390,
+	EMbmUsbuiQgn_prop_usb_mtp_mask = 16391,
+	EMbmUsbuiQgn_prop_usb_pcsuite = 16392,
+	EMbmUsbuiQgn_prop_usb_pcsuite_mask = 16393,
+	EMbmUsbuiQgn_prop_usb_modem = 16394,
+	EMbmUsbuiQgn_prop_usb_modem_mask = 16395,
+	EMbmUsbuiQgn_prop_usb_print = 16396,
+	EMbmUsbuiQgn_prop_usb_print_mask = 16397,
+	EMbmUsbuiLastElement
+	};

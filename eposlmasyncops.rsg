@@ -1,0 +1,10 @@
+#define R_POS_LM_LOCAL_ADD_CAT_TO_LMS_OP          2
+#define R_POS_LM_LOCAL_REMOVE_LMS_OP              3
+#define R_POS_LM_LOCAL_REMOVE_ALL_LMS_OP          4
+#define R_POS_LM_LOCAL_REMOVE_CATS_OP             5
+#define R_POS_LM_LOCAL_REMOVE_CAT_FROM_LMS_OP     6
+#define R_POS_LM_LOCAL_READ_PARTIAL_LMS_OP        7
+#define R_POS_LM_LOCAL_RESET_GLOBAL_CATEGORIES_OP 8
+#define R_POS_LM_LOCAL_EXPORT_LMS_OP              9
+#define R_POS_LM_LOCAL_IMPORT_LMS_OP              10
+#define R_POS_LM_LOCAL_GET_SORTED_IDS_OP          11

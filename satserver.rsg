@@ -1,0 +1,2 @@
+#define R_QTN_SAT_LOG_TITLE                       0x5b9e1002
+#define R_QTN_SAT_CMCC_TITLE                      0x5b9e1003

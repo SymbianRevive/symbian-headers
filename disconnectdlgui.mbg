@@ -1,0 +1,12 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifDisconnectdlgui
+	{
+	EMbmDisconnectdlguiQgn_menu_cmon_cxt = 16384,
+	EMbmDisconnectdlguiQgn_menu_cmon_cxt_mask = 16385,
+	EMbmDisconnectdlguiQgn_menu_fax_lst = 16386,
+	EMbmDisconnectdlguiQgn_menu_fax_lst_mask = 16387,
+	EMbmDisconnectdlguiQgn_prop_netw_shared_conn = 16388,
+	EMbmDisconnectdlguiQgn_prop_netw_shared_conn_mask = 16389,
+	EMbmDisconnectdlguiLastElement
+	};

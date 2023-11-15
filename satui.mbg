@@ -1,0 +1,12 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifSatui
+	{
+	EMbmSatuiQgn_menu_sat_cxt = 16384,
+	EMbmSatuiQgn_menu_sat_cxt_mask = 16385,
+	EMbmSatuiQgn_menu_sat_lst = 16386,
+	EMbmSatuiQgn_menu_sat_lst_mask = 16387,
+	EMbmSatuiQgn_note_sim = 16388,
+	EMbmSatuiQgn_note_sim_mask = 16389,
+	EMbmSatuiLastElement
+	};

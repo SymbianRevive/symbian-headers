@@ -1,0 +1,5 @@
+#define R_MPX_AVSRC_NAME_TEXT                     0x42d49003
+#define R_MPX_VOLUME_POPUP_TEXT                   0x42d49004
+#define R_MPX_TIME_DURAT_HHHMMSS_WITH_ZERO        0x42d49005
+#define R_MPX_MEDIA_KEY_NOT_SUPPORTED             0x42d49006
+#define R_MPX_VOLUME_KEYS_NOT_SUPPORTED           0x42d49007

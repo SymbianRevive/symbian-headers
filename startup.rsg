@@ -1,0 +1,8 @@
+#define R_STATUS_PANE                             0x5f014004
+#define R_SU_SELFTEST_FAILED_NOTE_TEXT            0x5f014005
+#define R_QTN_SU_SELECT_COUNTRY                   0x5f014006
+#define R_QTN_SU_SELECT_CITY                      0x5f014007
+#define R_STARTUP_DATE_SETTING_QUERY              0x5f014008
+#define R_STARTUP_DATE_SETTING_QUERY_NOBACK       0x5f014009
+#define R_STARTUP_TIME_SETTING_QUERY              0x5f01400a
+#define R_STARTUP_OFFLINE_MODE_QUERY              0x5f01400b

@@ -1,0 +1,11 @@
+#define R_GS_MENUBAR_CHANGE_EXIT                  0x2ddee002
+#define R_GS_MENUBAR_OPEN_EXIT                    0x2ddee003
+#define R_GS_MENU_ITEM_OPEN                       0x2ddee004
+#define R_GS_MENU_ITEM_EXIT                       0x2ddee005
+#define R_GS_MENU_ITEM_CHANGE                     0x2ddee006
+#define R_GS_MENU_ITEM_HELP                       0x2ddee007
+#define R_SETTING_LISTBOX                         0x2ddee008
+#define R_GS_CBA_EXIT                             0x2ddee009
+#define R_GS_INSTALLATIONS_VIEW                   0x2ddee00a
+#define R_GS_INSTALLATIONS_VIEW_TITLE             0x2ddee00b
+#define R_GS_INSTALLATIONS_VIEW_CAPTION           0x2ddee00c

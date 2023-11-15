@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifGsprofilesplugin
+	{
+	EMbmGsprofilespluginQgn_prop_cp_perso_prof = 16384,
+	EMbmGsprofilespluginQgn_prop_cp_perso_prof_mask = 16385,
+	EMbmGsprofilespluginLastElement
+	};

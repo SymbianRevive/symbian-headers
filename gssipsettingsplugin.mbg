@@ -1,0 +1,12 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifGssipsettingsplugin
+	{
+	EMbmGssipsettingspluginQgn_prop_set_conn_sip = 16384,
+	EMbmGssipsettingspluginQgn_prop_set_conn_sip_mask = 16385,
+	EMbmGssipsettingspluginQgn_prop_sip_locked = 16386,
+	EMbmGssipsettingspluginQgn_prop_sip_locked_mask = 16387,
+	EMbmGssipsettingspluginEmpty13x13 = 16388,
+	EMbmGssipsettingspluginEmpty13x13_mask = 16389,
+	EMbmGssipsettingspluginLastElement
+	};

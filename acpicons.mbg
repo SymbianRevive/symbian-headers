@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifAcpicons
+	{
+	EMbmAcpiconsQgn_prop_set_conn_voip = 16384,
+	EMbmAcpiconsQgn_prop_set_conn_voip_mask = 16385,
+	EMbmAcpiconsLastElement
+	};

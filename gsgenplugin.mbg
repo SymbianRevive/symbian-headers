@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifGsgenplugin
+	{
+	EMbmGsgenpluginQgn_prop_cp_dev = 16384,
+	EMbmGsgenpluginQgn_prop_cp_dev_mask = 16385,
+	EMbmGsgenpluginLastElement
+	};

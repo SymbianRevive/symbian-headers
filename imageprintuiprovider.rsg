@@ -1,0 +1,2 @@
+#define R_AIW_PRINTING_PROVIDER_MENU              0x9022002
+#define R_USB_INFO_APP_IN_USE                     0x9022003

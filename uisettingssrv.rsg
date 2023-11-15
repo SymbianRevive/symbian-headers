@@ -1,0 +1,4 @@
+#define R_UISS_HOTKEYS                            0x66a54004
+#define R_UISS_MENUBAR                            0x66a54005
+#define R_UISS_MENU                               0x66a54006
+#define R_UISS_LOCALISABLE_APP_INFO               0x66a54007

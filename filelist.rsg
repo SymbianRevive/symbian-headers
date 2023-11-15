@@ -1,0 +1,17 @@
+#define R_FLD_QTN_PROFILES_ERROR_NOT_ENOUGH_MEMORY 0x1effc002
+#define R_FLD_QTN_FILE_FORMAT_ERROR               0x1effc003
+#define R_FLD_QTN_PROFILES_DOWNLOAD_TONES         0x1effc004
+#define R_FLD_QTN_DRM_PREV_RIGHTS_USE             0x1effc005
+#define R_FLD_QTN_DRM_PREV_RIGHTS_SET             0x1effc006
+#define R_FLD_QTN_PROFILES_INFO_TONE_NO_DRM       0x1effc007
+#define R_FLD_QTN_DRM_PROF_RIGHTS_MISSING         0x1effc008
+#define R_FLD_QTN_TEXT_NOT_ALLOWED                0x1effc009
+#define R_FLD_QTN_PROFILES_INFO_TONE_DRM_PROTECTED 0x1effc00a
+#define R_FLD_QTN_DRM_MGR_DET_EXP                 0x1effc00b
+#define R_FLD_QTN_TEXT_SOFTKEY_PREVIEW            0x1effc00c
+#define R_FLD_QTN_TEXT_SOFTKEY_PREVIEW_SELECT     0x1effc00d
+#define R_FLD_QTN_TEXT_SOFTKEY_BACK               0x1effc00e
+#define R_FLD_QTN_TEXT_SOFTKEY_CANCEL             0x1effc00f
+#define R_FLD_WAIT_NOTE                           0x1effc010
+#define R_FLD_DIRECTORIES                         0x1effc011
+#define R_FLD_LIST_MODEL                          0x1effc012

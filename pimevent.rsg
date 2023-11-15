@@ -1,0 +1,7 @@
+#define R_PIM_EVENT_LISTS                         0x4e935002
+#define R_PIM_APPOINTMENT_FIELDS                  0x4e935003
+#define R_PIM_MEMO_FIELDS                         0x4e935004
+#define R_PIM_ANNIVERSARY_FIELDS                  0x4e935005
+#define R_PIM_APPOINTMENT_LISTNAME                0x4e935006
+#define R_PIM_MEMO_LISTNAME                       0x4e935007
+#define R_PIM_ANNIVERSARY_LISTNAME                0x4e935008

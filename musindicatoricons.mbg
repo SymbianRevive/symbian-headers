@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMusindicatoricons
+	{
+	EMbmMusindicatoriconsQgn_mus_ready = 16384,
+	EMbmMusindicatoriconsQgn_mus_ready_mask = 16385,
+	EMbmMusindicatoriconsLastElement
+	};

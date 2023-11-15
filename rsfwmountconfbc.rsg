@@ -1,0 +1,12 @@
+#define R_SM_SAVE                                 0x3f04b004
+#define R_SM_SUCCESS_MOUNT                        0x3f04b005
+#define R_SM_DEFAULT_DRIVE_NAME                   0x3f04b006
+#define R_SM_TOO_MANY_REMOTE_DRIVES               0x3f04b007
+#define R_NAME_QUERY                              0x3f04b008
+#define R_CONFIRMATION_QUERY                      0x3f04b009
+#define R_FILE_NAME_QUERY                         0x3f04b00a
+#define R_SM_TITLE_MOUNT_CONF                     0x3f04b00b
+#define R_STR_SETTING_ITEM_DRIVE_NAME             0x3f04b00c
+#define R_STR_NAME_RENAME_QUERY                   0x3f04b00d
+#define R_STR_NEW_NAME_PROMPT                     0x3f04b00e
+#define R_STR_SAVING_WAIT_NOTE                    0x3f04b00f

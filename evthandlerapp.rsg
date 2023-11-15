@@ -1,0 +1,2 @@
+#define R_EVTHND_LOCALISABLE_APP_INFO             0x1bffb004
+#define R_EVTHANDLERAPP_HOTKEYS                   0x1bffb005

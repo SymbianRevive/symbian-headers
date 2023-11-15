@@ -1,0 +1,2 @@
+#define R_NO_SERVICE_AVAILABLE                    0x11eca002
+#define R_PHONE_VOIP_CALL_TYPE_QUERY              0x11eca003

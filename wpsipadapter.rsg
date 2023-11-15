@@ -1,0 +1,3 @@
+#define R_QTN_SM_HEAD_SIP                         1
+#define R_QTN_SM_DEFAULT_NAME_SIP                 2
+#define R_QTN_SM_PROVIDER                         3

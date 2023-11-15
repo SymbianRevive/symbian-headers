@@ -1,0 +1,5 @@
+#define DPCONFIG                                  1
+#define FOLDERCONFIG                              2
+#define DRIVES                                    3
+#define FORMATS                                   4
+#define EXTNPLUGINUIDS                            5

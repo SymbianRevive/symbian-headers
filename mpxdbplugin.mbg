@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMpxdbplugin
+	{
+	EMbmMpxdbpluginQgn_graf_mup_dlst_music = 16384,
+	EMbmMpxdbpluginQgn_graf_mup_dlst_music_mask = 16385,
+	EMbmMpxdbpluginLastElement
+	};

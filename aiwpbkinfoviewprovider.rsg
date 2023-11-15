@@ -1,0 +1,2 @@
+#define R_PBKINFOVIEWPROVIDER_MENU                0x84be002
+#define R_PBKINFOVIEWPROVIDER_SUBMENU             0x84be003

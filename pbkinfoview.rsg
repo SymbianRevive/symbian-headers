@@ -1,0 +1,11 @@
+#define R_INFOVIEW_DIALOG_TITLE                   0x2dc91002
+#define R_INFOVIEW_POPUP_CONTACT                  0x2dc91003
+#define R_INFOVIEW_POPUP_GENERAL                  0x2dc91004
+#define R_INFOVIEW_EMPTY_VIEW                     0x2dc91005
+#define R_INFOVIEW_EMPTY_VIEW_SIM_CONTACT         0x2dc91006
+#define R_TEXT_CALL_IN_PROGRESS                   0x2dc91007
+#define R_INFOVIEW_APP_LISTBOX                    0x2dc91008
+#define R_INFOVIEW_DIALOG                         0x2dc91009
+#define R_INFOVIEW_DIALOG_MENU                    0x2dc9100a
+#define R_INFOVIEW_DIALOG_MENU_PANE               0x2dc9100b
+#define R_SOFTKEYS_OPTIONS_BACK__PLAY             0x2dc9100c

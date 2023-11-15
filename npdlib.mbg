@@ -1,0 +1,16 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifNpdlib
+	{
+	EMbmNpdlibQsn_fr_notepad_side_t = 16384,
+	EMbmNpdlibQsn_fr_notepad_side_t_mask = 16385,
+	EMbmNpdlibQsn_fr_notepad_cont_side_t = 16386,
+	EMbmNpdlibQsn_fr_notepad_cont_side_t_mask = 16387,
+	EMbmNpdlibQgn_prop_mce_template = 16388,
+	EMbmNpdlibQgn_prop_mce_template_mask = 16389,
+	EMbmNpdlibQsn_fr_notepad_corner_tl = 16390,
+	EMbmNpdlibQsn_fr_notepad_corner_tl_mask = 16391,
+	EMbmNpdlibQsn_fr_notepad_corner_tr = 16392,
+	EMbmNpdlibQsn_fr_notepad_corner_tr_mask = 16393,
+	EMbmNpdlibLastElement
+	};

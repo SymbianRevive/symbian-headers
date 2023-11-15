@@ -1,0 +1,24 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifActivepalette2graphics
+	{
+	EMbmActivepalette2graphicsQgn_graf_cam4_tb_top = 16384,
+	EMbmActivepalette2graphicsQgn_graf_cam4_tb_top_mask = 16385,
+	EMbmActivepalette2graphicsQgn_graf_cam4_tb_arrow_down = 16386,
+	EMbmActivepalette2graphicsQgn_graf_cam4_tb_arrow_down_mask = 16387,
+	EMbmActivepalette2graphicsQgn_graf_cam4_tb_arrow_up = 16388,
+	EMbmActivepalette2graphicsQgn_graf_cam4_tb_arrow_up_mask = 16389,
+	EMbmActivepalette2graphicsQgn_graf_cam4_tb_body = 16390,
+	EMbmActivepalette2graphicsQgn_graf_cam4_tb_body_mask = 16391,
+	EMbmActivepalette2graphicsQgn_graf_cam4_tb_bottom = 16392,
+	EMbmActivepalette2graphicsQgn_graf_cam4_tb_bottom_mask = 16393,
+	EMbmActivepalette2graphicsQgn_graf_cam4_tb_focus = 16394,
+	EMbmActivepalette2graphicsQgn_graf_cam4_tb_focus_mask = 16395,
+	EMbmActivepalette2graphicsQgn_graf_cam4_tb_tooltip_body = 16396,
+	EMbmActivepalette2graphicsQgn_graf_cam4_tb_tooltip_body_mask = 16397,
+	EMbmActivepalette2graphicsQgn_graf_cam4_tb_tooltip_end = 16398,
+	EMbmActivepalette2graphicsQgn_graf_cam4_tb_tooltip_end_mask = 16399,
+	EMbmActivepalette2graphicsQgn_graf_cam4_tb_gap = 16400,
+	EMbmActivepalette2graphicsQgn_graf_cam4_tb_gap_mask = 16401,
+	EMbmActivepalette2graphicsLastElement
+	};

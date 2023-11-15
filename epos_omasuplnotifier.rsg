@@ -1,0 +1,6 @@
+#define R_LOC_SUPL_CONNECTION                     0x5f22f002
+#define R_LOC_SUPL_ROAMING_CONNECTION             0x5f22f003
+#define R_LOC_SUPL_SETTINGS_LINK                  0x5f22f004
+#define R_LOC_SUPL_TIMEOUT_NO_CONNECTION          0x5f22f005
+#define R_SUPL_CONFIRM_QUERY                      0x5f22f006
+#define R_SUPL_TIMEOUT_QUERY                      0x5f22f007

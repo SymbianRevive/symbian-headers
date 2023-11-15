@@ -1,0 +1,8 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifMpxembeddedplaybackview
+	{
+	EMbmMpxembeddedplaybackviewQgn_indi_mup_default_album_pcast = 16384,
+	EMbmMpxembeddedplaybackviewQgn_indi_mup_default_album_pcast_mask = 16385,
+	EMbmMpxembeddedplaybackviewLastElement
+	};

@@ -1,0 +1,24 @@
+
+/* This file has been generated, DO NOT MODIFY. */
+enum TMifDrmrightsmanager
+	{
+	EMbmDrmrightsmanagerQgn_prop_drm_rights_valid = 16384,
+	EMbmDrmrightsmanagerQgn_prop_drm_rights_valid_mask = 16385,
+	EMbmDrmrightsmanagerQgn_prop_drm_rights_exp = 16386,
+	EMbmDrmrightsmanagerQgn_prop_drm_rights_exp_mask = 16387,
+	EMbmDrmrightsmanagerQgn_prop_drm_rights_group = 16388,
+	EMbmDrmrightsmanagerQgn_prop_drm_rights_group_mask = 16389,
+	EMbmDrmrightsmanagerQgn_prop_drm_valid_large = 16390,
+	EMbmDrmrightsmanagerQgn_prop_drm_valid_large_mask = 16391,
+	EMbmDrmrightsmanagerQgn_prop_drm_exp_large = 16392,
+	EMbmDrmrightsmanagerQgn_prop_drm_exp_large_mask = 16393,
+	EMbmDrmrightsmanagerQgn_prop_drm_removed_large = 16394,
+	EMbmDrmrightsmanagerQgn_prop_drm_removed_large_mask = 16395,
+	EMbmDrmrightsmanagerQgn_prop_drm_rights_valid_tab3 = 16396,
+	EMbmDrmrightsmanagerQgn_prop_drm_rights_valid_tab3_mask = 16397,
+	EMbmDrmrightsmanagerQgn_prop_drm_rights_invalid_tab3 = 16398,
+	EMbmDrmrightsmanagerQgn_prop_drm_rights_invalid_tab3_mask = 16399,
+	EMbmDrmrightsmanagerQgn_prop_drm_removed_tab3 = 16400,
+	EMbmDrmrightsmanagerQgn_prop_drm_removed_tab3_mask = 16401,
+	EMbmDrmrightsmanagerLastElement
+	};
